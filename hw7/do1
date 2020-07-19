@@ -1,0 +1,22 @@
+taski 10
+taskn -r 10
+taskq -heap
+taska 100
+taskq -heap
+taska 1000
+taskq -heap
+taska 1000 -r 10
+taskq -heap
+taskr -r 1
+taskq -heap
+taskr -r 5
+taskq -heap
+taskn -r 10
+taskq -heap
+taskn -n ss 123
+taskn -n ss 321
+taskq -hash
+taskr -r 5
+taskq -heap
+taskq -hash
+q -f

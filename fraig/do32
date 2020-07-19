@@ -1,0 +1,69 @@
+cirr ./tests.fraig/opt01.aag 
+cirsw
+ciropt
+cirsw
+ciropt
+cirp -n
+cirp
+cirp -fl
+cirr ./tests.fraig/opt02.aag -r
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirp -n
+cirp
+cirp -fl
+cirr ./tests.fraig/opt03.aag -r
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirp -n
+cirp
+cirp -fl
+cirr ./tests.fraig/opt04.aag -r
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirp -n
+cirp
+cirp -fl
+cirr ./tests.fraig/opt05.aag -r
+ciropt
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirp -n
+cirp
+cirp -fl
+cirr ./tests.fraig/opt06.aag -r
+ciropt
+cirsw
+cirstrash
+cirsw
+ciropt
+cirp -n
+cirp
+cirp -fl
+cirr ./tests.fraig/opt07.aag -r
+ciropt
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirp -n
+cirp
+cirp -fl
+q -f
+
+
+
+

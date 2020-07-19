@@ -1,0 +1,29 @@
+adta -s dan
+adtp
+adta -s dano
+adtp
+adta -s da
+adtp
+adta -s dan
+adtp
+adta -s dana
+adtp
+adtd -s dani
+adtp
+adtd -s da
+adtp
+adts
+adtp
+adta -r 30
+adtp
+adtd -front 5
+adtp
+adtd -back 5
+adtp
+adtd -r 5
+adtp
+adtd -all
+adtp
+adta -r 30
+adtp
+q -f

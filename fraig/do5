@@ -1,0 +1,79 @@
+cirr ./tests.fraig/sim15.aag 
+cirp -n
+cirsw
+ciropt
+cirstrash
+cirsim -r
+cirg 1
+cirg 2
+cirg 3
+cirg 4
+cirg 5
+cirg 7
+cirg 9
+cirg 8
+cirg 10
+cirg 6
+cirfraig
+cirsw
+ciropt
+cirstrash
+cirsim -r
+cirg 1
+cirg 2
+cirg 3
+cirg 4
+cirg 5
+cirg 7
+cirg 9
+cirg 8
+cirg 10
+cirg 6
+cirfraig
+cirp -n
+cirp
+q -f
+cirr ./tests.fraig/sim07.aag 
+cirsim -f pattern.06
+cirg 1
+cirg 6
+cirg 9439
+cirg 9438
+cirg 9440
+cirg 9441
+cirg 9442
+cirg 9443
+cirr ./tests.fraig/sim02.aag 
+cirp -n
+cirsim -f pattern.02
+cirg 1
+cirg 2
+cirg 3
+cirg 4
+cirg 5
+cirg 6
+cirg 7
+cirg 9
+cirg 8
+cirg 10
+cirg 6
+
+cirr ./tests.fraig/sim10.aag 
+cirsim -f pattern.10 -o ans.10
+cirg 0
+cirg 1
+cirg 6
+cirg 7
+cirg 8
+cirg 9
+cirg 10
+cirr ./tests.fraig/sim07.aag -r
+cirsim -f pattern.06
+cirg 1
+cirg 6
+cirg 9439
+cirg 9438
+cirg 9440
+cirg 9441
+cirg 9442
+cirg 9443

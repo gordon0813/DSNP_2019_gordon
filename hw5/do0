@@ -1,0 +1,87 @@
+adta -s d
+adta -s a
+adta -s e
+adta -s n
+adta -s z
+adta -s s
+adta -s cc
+adta -s ci
+adta -s co
+adta -s as
+adta -s dd
+adtp
+adtd -f 5
+adtp
+adtd -back 5
+adtp
+adtd -a
+
+adtp
+adta -r 30
+adtp 
+adta -s ac
+adta -s ed
+adta -s nvf
+adta -s bc
+adta -s sx
+adta -s ccd
+adta -s cix
+adta -s coa
+adta -s asz
+adtp
+adtp -r
+Adtq cc
+Adtq sxs
+Adtq coa
+Adtq nvf
+adtp
+adtd -f 1
+adtd -s cc
+adtp
+adtd -s ccd
+adtp
+adtd -b 1
+adtp
+adtd -r 5
+adtp
+adta -r 200
+adtp
+adtd -r 100
+adtp
+adta -r 10000
+adtp
+adtp 9999
+adtp 10000
+adtp 0
+adtp -1
+adta -s ric
+adtq ric
+adtsort
+adtq ric
+
+adtd -a
+adta -s hc
+adta -s ed
+adta -s nvf
+adta -s bc
+adta -s sx
+adta -s ccd
+adtp
+adta -s fix
+adta -s coa
+adta -s zsz
+adta -s hc
+adta -s ed
+adta -s nvf
+adta -s lc
+adta -s sx
+adta -s hcd
+adta -s fix
+adta -s ioax
+adta -s zsz
+adts
+adtp
+q -f
+
+
+

@@ -1,0 +1,110 @@
+adt> adta -s dan
+
+adt> adtp
+=== ADT (dlist) ===
+[  0] = dan   
+
+adt> adta -s dano
+
+adt> adtp
+=== ADT (dlist) ===
+[  0] = dan   [  1] = dano   
+
+adt> adta -s da
+
+adt> adtp
+=== ADT (dlist) ===
+[  0] = dan   [  1] = dano   [  2] =  da   
+
+adt> adta -s dan
+
+adt> adtp
+=== ADT (dlist) ===
+[  0] = dan   [  1] = dano   [  2] =  da   [  3] = dan   
+
+
+adt> adta -s dana
+
+adt> adtp
+=== ADT (dlist) ===
+[  0] = dan   [  1] = dano   [  2] =  da   [  3] = dan   
+[  4] = dana   
+
+adt> adtd -s dani
+
+adt> adtp
+=== ADT (dlist) ===
+[  0] = dan   [  1] = dano   [  2] =  da   [  3] = dan   
+[  4] = dana   
+
+adt> adtd -s da
+
+adt> adtp
+=== ADT (dlist) ===
+[  0] = dan   [  1] = dano   [  2] = dan   [  3] = dana   
+
+
+adt> adts
+
+adt> adtp
+=== ADT (dlist) ===
+[  0] = dan   [  1] = dan   [  2] = dana   [  3] = dano   
+
+
+adt> adta -r 30
+
+adt> adtp
+=== ADT (dlist) ===
+[  0] = dan   [  1] = dan   [  2] = dana   [  3] = dano   
+[  4] = mqjny   [  5] = xqsdp   [  6] = agdue   [  7] = kdczf   
+[  8] = nvphq   [  9] = nmzhu   [ 10] = nukxh   [ 11] = jvxby   
+[ 12] = ncerx   [ 13] = jbalb   [ 14] = gzxwg   [ 15] = ojtnr   
+[ 16] = nblyy   [ 17] = shtqj   [ 18] = relwv   [ 19] = ifxjr   
+[ 20] = yprwl   [ 21] = ykvrx   [ 22] = mfyxd   [ 23] = wqlqh   
+[ 24] = uhlfe   [ 25] = hokex   [ 26] = cdmtz   [ 27] = yrjtj   
+[ 28] = hgpgd   [ 29] = tduet   [ 30] = bybne   [ 31] = gutrz   
+[ 32] = qtcdn   [ 33] = cbflv   
+
+adt> adtd -front 5
+
+adt> adtp
+=== ADT (dlist) ===
+[  0] = xqsdp   [  1] = agdue   [  2] = kdczf   [  3] = nvphq   
+[  4] = nmzhu   [  5] = nukxh   [  6] = jvxby   [  7] = ncerx   
+[  8] = jbalb   [  9] = gzxwg   [ 10] = ojtnr   [ 11] = nblyy   
+[ 12] = shtqj   [ 13] = relwv   [ 14] = ifxjr   [ 15] = yprwl   
+[ 16] = ykvrx   [ 17] = mfyxd   [ 18] = wqlqh   [ 19] = uhlfe   
+[ 20] = hokex   [ 21] = cdmtz   [ 22] = yrjtj   [ 23] = hgpgd   
+[ 24] = tduet   [ 25] = bybne   [ 26] = gutrz   [ 27] = qtcdn   
+[ 28] = cbflv   
+
+adt> adtd -back 5
+
+adt> adtp
+=== ADT (dlist) ===
+[  0] = xqsdp   [  1] = agdue   [  2] = kdczf   [  3] = nvphq   
+[  4] = nmzhu   [  5] = nukxh   [  6] = jvxby   [  7] = ncerx   
+[  8] = jbalb   [  9] = gzxwg   [ 10] = ojtnr   [ 11] = nblyy   
+[ 12] = shtqj   [ 13] = relwv   [ 14] = ifxjr   [ 15] = yprwl   
+[ 16] = ykvrx   [ 17] = mfyxd   [ 18] = wqlqh   [ 19] = uhlfe   
+[ 20] = hokex   [ 21] = cdmtz   [ 22] = yrjtj   [ 23] = hgpgd   
+
+
+adt> adtd -r 5
+
+adt> adtp
+=== ADT (dlist) ===
+[  0] = xqsdp   [  1] = kdczf   [  2] = nvphq   [  3] = nukxh   
+[  4] = jvxby   [  5] = ncerx   [  6] = jbalb   [  7] = gzxwg   
+[  8] = ojtnr   [  9] = nblyy   [ 10] = shtqj   [ 11] = ifxjr   
+[ 12] = yprwl   [ 13] = ykvrx   [ 14] = mfyxd   [ 15] = uhlfe   
+[ 16] = hokex   [ 17] = cdmtz   [ 18] = yrjtj   
+
+adt> adtd -all
+
+adt> adtp
+=== ADT (dlist) ===
+
+
+adt> q -f
+

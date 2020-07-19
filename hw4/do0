@@ -1,0 +1,34 @@
+mtnew 5 -a 258
+
+mtp
+mtnew 3
+mtp
+mtnew 5 -a 3
+mtp
+mtnew -a 2 3
+mtp
+mtnew 5 -a 3
+mtp
+mtnew 7 -a 2
+mtp
+mtdel -i 4 -a
+mtp
+mtnew 5 -a 257
+mtp
+mtdel -a -i 5
+mtp
+mtr 2048
+mtp
+mtn 20
+mtp
+mtn 20
+mtp
+mtnew 5 -a 3
+mtp
+mtd -r 5
+mtp
+mtd -a -r 5 
+mtp
+mtnew 1 -a 10000
+mtp
+q -f

@@ -1,0 +1,44 @@
+adta -r 10000
+adtp
+adtp 9999
+adtp 10000
+adtp 0
+adtp -1
+adta -s ric
+adtq ric
+adtsort
+adtq ric
+adta -r 10000
+adtp
+adtp 9999
+adtp 10000
+adtp 0
+adtp -1
+adta -s ric
+adtq ric
+adtsort
+adtq ric
+adta -r 10000
+adtp
+adtp 9999
+adtp 10000
+adtp 0
+adtp -1
+adta -s ric1
+adtq ric1
+adtsort
+adtq ric1
+adta -r 10000
+adtp
+adtp 9999
+adtp 10000
+adtp 0
+adtp -1
+adta -s ric2
+adtq ric2
+adtsort
+adtq ric2
+adtq ric
+adtq ric1
+usage
+q -f

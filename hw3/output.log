@@ -1,0 +1,120 @@
+mydb> help
+DBAPpend:      append an JSON element (key-value pair) to the end of DB
+DBAVerage:     compute the average of the DB
+DBCount:       report the number of JSON elements in the DB
+DBMAx:         report the maximum JSON element
+DBMIn:         report the minimum JSON element
+DBPrint:       print the JSON element(s) in the DB
+DBRead:        read data from .json file
+DBSOrt:        sort the JSON object by key or value
+DBSUm:         compute the summation of the DB
+DOfile:        execute the commands in the dofile
+HELp:          print this help message
+HIStory:       print command history
+Quit:          quit the execution
+
+mydb> do t
+
+mydb> do do2
+
+mydb> do do1
+
+mydb> dbr ../tests/test1.json
+
+mydb> dbp
+
+mydb> dbap Mary 30
+
+mydb> dbap Mary 30
+
+mydb> dbap
+
+mydb> dbap Larry
+
+mydb> dbap Larry 80 Hello
+
+mydb> dbap Larry XX
+
+mydb> dbap Larry 80
+
+mydb> dbp
+
+mydb> dbp Ric
+
+mydb> dbp ric
+
+mydb> dbav
+
+mydb> dbc
+There is no JSON element in DB.
+
+mydb> dbap Ben -50
+
+mydb> dbp
+
+mydb> dbma
+
+mydb> dbmi
+
+mydb> dbsort -v
+
+mydb> dbp
+
+mydb> dbsort -v
+
+mydb> dbp
+
+mydb> dbsort -k
+
+mydb> dbp
+
+mydb> dbsort -v
+
+mydb> dbp
+
+mydb> dbsort -k
+
+mydb> dbp
+
+mydb> dbsum
+
+mydb> 
+mydb> 
+mydb> his
+   0: help
+   1: do t
+   2: do do2
+   3: do do1
+   4: dbr ../tests/test1.json
+   5: dbp
+   6: dbap Mary 30
+   7: dbap Mary 30
+   8: dbap
+   9: dbap Larry
+   10: dbap Larry 80 Hello
+   11: dbap Larry XX
+   12: dbap Larry 80
+   13: dbp
+   14: dbp Ric
+   15: dbp ric
+   16: dbav
+   17: dbc
+   18: dbap Ben -50
+   19: dbp
+   20: dbma
+   21: dbmi
+   22: dbsort -v
+   23: dbp
+   24: dbsort -v
+   25: dbp
+   26: dbsort -k
+   27: dbp
+   28: dbsort -v
+   29: dbp
+   30: dbsort -k
+   31: dbp
+   32: dbsum
+   33: his
+
+mydb> 
+mydb> 

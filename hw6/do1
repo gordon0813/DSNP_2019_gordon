@@ -1,0 +1,29 @@
+cirr ./tests.fraig/sim13.aag
+cirp
+cirp -n
+cirg 14 -fanin 7
+cirg 14 -fanin 4
+cirg 10000 -fanin 4
+cirg 14 -fanin 0
+cirp -pi
+cirp -po
+cirp -fl
+cirg 22
+cirg 12
+cirw
+q -f
+cirp -n
+cirg 14 -fanin 7
+cirg 14 -fanin 4
+cirg 10000 -fanin 4
+cirg 14 -fanin 0
+cirp -pi
+cirp -po
+cirp -fl
+cirg 14 -fanin 4
+cirg 9 -fanout 3
+cirr opt06.aag
+cirr strash06.aag
+
+
+

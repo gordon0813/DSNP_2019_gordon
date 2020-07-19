@@ -1,0 +1,11 @@
+cirr ./tests.fraig/sim05.aag -r
+cirp
+cirw 
+cirw 9
+cirw 13
+cirw 4
+q -f
+
+
+
+

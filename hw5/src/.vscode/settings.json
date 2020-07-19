@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "xutility": "cpp",
+        "deque": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "iostream": "cpp",
+        "stack": "cpp",
+        "xiosbase": "cpp",
+        "xlocale": "cpp",
+        "initializer_list": "cpp",
+        "map": "cpp",
+        "iomanip": "cpp"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Enabled"
+}

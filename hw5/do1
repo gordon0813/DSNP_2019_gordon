@@ -1,0 +1,25 @@
+adta -r 20
+adtp
+adtd -front 3
+adtp
+adtd -back 5
+adtp
+adta -r 30
+adtp
+adtd -front 6
+adtp
+adtd -back 6
+adtp
+adta -r 1
+adtp
+adta -r 1
+adtp
+adta -r 1
+adtp
+adta -r 1
+adtp
+adta -r 10
+adtp
+adta -r 1000000
+usage
+q -f

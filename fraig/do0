@@ -1,0 +1,43 @@
+cirr ./tests.fraig/sim15.aag
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr ./tests.fraig/sim14.aag -r
+cirp -pi
+cirp -po
+cirp -n
+cirg 928 -fanin 100
+cirg 928 -fanin 5
+cirg 928 -fanin 1
+cirg 1 -fanout 100
+cirg 1 -fanout 5
+cirg 1 -fanout 1
+cirp -fl
+cirr ./tests.fraig/opt07.aag -r
+cirg 1 -fanout 100
+cirg 1 -fanout 5
+cirg 1 -fanout 1
+cirg 9 -fanin 100
+cirg 9 -fanin 5
+cirg 9 -fanin 1
+cirr ./tests.fraig/strash07.aag -r
+cirg 1 -fanout 100
+cirg 1 -fanout 5
+cirg 1 -fanout 1
+cirp -fl
+cirr ./tests.fraig/strash10.aag -r
+cirg 1 -fanout 100
+cirg 1 -fanout 5
+cirg 1 -fanout 1
+cirp -fl
+q -f
+cirp -n
+cirp -fl
+cirp
+cirg 1
+cirg 4
+cirg 2
+
+
+

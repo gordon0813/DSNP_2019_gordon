@@ -1,0 +1,60 @@
+cirr -r tests.fraig/cirp-n.aag
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirg 0
+cirg 0 -fani 100
+cirg 1
+cirg 1 -fani 100
+cirg 2
+cirg 2 -fani 100
+cirg 3
+cirg 3 -fani 100
+cirg 4
+cirg 4 -fani 100
+cirg 5
+cirg 5 -fani 100
+cirg 6
+cirg 6 -fani 100
+cirg 7
+cirg 7 -fani 100
+cirg 8
+cirg 8 -fani 100
+cirg 9
+cirg 9 -fani 100
+cirg 10
+cirg 10 -fani 100
+cirg 11
+cirg 11 -fani 100
+cirg 12
+cirg 12 -fani 100
+cirg 13
+cirg 13 -fani 100
+cirg 14
+cirg 14 -fani 100
+cirg 15
+cirg 15 -fani 100
+cirg 16
+cirg 16 -fani 100
+cirg 17
+cirg 17 -fani 100
+cirg 18
+cirg 18 -fani 100
+cirg 19
+cirg 19 -fani 100
+cirg 20
+cirg 20 -fani 100
+cirg 21
+cirg 21 -fani 100
+cirg 22
+cirg 22 -fani 100
+cirg 23
+cirg 23 -fani 100
+cirg 24
+cirg 24 -fani 100
+cirg 25
+cirg 25 -fani 100
+cirw
+q -f

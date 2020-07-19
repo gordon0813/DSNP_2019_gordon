@@ -1,0 +1,11 @@
+taski 7
+taskn -n ii 22
+taskn -n ii 33
+taskn -n qq 33
+taskn -n qq 33
+taskn -n yy 55
+taskn -n yy 33
+taskq -heap
+taskq -hash
+q -f
+

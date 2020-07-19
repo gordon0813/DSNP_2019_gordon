@@ -1,0 +1,21 @@
+taski 1
+taskn -r 1
+taskq -hash
+taskn -r 1
+taskq -hash
+taskn -r 1
+taskq -hash
+taskn -r 1
+taskq -hash
+taskn -r 1
+taskq -hash
+taskn -r 1
+taskq -hash
+taskn -r 1
+taskq -hash
+taskn -r 1
+taskq -hash
+taskn -r 1
+taskq -hash
+q -f
+

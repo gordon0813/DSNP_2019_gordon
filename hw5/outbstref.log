@@ -1,0 +1,181 @@
+adt> adta -s d
+
+adt> adta -s a
+
+adt> adta -s e
+
+adt> adta -s n
+
+adt> adta -s z
+
+adt> adta -s s
+
+adt> adta -s cc
+
+adt> adta -s ci
+
+adt> adta -s co
+
+adt> adta -s as
+
+adt> adta -s dd
+
+adt> adtp
+=== ADT (bst) ===
+[  0] =   a   [  1] =  as   [  2] =  cc   [  3] =  ci   
+[  4] =  co   [  5] =   d   [  6] =  dd   [  7] =   e   
+[  8] =   n   [  9] =   s   [ 10] =   z   
+
+adt> adtd -f 5
+
+adt> adtp
+=== ADT (bst) ===
+[  0] =   d   [  1] =  dd   [  2] =   e   [  3] =   n   
+[  4] =   s   [  5] =   z   
+
+adt> adtd -back 5
+
+adt> adtp
+=== ADT (bst) ===
+[  0] =   d   
+
+adt> adta -r 30
+
+adt> adtp 
+=== ADT (bst) ===
+[  0] = agdue   [  1] = bybne   [  2] = cdmtz   [  3] =   d   
+[  4] = fitho   [  5] = gutrz   [  6] = gzxwg   [  7] = hgpgd   
+[  8] = hokex   [  9] = ifxjr   [ 10] = jbalb   [ 11] = jvxby   
+[ 12] = kdczf   [ 13] = mfyxd   [ 14] = mqjny   [ 15] = nblyy   
+[ 16] = ncerx   [ 17] = nmzhu   [ 18] = nukxh   [ 19] = nvphq   
+[ 20] = ojtnr   [ 21] = relwv   [ 22] = shtqj   [ 23] = tduet   
+[ 24] = uhlfe   [ 25] = vkuux   [ 26] = wqlqh   [ 27] = xqsdp   
+[ 28] = ykvrx   [ 29] = yprwl   [ 30] = yrjtj   
+
+adt> adta -s ac
+
+adt> adta -s ed
+
+adt> adta -s nvf
+
+adt> adta -s bc
+
+adt> adta -s sx
+
+adt> adta -s ccd
+
+adt> adta -s cix
+
+adt> adta -s coa
+
+adt> adta -s asz
+
+adt> adtp
+=== ADT (bst) ===
+[  0] =  ac   [  1] = agdue   [  2] = asz   [  3] =  bc   
+[  4] = bybne   [  5] = ccd   [  6] = cdmtz   [  7] = cix   
+[  8] = coa   [  9] =   d   [ 10] =  ed   [ 11] = fitho   
+[ 12] = gutrz   [ 13] = gzxwg   [ 14] = hgpgd   [ 15] = hokex   
+[ 16] = ifxjr   [ 17] = jbalb   [ 18] = jvxby   [ 19] = kdczf   
+[ 20] = mfyxd   [ 21] = mqjny   [ 22] = nblyy   [ 23] = ncerx   
+[ 24] = nmzhu   [ 25] = nukxh   [ 26] = nvf   [ 27] = nvphq   
+[ 28] = ojtnr   [ 29] = relwv   [ 30] = shtqj   [ 31] =  sx   
+[ 32] = tduet   [ 33] = uhlfe   [ 34] = vkuux   [ 35] = wqlqh   
+[ 36] = xqsdp   [ 37] = ykvrx   [ 38] = yprwl   [ 39] = yrjtj   
+
+
+adt> adtp -r
+=== ADT (bst) ===
+[ 39] = yrjtj   [ 38] = yprwl   [ 37] = ykvrx   [ 36] = xqsdp   
+[ 35] = wqlqh   [ 34] = vkuux   [ 33] = uhlfe   [ 32] = tduet   
+[ 31] =  sx   [ 30] = shtqj   [ 29] = relwv   [ 28] = ojtnr   
+[ 27] = nvphq   [ 26] = nvf   [ 25] = nukxh   [ 24] = nmzhu   
+[ 23] = ncerx   [ 22] = nblyy   [ 21] = mqjny   [ 20] = mfyxd   
+[ 19] = kdczf   [ 18] = jvxby   [ 17] = jbalb   [ 16] = ifxjr   
+[ 15] = hokex   [ 14] = hgpgd   [ 13] = gzxwg   [ 12] = gutrz   
+[ 11] = fitho   [ 10] =  ed   [  9] =   d   [  8] = coa   
+[  7] = cix   [  6] = cdmtz   [  5] = ccd   [  4] = bybne   
+[  3] =  bc   [  2] = asz   [  1] = agdue   [  0] =  ac   
+
+
+adt> Adtq cc
+"cc" is not found!!
+
+adt> Adtq sxs
+"sxs" is not found!!
+
+adt> adtp
+=== ADT (bst) ===
+[  0] =  ac   [  1] = agdue   [  2] = asz   [  3] =  bc   
+[  4] = bybne   [  5] = ccd   [  6] = cdmtz   [  7] = cix   
+[  8] = coa   [  9] =   d   [ 10] =  ed   [ 11] = fitho   
+[ 12] = gutrz   [ 13] = gzxwg   [ 14] = hgpgd   [ 15] = hokex   
+[ 16] = ifxjr   [ 17] = jbalb   [ 18] = jvxby   [ 19] = kdczf   
+[ 20] = mfyxd   [ 21] = mqjny   [ 22] = nblyy   [ 23] = ncerx   
+[ 24] = nmzhu   [ 25] = nukxh   [ 26] = nvf   [ 27] = nvphq   
+[ 28] = ojtnr   [ 29] = relwv   [ 30] = shtqj   [ 31] =  sx   
+[ 32] = tduet   [ 33] = uhlfe   [ 34] = vkuux   [ 35] = wqlqh   
+[ 36] = xqsdp   [ 37] = ykvrx   [ 38] = yprwl   [ 39] = yrjtj   
+
+
+adt> adtd -f 2
+
+adt> adtd -s cc
+
+adt> adtp
+=== ADT (bst) ===
+[  0] = asz   [  1] =  bc   [  2] = bybne   [  3] = ccd   
+[  4] = cdmtz   [  5] = cix   [  6] = coa   [  7] =   d   
+[  8] =  ed   [  9] = fitho   [ 10] = gutrz   [ 11] = gzxwg   
+[ 12] = hgpgd   [ 13] = hokex   [ 14] = ifxjr   [ 15] = jbalb   
+[ 16] = jvxby   [ 17] = kdczf   [ 18] = mfyxd   [ 19] = mqjny   
+[ 20] = nblyy   [ 21] = ncerx   [ 22] = nmzhu   [ 23] = nukxh   
+[ 24] = nvf   [ 25] = nvphq   [ 26] = ojtnr   [ 27] = relwv   
+[ 28] = shtqj   [ 29] =  sx   [ 30] = tduet   [ 31] = uhlfe   
+[ 32] = vkuux   [ 33] = wqlqh   [ 34] = xqsdp   [ 35] = ykvrx   
+[ 36] = yprwl   [ 37] = yrjtj   
+
+adt> adtd -s ccd
+
+adt> adtp
+=== ADT (bst) ===
+[  0] = asz   [  1] =  bc   [  2] = bybne   [  3] = cdmtz   
+[  4] = cix   [  5] = coa   [  6] =   d   [  7] =  ed   
+[  8] = fitho   [  9] = gutrz   [ 10] = gzxwg   [ 11] = hgpgd   
+[ 12] = hokex   [ 13] = ifxjr   [ 14] = jbalb   [ 15] = jvxby   
+[ 16] = kdczf   [ 17] = mfyxd   [ 18] = mqjny   [ 19] = nblyy   
+[ 20] = ncerx   [ 21] = nmzhu   [ 22] = nukxh   [ 23] = nvf   
+[ 24] = nvphq   [ 25] = ojtnr   [ 26] = relwv   [ 27] = shtqj   
+[ 28] =  sx   [ 29] = tduet   [ 30] = uhlfe   [ 31] = vkuux   
+[ 32] = wqlqh   [ 33] = xqsdp   [ 34] = ykvrx   [ 35] = yprwl   
+[ 36] = yrjtj   
+
+adt> adtd -b 2
+
+adt> adtp
+=== ADT (bst) ===
+[  0] = asz   [  1] =  bc   [  2] = bybne   [  3] = cdmtz   
+[  4] = cix   [  5] = coa   [  6] =   d   [  7] =  ed   
+[  8] = fitho   [  9] = gutrz   [ 10] = gzxwg   [ 11] = hgpgd   
+[ 12] = hokex   [ 13] = ifxjr   [ 14] = jbalb   [ 15] = jvxby   
+[ 16] = kdczf   [ 17] = mfyxd   [ 18] = mqjny   [ 19] = nblyy   
+[ 20] = ncerx   [ 21] = nmzhu   [ 22] = nukxh   [ 23] = nvf   
+[ 24] = nvphq   [ 25] = ojtnr   [ 26] = relwv   [ 27] = shtqj   
+[ 28] =  sx   [ 29] = tduet   [ 30] = uhlfe   [ 31] = vkuux   
+[ 32] = wqlqh   [ 33] = xqsdp   [ 34] = ykvrx   
+
+adt> adtd -r 5
+
+adt> adtp
+=== ADT (bst) ===
+[  0] = asz   [  1] =  bc   [  2] = bybne   [  3] = cix   
+[  4] =   d   [  5] =  ed   [  6] = fitho   [  7] = gutrz   
+[  8] = gzxwg   [  9] = hgpgd   [ 10] = hokex   [ 11] = ifxjr   
+[ 12] = jbalb   [ 13] = jvxby   [ 14] = kdczf   [ 15] = mfyxd   
+[ 16] = nblyy   [ 17] = ncerx   [ 18] = nmzhu   [ 19] = nvf   
+[ 20] = nvphq   [ 21] = ojtnr   [ 22] = shtqj   [ 23] =  sx   
+[ 24] = tduet   [ 25] = uhlfe   [ 26] = vkuux   [ 27] = wqlqh   
+[ 28] = xqsdp   [ 29] = ykvrx   
+
+adt> q -f
+

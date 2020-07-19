@@ -1,0 +1,7479 @@
+cirr -r tests.fraig/test1.aag
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirg 0
+cirg 0 -fani 100
+cirg 1
+cirg 1 -fani 100
+cirg 2
+cirg 2 -fani 100
+cirg 3
+cirg 3 -fani 100
+cirg 4
+cirg 4 -fani 100
+cirg 5
+cirg 5 -fani 100
+cirg 6
+cirg 6 -fani 100
+cirg 7
+cirg 7 -fani 100
+cirg 8
+cirg 8 -fani 100
+cirg 9
+cirg 9 -fani 100
+cirg 10
+cirg 10 -fani 100
+cirg 11
+cirg 11 -fani 100
+cirg 12
+cirg 12 -fani 100
+cirg 13
+cirg 13 -fani 100
+cirg 14
+cirg 14 -fani 100
+cirg 15
+cirg 15 -fani 100
+cirg 16
+cirg 16 -fani 100
+cirg 17
+cirg 17 -fani 100
+cirg 18
+cirg 18 -fani 100
+cirg 19
+cirg 19 -fani 100
+cirg 20
+cirg 20 -fani 100
+cirg 21
+cirg 21 -fani 100
+cirg 22
+cirg 22 -fani 100
+cirg 23
+cirg 23 -fani 100
+cirg 24
+cirg 24 -fani 100
+cirg 25
+cirg 25 -fani 100
+cirg 26
+cirg 26 -fani 100
+cirg 27
+cirg 27 -fani 100
+cirg 28
+cirg 28 -fani 100
+cirg 29
+cirg 29 -fani 100
+cirg 30
+cirg 30 -fani 100
+cirg 31
+cirg 31 -fani 100
+cirg 32
+cirg 32 -fani 100
+cirg 33
+cirg 33 -fani 100
+cirg 34
+cirg 34 -fani 100
+cirg 35
+cirg 35 -fani 100
+cirg 36
+cirg 36 -fani 100
+cirg 37
+cirg 37 -fani 100
+cirg 38
+cirg 38 -fani 100
+cirg 39
+cirg 39 -fani 100
+cirg 40
+cirg 40 -fani 100
+cirg 41
+cirg 41 -fani 100
+cirg 42
+cirg 42 -fani 100
+cirg 43
+cirg 43 -fani 100
+cirg 44
+cirg 44 -fani 100
+cirg 45
+cirg 45 -fani 100
+cirg 46
+cirg 46 -fani 100
+cirg 47
+cirg 47 -fani 100
+cirg 48
+cirg 48 -fani 100
+cirg 49
+cirg 49 -fani 100
+cirg 50
+cirg 50 -fani 100
+cirg 51
+cirg 51 -fani 100
+cirg 52
+cirg 52 -fani 100
+cirg 53
+cirg 53 -fani 100
+cirg 54
+cirg 54 -fani 100
+cirg 55
+cirg 55 -fani 100
+cirg 56
+cirg 56 -fani 100
+cirg 57
+cirg 57 -fani 100
+cirg 58
+cirg 58 -fani 100
+cirg 59
+cirg 59 -fani 100
+cirg 60
+cirg 60 -fani 100
+cirg 61
+cirg 61 -fani 100
+cirg 62
+cirg 62 -fani 100
+cirg 63
+cirg 63 -fani 100
+cirg 64
+cirg 64 -fani 100
+cirg 65
+cirg 65 -fani 100
+cirg 66
+cirg 66 -fani 100
+cirg 67
+cirg 67 -fani 100
+cirg 68
+cirg 68 -fani 100
+cirg 69
+cirg 69 -fani 100
+cirg 70
+cirg 70 -fani 100
+cirg 71
+cirg 71 -fani 100
+cirg 72
+cirg 72 -fani 100
+cirg 73
+cirg 73 -fani 100
+cirg 74
+cirg 74 -fani 100
+cirg 75
+cirg 75 -fani 100
+cirg 76
+cirg 76 -fani 100
+cirg 77
+cirg 77 -fani 100
+cirg 78
+cirg 78 -fani 100
+cirg 79
+cirg 79 -fani 100
+cirg 80
+cirg 80 -fani 100
+cirg 81
+cirg 81 -fani 100
+cirg 82
+cirg 82 -fani 100
+cirg 83
+cirg 83 -fani 100
+cirg 84
+cirg 84 -fani 100
+cirg 85
+cirg 85 -fani 100
+cirg 86
+cirg 86 -fani 100
+cirg 87
+cirg 87 -fani 100
+cirg 88
+cirg 88 -fani 100
+cirg 89
+cirg 89 -fani 100
+cirg 90
+cirg 90 -fani 100
+cirg 91
+cirg 91 -fani 100
+cirg 92
+cirg 92 -fani 100
+cirg 93
+cirg 93 -fani 100
+cirg 94
+cirg 94 -fani 100
+cirg 95
+cirg 95 -fani 100
+cirg 96
+cirg 96 -fani 100
+cirg 97
+cirg 97 -fani 100
+cirg 98
+cirg 98 -fani 100
+cirg 99
+cirg 99 -fani 100
+cirg 100
+cirg 100 -fani 100
+cirg 101
+cirg 101 -fani 100
+cirg 102
+cirg 102 -fani 100
+cirg 103
+cirg 103 -fani 100
+cirg 104
+cirg 104 -fani 100
+cirg 105
+cirg 105 -fani 100
+cirg 106
+cirg 106 -fani 100
+cirg 107
+cirg 107 -fani 100
+cirg 108
+cirg 108 -fani 100
+cirg 109
+cirg 109 -fani 100
+cirg 110
+cirg 110 -fani 100
+cirg 111
+cirg 111 -fani 100
+cirg 112
+cirg 112 -fani 100
+cirg 113
+cirg 113 -fani 100
+cirg 114
+cirg 114 -fani 100
+cirg 115
+cirg 115 -fani 100
+cirg 116
+cirg 116 -fani 100
+cirg 117
+cirg 117 -fani 100
+cirg 118
+cirg 118 -fani 100
+cirg 119
+cirg 119 -fani 100
+cirg 120
+cirg 120 -fani 100
+cirg 121
+cirg 121 -fani 100
+cirg 122
+cirg 122 -fani 100
+cirg 123
+cirg 123 -fani 100
+cirg 124
+cirg 124 -fani 100
+cirg 125
+cirg 125 -fani 100
+cirg 126
+cirg 126 -fani 100
+cirg 127
+cirg 127 -fani 100
+cirg 128
+cirg 128 -fani 100
+cirg 129
+cirg 129 -fani 100
+cirg 130
+cirg 130 -fani 100
+cirg 131
+cirg 131 -fani 100
+cirg 132
+cirg 132 -fani 100
+cirg 133
+cirg 133 -fani 100
+cirg 134
+cirg 134 -fani 100
+cirg 135
+cirg 135 -fani 100
+cirg 136
+cirg 136 -fani 100
+cirg 137
+cirg 137 -fani 100
+cirg 138
+cirg 138 -fani 100
+cirg 139
+cirg 139 -fani 100
+cirg 140
+cirg 140 -fani 100
+cirg 141
+cirg 141 -fani 100
+cirg 142
+cirg 142 -fani 100
+cirg 143
+cirg 143 -fani 100
+cirg 144
+cirg 144 -fani 100
+cirg 145
+cirg 145 -fani 100
+cirg 146
+cirg 146 -fani 100
+cirg 147
+cirg 147 -fani 100
+cirg 148
+cirg 148 -fani 100
+cirg 149
+cirg 149 -fani 100
+cirg 150
+cirg 150 -fani 100
+cirg 151
+cirg 151 -fani 100
+cirg 152
+cirg 152 -fani 100
+cirg 153
+cirg 153 -fani 100
+cirg 154
+cirg 154 -fani 100
+cirg 155
+cirg 155 -fani 100
+cirg 156
+cirg 156 -fani 100
+cirg 157
+cirg 157 -fani 100
+cirg 158
+cirg 158 -fani 100
+cirg 159
+cirg 159 -fani 100
+cirg 160
+cirg 160 -fani 100
+cirg 161
+cirg 161 -fani 100
+cirg 162
+cirg 162 -fani 100
+cirg 163
+cirg 163 -fani 100
+cirg 164
+cirg 164 -fani 100
+cirg 165
+cirg 165 -fani 100
+cirg 166
+cirg 166 -fani 100
+cirg 167
+cirg 167 -fani 100
+cirg 168
+cirg 168 -fani 100
+cirg 169
+cirg 169 -fani 100
+cirg 170
+cirg 170 -fani 100
+cirg 171
+cirg 171 -fani 100
+cirg 172
+cirg 172 -fani 100
+cirg 173
+cirg 173 -fani 100
+cirg 174
+cirg 174 -fani 100
+cirg 175
+cirg 175 -fani 100
+cirg 176
+cirg 176 -fani 100
+cirg 177
+cirg 177 -fani 100
+cirg 178
+cirg 178 -fani 100
+cirg 179
+cirg 179 -fani 100
+cirg 180
+cirg 180 -fani 100
+cirg 181
+cirg 181 -fani 100
+cirg 182
+cirg 182 -fani 100
+cirg 183
+cirg 183 -fani 100
+cirg 184
+cirg 184 -fani 100
+cirg 185
+cirg 185 -fani 100
+cirg 186
+cirg 186 -fani 100
+cirg 187
+cirg 187 -fani 100
+cirg 188
+cirg 188 -fani 100
+cirg 189
+cirg 189 -fani 100
+cirg 190
+cirg 190 -fani 100
+cirg 191
+cirg 191 -fani 100
+cirg 192
+cirg 192 -fani 100
+cirg 193
+cirg 193 -fani 100
+cirg 194
+cirg 194 -fani 100
+cirg 195
+cirg 195 -fani 100
+cirg 196
+cirg 196 -fani 100
+cirg 197
+cirg 197 -fani 100
+cirg 198
+cirg 198 -fani 100
+cirg 199
+cirg 199 -fani 100
+cirg 200
+cirg 200 -fani 100
+cirg 201
+cirg 201 -fani 100
+cirg 202
+cirg 202 -fani 100
+cirg 203
+cirg 203 -fani 100
+cirg 204
+cirg 204 -fani 100
+cirg 205
+cirg 205 -fani 100
+cirg 206
+cirg 206 -fani 100
+cirg 207
+cirg 207 -fani 100
+cirg 208
+cirg 208 -fani 100
+cirg 209
+cirg 209 -fani 100
+cirg 210
+cirg 210 -fani 100
+cirg 211
+cirg 211 -fani 100
+cirg 212
+cirg 212 -fani 100
+cirg 213
+cirg 213 -fani 100
+cirg 214
+cirg 214 -fani 100
+cirg 215
+cirg 215 -fani 100
+cirg 216
+cirg 216 -fani 100
+cirg 217
+cirg 217 -fani 100
+cirg 218
+cirg 218 -fani 100
+cirg 219
+cirg 219 -fani 100
+cirg 220
+cirg 220 -fani 100
+cirg 221
+cirg 221 -fani 100
+cirg 222
+cirg 222 -fani 100
+cirg 223
+cirg 223 -fani 100
+cirg 224
+cirg 224 -fani 100
+cirg 225
+cirg 225 -fani 100
+cirg 226
+cirg 226 -fani 100
+cirg 227
+cirg 227 -fani 100
+cirg 228
+cirg 228 -fani 100
+cirg 229
+cirg 229 -fani 100
+cirg 230
+cirg 230 -fani 100
+cirg 231
+cirg 231 -fani 100
+cirg 232
+cirg 232 -fani 100
+cirg 233
+cirg 233 -fani 100
+cirg 234
+cirg 234 -fani 100
+cirg 235
+cirg 235 -fani 100
+cirg 236
+cirg 236 -fani 100
+cirg 237
+cirg 237 -fani 100
+cirg 238
+cirg 238 -fani 100
+cirg 239
+cirg 239 -fani 100
+cirg 240
+cirg 240 -fani 100
+cirg 241
+cirg 241 -fani 100
+cirg 242
+cirg 242 -fani 100
+cirg 243
+cirg 243 -fani 100
+cirg 244
+cirg 244 -fani 100
+cirg 245
+cirg 245 -fani 100
+cirg 246
+cirg 246 -fani 100
+cirg 247
+cirg 247 -fani 100
+cirg 248
+cirg 248 -fani 100
+cirg 249
+cirg 249 -fani 100
+cirg 250
+cirg 250 -fani 100
+cirg 251
+cirg 251 -fani 100
+cirg 252
+cirg 252 -fani 100
+cirg 253
+cirg 253 -fani 100
+cirg 254
+cirg 254 -fani 100
+cirg 255
+cirg 255 -fani 100
+cirg 256
+cirg 256 -fani 100
+cirg 257
+cirg 257 -fani 100
+cirg 258
+cirg 258 -fani 100
+cirg 259
+cirg 259 -fani 100
+cirg 260
+cirg 260 -fani 100
+cirg 261
+cirg 261 -fani 100
+cirg 262
+cirg 262 -fani 100
+cirg 263
+cirg 263 -fani 100
+cirg 264
+cirg 264 -fani 100
+cirg 265
+cirg 265 -fani 100
+cirg 266
+cirg 266 -fani 100
+cirg 267
+cirg 267 -fani 100
+cirg 268
+cirg 268 -fani 100
+cirg 269
+cirg 269 -fani 100
+cirg 270
+cirg 270 -fani 100
+cirg 271
+cirg 271 -fani 100
+cirg 272
+cirg 272 -fani 100
+cirg 273
+cirg 273 -fani 100
+cirg 274
+cirg 274 -fani 100
+cirg 275
+cirg 275 -fani 100
+cirg 276
+cirg 276 -fani 100
+cirg 277
+cirg 277 -fani 100
+cirg 278
+cirg 278 -fani 100
+cirg 279
+cirg 279 -fani 100
+cirg 280
+cirg 280 -fani 100
+cirg 281
+cirg 281 -fani 100
+cirg 282
+cirg 282 -fani 100
+cirg 283
+cirg 283 -fani 100
+cirg 284
+cirg 284 -fani 100
+cirg 285
+cirg 285 -fani 100
+cirg 286
+cirg 286 -fani 100
+cirg 287
+cirg 287 -fani 100
+cirg 288
+cirg 288 -fani 100
+cirg 289
+cirg 289 -fani 100
+cirg 290
+cirg 290 -fani 100
+cirg 291
+cirg 291 -fani 100
+cirg 292
+cirg 292 -fani 100
+cirg 293
+cirg 293 -fani 100
+cirg 294
+cirg 294 -fani 100
+cirg 295
+cirg 295 -fani 100
+cirg 296
+cirg 296 -fani 100
+cirg 297
+cirg 297 -fani 100
+cirg 298
+cirg 298 -fani 100
+cirg 299
+cirg 299 -fani 100
+cirg 300
+cirg 300 -fani 100
+cirg 301
+cirg 301 -fani 100
+cirg 302
+cirg 302 -fani 100
+cirg 303
+cirg 303 -fani 100
+cirg 304
+cirg 304 -fani 100
+cirg 305
+cirg 305 -fani 100
+cirg 306
+cirg 306 -fani 100
+cirg 307
+cirg 307 -fani 100
+cirg 308
+cirg 308 -fani 100
+cirg 309
+cirg 309 -fani 100
+cirg 310
+cirg 310 -fani 100
+cirg 311
+cirg 311 -fani 100
+cirg 312
+cirg 312 -fani 100
+cirg 313
+cirg 313 -fani 100
+cirg 314
+cirg 314 -fani 100
+cirg 315
+cirg 315 -fani 100
+cirg 316
+cirg 316 -fani 100
+cirg 317
+cirg 317 -fani 100
+cirg 318
+cirg 318 -fani 100
+cirg 319
+cirg 319 -fani 100
+cirg 320
+cirg 320 -fani 100
+cirg 321
+cirg 321 -fani 100
+cirg 322
+cirg 322 -fani 100
+cirg 323
+cirg 323 -fani 100
+cirg 324
+cirg 324 -fani 100
+cirg 325
+cirg 325 -fani 100
+cirg 326
+cirg 326 -fani 100
+cirg 327
+cirg 327 -fani 100
+cirg 328
+cirg 328 -fani 100
+cirg 329
+cirg 329 -fani 100
+cirg 330
+cirg 330 -fani 100
+cirg 331
+cirg 331 -fani 100
+cirg 332
+cirg 332 -fani 100
+cirg 333
+cirg 333 -fani 100
+cirg 334
+cirg 334 -fani 100
+cirg 335
+cirg 335 -fani 100
+cirg 336
+cirg 336 -fani 100
+cirg 337
+cirg 337 -fani 100
+cirg 338
+cirg 338 -fani 100
+cirg 339
+cirg 339 -fani 100
+cirg 340
+cirg 340 -fani 100
+cirg 341
+cirg 341 -fani 100
+cirg 342
+cirg 342 -fani 100
+cirg 343
+cirg 343 -fani 100
+cirg 344
+cirg 344 -fani 100
+cirg 345
+cirg 345 -fani 100
+cirg 346
+cirg 346 -fani 100
+cirg 347
+cirg 347 -fani 100
+cirg 348
+cirg 348 -fani 100
+cirg 349
+cirg 349 -fani 100
+cirg 350
+cirg 350 -fani 100
+cirg 351
+cirg 351 -fani 100
+cirg 352
+cirg 352 -fani 100
+cirg 353
+cirg 353 -fani 100
+cirg 354
+cirg 354 -fani 100
+cirg 355
+cirg 355 -fani 100
+cirg 356
+cirg 356 -fani 100
+cirg 357
+cirg 357 -fani 100
+cirg 358
+cirg 358 -fani 100
+cirg 359
+cirg 359 -fani 100
+cirg 360
+cirg 360 -fani 100
+cirg 361
+cirg 361 -fani 100
+cirg 362
+cirg 362 -fani 100
+cirg 363
+cirg 363 -fani 100
+cirg 364
+cirg 364 -fani 100
+cirg 365
+cirg 365 -fani 100
+cirg 366
+cirg 366 -fani 100
+cirg 367
+cirg 367 -fani 100
+cirg 368
+cirg 368 -fani 100
+cirg 369
+cirg 369 -fani 100
+cirg 370
+cirg 370 -fani 100
+cirg 371
+cirg 371 -fani 100
+cirg 372
+cirg 372 -fani 100
+cirg 373
+cirg 373 -fani 100
+cirg 374
+cirg 374 -fani 100
+cirg 375
+cirg 375 -fani 100
+cirg 376
+cirg 376 -fani 100
+cirg 377
+cirg 377 -fani 100
+cirg 378
+cirg 378 -fani 100
+cirg 379
+cirg 379 -fani 100
+cirg 380
+cirg 380 -fani 100
+cirg 381
+cirg 381 -fani 100
+cirg 382
+cirg 382 -fani 100
+cirg 383
+cirg 383 -fani 100
+cirg 384
+cirg 384 -fani 100
+cirg 385
+cirg 385 -fani 100
+cirg 386
+cirg 386 -fani 100
+cirg 387
+cirg 387 -fani 100
+cirg 388
+cirg 388 -fani 100
+cirg 389
+cirg 389 -fani 100
+cirg 390
+cirg 390 -fani 100
+cirg 391
+cirg 391 -fani 100
+cirg 392
+cirg 392 -fani 100
+cirg 393
+cirg 393 -fani 100
+cirg 394
+cirg 394 -fani 100
+cirg 395
+cirg 395 -fani 100
+cirg 396
+cirg 396 -fani 100
+cirg 397
+cirg 397 -fani 100
+cirg 398
+cirg 398 -fani 100
+cirg 399
+cirg 399 -fani 100
+cirg 400
+cirg 400 -fani 100
+cirg 401
+cirg 401 -fani 100
+cirg 402
+cirg 402 -fani 100
+cirg 403
+cirg 403 -fani 100
+cirg 404
+cirg 404 -fani 100
+cirg 405
+cirg 405 -fani 100
+cirg 406
+cirg 406 -fani 100
+cirg 407
+cirg 407 -fani 100
+cirg 408
+cirg 408 -fani 100
+cirg 409
+cirg 409 -fani 100
+cirg 410
+cirg 410 -fani 100
+cirg 411
+cirg 411 -fani 100
+cirg 412
+cirg 412 -fani 100
+cirg 413
+cirg 413 -fani 100
+cirg 414
+cirg 414 -fani 100
+cirg 415
+cirg 415 -fani 100
+cirg 416
+cirg 416 -fani 100
+cirg 417
+cirg 417 -fani 100
+cirg 418
+cirg 418 -fani 100
+cirg 419
+cirg 419 -fani 100
+cirg 420
+cirg 420 -fani 100
+cirg 421
+cirg 421 -fani 100
+cirg 422
+cirg 422 -fani 100
+cirg 423
+cirg 423 -fani 100
+cirg 424
+cirg 424 -fani 100
+cirg 425
+cirg 425 -fani 100
+cirg 426
+cirg 426 -fani 100
+cirg 427
+cirg 427 -fani 100
+cirg 428
+cirg 428 -fani 100
+cirg 429
+cirg 429 -fani 100
+cirg 430
+cirg 430 -fani 100
+cirg 431
+cirg 431 -fani 100
+cirg 432
+cirg 432 -fani 100
+cirg 433
+cirg 433 -fani 100
+cirg 434
+cirg 434 -fani 100
+cirg 435
+cirg 435 -fani 100
+cirg 436
+cirg 436 -fani 100
+cirg 437
+cirg 437 -fani 100
+cirg 438
+cirg 438 -fani 100
+cirg 439
+cirg 439 -fani 100
+cirg 440
+cirg 440 -fani 100
+cirg 441
+cirg 441 -fani 100
+cirg 442
+cirg 442 -fani 100
+cirg 443
+cirg 443 -fani 100
+cirg 444
+cirg 444 -fani 100
+cirg 445
+cirg 445 -fani 100
+cirg 446
+cirg 446 -fani 100
+cirg 447
+cirg 447 -fani 100
+cirg 448
+cirg 448 -fani 100
+cirg 449
+cirg 449 -fani 100
+cirg 450
+cirg 450 -fani 100
+cirg 451
+cirg 451 -fani 100
+cirg 452
+cirg 452 -fani 100
+cirg 453
+cirg 453 -fani 100
+cirg 454
+cirg 454 -fani 100
+cirg 455
+cirg 455 -fani 100
+cirg 456
+cirg 456 -fani 100
+cirg 457
+cirg 457 -fani 100
+cirg 458
+cirg 458 -fani 100
+cirg 459
+cirg 459 -fani 100
+cirg 460
+cirg 460 -fani 100
+cirg 461
+cirg 461 -fani 100
+cirg 462
+cirg 462 -fani 100
+cirg 463
+cirg 463 -fani 100
+cirg 464
+cirg 464 -fani 100
+cirg 465
+cirg 465 -fani 100
+cirg 466
+cirg 466 -fani 100
+cirg 467
+cirg 467 -fani 100
+cirg 468
+cirg 468 -fani 100
+cirg 469
+cirg 469 -fani 100
+cirg 470
+cirg 470 -fani 100
+cirg 471
+cirg 471 -fani 100
+cirg 472
+cirg 472 -fani 100
+cirg 473
+cirg 473 -fani 100
+cirg 474
+cirg 474 -fani 100
+cirg 475
+cirg 475 -fani 100
+cirg 476
+cirg 476 -fani 100
+cirg 477
+cirg 477 -fani 100
+cirg 478
+cirg 478 -fani 100
+cirg 479
+cirg 479 -fani 100
+cirg 480
+cirg 480 -fani 100
+cirg 481
+cirg 481 -fani 100
+cirg 482
+cirg 482 -fani 100
+cirg 483
+cirg 483 -fani 100
+cirg 484
+cirg 484 -fani 100
+cirg 485
+cirg 485 -fani 100
+cirg 486
+cirg 486 -fani 100
+cirg 487
+cirg 487 -fani 100
+cirg 488
+cirg 488 -fani 100
+cirg 489
+cirg 489 -fani 100
+cirg 490
+cirg 490 -fani 100
+cirg 491
+cirg 491 -fani 100
+cirg 492
+cirg 492 -fani 100
+cirg 493
+cirg 493 -fani 100
+cirg 494
+cirg 494 -fani 100
+cirg 495
+cirg 495 -fani 100
+cirg 496
+cirg 496 -fani 100
+cirg 497
+cirg 497 -fani 100
+cirg 498
+cirg 498 -fani 100
+cirg 499
+cirg 499 -fani 100
+cirg 500
+cirg 500 -fani 100
+cirg 501
+cirg 501 -fani 100
+cirg 502
+cirg 502 -fani 100
+cirg 503
+cirg 503 -fani 100
+cirg 504
+cirg 504 -fani 100
+cirg 505
+cirg 505 -fani 100
+cirg 506
+cirg 506 -fani 100
+cirg 507
+cirg 507 -fani 100
+cirg 508
+cirg 508 -fani 100
+cirg 509
+cirg 509 -fani 100
+cirg 510
+cirg 510 -fani 100
+cirg 511
+cirg 511 -fani 100
+cirg 512
+cirg 512 -fani 100
+cirg 513
+cirg 513 -fani 100
+cirg 514
+cirg 514 -fani 100
+cirg 515
+cirg 515 -fani 100
+cirg 516
+cirg 516 -fani 100
+cirg 517
+cirg 517 -fani 100
+cirg 518
+cirg 518 -fani 100
+cirg 519
+cirg 519 -fani 100
+cirg 520
+cirg 520 -fani 100
+cirg 521
+cirg 521 -fani 100
+cirg 522
+cirg 522 -fani 100
+cirg 523
+cirg 523 -fani 100
+cirg 524
+cirg 524 -fani 100
+cirg 525
+cirg 525 -fani 100
+cirg 526
+cirg 526 -fani 100
+cirg 527
+cirg 527 -fani 100
+cirg 528
+cirg 528 -fani 100
+cirg 529
+cirg 529 -fani 100
+cirg 530
+cirg 530 -fani 100
+cirg 531
+cirg 531 -fani 100
+cirg 532
+cirg 532 -fani 100
+cirg 533
+cirg 533 -fani 100
+cirg 534
+cirg 534 -fani 100
+cirg 535
+cirg 535 -fani 100
+cirg 536
+cirg 536 -fani 100
+cirg 537
+cirg 537 -fani 100
+cirg 538
+cirg 538 -fani 100
+cirg 539
+cirg 539 -fani 100
+cirg 540
+cirg 540 -fani 100
+cirg 541
+cirg 541 -fani 100
+cirg 542
+cirg 542 -fani 100
+cirg 543
+cirg 543 -fani 100
+cirg 544
+cirg 544 -fani 100
+cirg 545
+cirg 545 -fani 100
+cirg 546
+cirg 546 -fani 100
+cirg 547
+cirg 547 -fani 100
+cirg 548
+cirg 548 -fani 100
+cirg 549
+cirg 549 -fani 100
+cirg 550
+cirg 550 -fani 100
+cirg 551
+cirg 551 -fani 100
+cirg 552
+cirg 552 -fani 100
+cirg 553
+cirg 553 -fani 100
+cirg 554
+cirg 554 -fani 100
+cirg 555
+cirg 555 -fani 100
+cirg 556
+cirg 556 -fani 100
+cirg 557
+cirg 557 -fani 100
+cirg 558
+cirg 558 -fani 100
+cirg 559
+cirg 559 -fani 100
+cirg 560
+cirg 560 -fani 100
+cirg 561
+cirg 561 -fani 100
+cirg 562
+cirg 562 -fani 100
+cirg 563
+cirg 563 -fani 100
+cirg 564
+cirg 564 -fani 100
+cirg 565
+cirg 565 -fani 100
+cirg 566
+cirg 566 -fani 100
+cirg 567
+cirg 567 -fani 100
+cirg 568
+cirg 568 -fani 100
+cirg 569
+cirg 569 -fani 100
+cirg 570
+cirg 570 -fani 100
+cirg 571
+cirg 571 -fani 100
+cirg 572
+cirg 572 -fani 100
+cirg 573
+cirg 573 -fani 100
+cirg 574
+cirg 574 -fani 100
+cirg 575
+cirg 575 -fani 100
+cirg 576
+cirg 576 -fani 100
+cirg 577
+cirg 577 -fani 100
+cirg 578
+cirg 578 -fani 100
+cirg 579
+cirg 579 -fani 100
+cirg 580
+cirg 580 -fani 100
+cirg 581
+cirg 581 -fani 100
+cirg 582
+cirg 582 -fani 100
+cirg 583
+cirg 583 -fani 100
+cirg 584
+cirg 584 -fani 100
+cirg 585
+cirg 585 -fani 100
+cirg 586
+cirg 586 -fani 100
+cirg 587
+cirg 587 -fani 100
+cirg 588
+cirg 588 -fani 100
+cirg 589
+cirg 589 -fani 100
+cirg 590
+cirg 590 -fani 100
+cirg 591
+cirg 591 -fani 100
+cirg 592
+cirg 592 -fani 100
+cirg 593
+cirg 593 -fani 100
+cirg 594
+cirg 594 -fani 100
+cirg 595
+cirg 595 -fani 100
+cirg 596
+cirg 596 -fani 100
+cirg 597
+cirg 597 -fani 100
+cirg 598
+cirg 598 -fani 100
+cirg 599
+cirg 599 -fani 100
+cirg 600
+cirg 600 -fani 100
+cirg 601
+cirg 601 -fani 100
+cirg 602
+cirg 602 -fani 100
+cirg 603
+cirg 603 -fani 100
+cirg 604
+cirg 604 -fani 100
+cirg 605
+cirg 605 -fani 100
+cirg 606
+cirg 606 -fani 100
+cirg 607
+cirg 607 -fani 100
+cirg 608
+cirg 608 -fani 100
+cirg 609
+cirg 609 -fani 100
+cirg 610
+cirg 610 -fani 100
+cirg 611
+cirg 611 -fani 100
+cirg 612
+cirg 612 -fani 100
+cirg 613
+cirg 613 -fani 100
+cirg 614
+cirg 614 -fani 100
+cirg 615
+cirg 615 -fani 100
+cirg 616
+cirg 616 -fani 100
+cirg 617
+cirg 617 -fani 100
+cirg 618
+cirg 618 -fani 100
+cirg 619
+cirg 619 -fani 100
+cirg 620
+cirg 620 -fani 100
+cirg 621
+cirg 621 -fani 100
+cirg 622
+cirg 622 -fani 100
+cirg 623
+cirg 623 -fani 100
+cirg 624
+cirg 624 -fani 100
+cirg 625
+cirg 625 -fani 100
+cirg 626
+cirg 626 -fani 100
+cirg 627
+cirg 627 -fani 100
+cirg 628
+cirg 628 -fani 100
+cirg 629
+cirg 629 -fani 100
+cirg 630
+cirg 630 -fani 100
+cirg 631
+cirg 631 -fani 100
+cirg 632
+cirg 632 -fani 100
+cirg 633
+cirg 633 -fani 100
+cirg 634
+cirg 634 -fani 100
+cirg 635
+cirg 635 -fani 100
+cirg 636
+cirg 636 -fani 100
+cirg 637
+cirg 637 -fani 100
+cirg 638
+cirg 638 -fani 100
+cirg 639
+cirg 639 -fani 100
+cirg 640
+cirg 640 -fani 100
+cirg 641
+cirg 641 -fani 100
+cirg 642
+cirg 642 -fani 100
+cirg 643
+cirg 643 -fani 100
+cirg 644
+cirg 644 -fani 100
+cirg 645
+cirg 645 -fani 100
+cirg 646
+cirg 646 -fani 100
+cirg 647
+cirg 647 -fani 100
+cirg 648
+cirg 648 -fani 100
+cirg 649
+cirg 649 -fani 100
+cirg 650
+cirg 650 -fani 100
+cirg 651
+cirg 651 -fani 100
+cirg 652
+cirg 652 -fani 100
+cirg 653
+cirg 653 -fani 100
+cirg 654
+cirg 654 -fani 100
+cirg 655
+cirg 655 -fani 100
+cirg 656
+cirg 656 -fani 100
+cirg 657
+cirg 657 -fani 100
+cirg 658
+cirg 658 -fani 100
+cirg 659
+cirg 659 -fani 100
+cirg 660
+cirg 660 -fani 100
+cirg 661
+cirg 661 -fani 100
+cirg 662
+cirg 662 -fani 100
+cirg 663
+cirg 663 -fani 100
+cirg 664
+cirg 664 -fani 100
+cirg 665
+cirg 665 -fani 100
+cirg 666
+cirg 666 -fani 100
+cirg 667
+cirg 667 -fani 100
+cirg 668
+cirg 668 -fani 100
+cirg 669
+cirg 669 -fani 100
+cirg 670
+cirg 670 -fani 100
+cirg 671
+cirg 671 -fani 100
+cirg 672
+cirg 672 -fani 100
+cirg 673
+cirg 673 -fani 100
+cirg 674
+cirg 674 -fani 100
+cirg 675
+cirg 675 -fani 100
+cirg 676
+cirg 676 -fani 100
+cirg 677
+cirg 677 -fani 100
+cirg 678
+cirg 678 -fani 100
+cirg 679
+cirg 679 -fani 100
+cirg 680
+cirg 680 -fani 100
+cirg 681
+cirg 681 -fani 100
+cirg 682
+cirg 682 -fani 100
+cirg 683
+cirg 683 -fani 100
+cirg 684
+cirg 684 -fani 100
+cirg 685
+cirg 685 -fani 100
+cirg 686
+cirg 686 -fani 100
+cirg 687
+cirg 687 -fani 100
+cirg 688
+cirg 688 -fani 100
+cirg 689
+cirg 689 -fani 100
+cirg 690
+cirg 690 -fani 100
+cirg 691
+cirg 691 -fani 100
+cirg 692
+cirg 692 -fani 100
+cirg 693
+cirg 693 -fani 100
+cirg 694
+cirg 694 -fani 100
+cirg 695
+cirg 695 -fani 100
+cirg 696
+cirg 696 -fani 100
+cirg 697
+cirg 697 -fani 100
+cirg 698
+cirg 698 -fani 100
+cirg 699
+cirg 699 -fani 100
+cirg 700
+cirg 700 -fani 100
+cirg 701
+cirg 701 -fani 100
+cirg 702
+cirg 702 -fani 100
+cirg 703
+cirg 703 -fani 100
+cirg 704
+cirg 704 -fani 100
+cirg 705
+cirg 705 -fani 100
+cirg 706
+cirg 706 -fani 100
+cirg 707
+cirg 707 -fani 100
+cirg 708
+cirg 708 -fani 100
+cirg 709
+cirg 709 -fani 100
+cirg 710
+cirg 710 -fani 100
+cirg 711
+cirg 711 -fani 100
+cirg 712
+cirg 712 -fani 100
+cirg 713
+cirg 713 -fani 100
+cirg 714
+cirg 714 -fani 100
+cirg 715
+cirg 715 -fani 100
+cirg 716
+cirg 716 -fani 100
+cirg 717
+cirg 717 -fani 100
+cirg 718
+cirg 718 -fani 100
+cirg 719
+cirg 719 -fani 100
+cirg 720
+cirg 720 -fani 100
+cirg 721
+cirg 721 -fani 100
+cirg 722
+cirg 722 -fani 100
+cirg 723
+cirg 723 -fani 100
+cirg 724
+cirg 724 -fani 100
+cirg 725
+cirg 725 -fani 100
+cirg 726
+cirg 726 -fani 100
+cirg 727
+cirg 727 -fani 100
+cirg 728
+cirg 728 -fani 100
+cirg 729
+cirg 729 -fani 100
+cirg 730
+cirg 730 -fani 100
+cirg 731
+cirg 731 -fani 100
+cirg 732
+cirg 732 -fani 100
+cirg 733
+cirg 733 -fani 100
+cirg 734
+cirg 734 -fani 100
+cirg 735
+cirg 735 -fani 100
+cirg 736
+cirg 736 -fani 100
+cirg 737
+cirg 737 -fani 100
+cirg 738
+cirg 738 -fani 100
+cirg 739
+cirg 739 -fani 100
+cirg 740
+cirg 740 -fani 100
+cirg 741
+cirg 741 -fani 100
+cirg 742
+cirg 742 -fani 100
+cirg 743
+cirg 743 -fani 100
+cirg 744
+cirg 744 -fani 100
+cirg 745
+cirg 745 -fani 100
+cirg 746
+cirg 746 -fani 100
+cirg 747
+cirg 747 -fani 100
+cirg 748
+cirg 748 -fani 100
+cirg 749
+cirg 749 -fani 100
+cirg 750
+cirg 750 -fani 100
+cirg 751
+cirg 751 -fani 100
+cirg 752
+cirg 752 -fani 100
+cirg 753
+cirg 753 -fani 100
+cirg 754
+cirg 754 -fani 100
+cirg 755
+cirg 755 -fani 100
+cirg 756
+cirg 756 -fani 100
+cirg 757
+cirg 757 -fani 100
+cirg 758
+cirg 758 -fani 100
+cirg 759
+cirg 759 -fani 100
+cirg 760
+cirg 760 -fani 100
+cirg 761
+cirg 761 -fani 100
+cirg 762
+cirg 762 -fani 100
+cirg 763
+cirg 763 -fani 100
+cirg 764
+cirg 764 -fani 100
+cirg 765
+cirg 765 -fani 100
+cirg 766
+cirg 766 -fani 100
+cirg 767
+cirg 767 -fani 100
+cirg 768
+cirg 768 -fani 100
+cirg 769
+cirg 769 -fani 100
+cirg 770
+cirg 770 -fani 100
+cirg 771
+cirg 771 -fani 100
+cirg 772
+cirg 772 -fani 100
+cirg 773
+cirg 773 -fani 100
+cirg 774
+cirg 774 -fani 100
+cirg 775
+cirg 775 -fani 100
+cirg 776
+cirg 776 -fani 100
+cirg 777
+cirg 777 -fani 100
+cirg 778
+cirg 778 -fani 100
+cirg 779
+cirg 779 -fani 100
+cirg 780
+cirg 780 -fani 100
+cirg 781
+cirg 781 -fani 100
+cirg 782
+cirg 782 -fani 100
+cirg 783
+cirg 783 -fani 100
+cirg 784
+cirg 784 -fani 100
+cirg 785
+cirg 785 -fani 100
+cirg 786
+cirg 786 -fani 100
+cirg 787
+cirg 787 -fani 100
+cirg 788
+cirg 788 -fani 100
+cirg 789
+cirg 789 -fani 100
+cirg 790
+cirg 790 -fani 100
+cirg 791
+cirg 791 -fani 100
+cirg 792
+cirg 792 -fani 100
+cirg 793
+cirg 793 -fani 100
+cirg 794
+cirg 794 -fani 100
+cirg 795
+cirg 795 -fani 100
+cirg 796
+cirg 796 -fani 100
+cirg 797
+cirg 797 -fani 100
+cirg 798
+cirg 798 -fani 100
+cirg 799
+cirg 799 -fani 100
+cirg 800
+cirg 800 -fani 100
+cirg 801
+cirg 801 -fani 100
+cirg 802
+cirg 802 -fani 100
+cirg 803
+cirg 803 -fani 100
+cirg 804
+cirg 804 -fani 100
+cirg 805
+cirg 805 -fani 100
+cirg 806
+cirg 806 -fani 100
+cirg 807
+cirg 807 -fani 100
+cirg 808
+cirg 808 -fani 100
+cirg 809
+cirg 809 -fani 100
+cirg 810
+cirg 810 -fani 100
+cirg 811
+cirg 811 -fani 100
+cirg 812
+cirg 812 -fani 100
+cirg 813
+cirg 813 -fani 100
+cirg 814
+cirg 814 -fani 100
+cirg 815
+cirg 815 -fani 100
+cirg 816
+cirg 816 -fani 100
+cirg 817
+cirg 817 -fani 100
+cirg 818
+cirg 818 -fani 100
+cirg 819
+cirg 819 -fani 100
+cirg 820
+cirg 820 -fani 100
+cirg 821
+cirg 821 -fani 100
+cirg 822
+cirg 822 -fani 100
+cirg 823
+cirg 823 -fani 100
+cirg 824
+cirg 824 -fani 100
+cirg 825
+cirg 825 -fani 100
+cirg 826
+cirg 826 -fani 100
+cirg 827
+cirg 827 -fani 100
+cirg 828
+cirg 828 -fani 100
+cirg 829
+cirg 829 -fani 100
+cirg 830
+cirg 830 -fani 100
+cirg 831
+cirg 831 -fani 100
+cirg 832
+cirg 832 -fani 100
+cirg 833
+cirg 833 -fani 100
+cirg 834
+cirg 834 -fani 100
+cirg 835
+cirg 835 -fani 100
+cirg 836
+cirg 836 -fani 100
+cirg 837
+cirg 837 -fani 100
+cirg 838
+cirg 838 -fani 100
+cirg 839
+cirg 839 -fani 100
+cirg 840
+cirg 840 -fani 100
+cirg 841
+cirg 841 -fani 100
+cirg 842
+cirg 842 -fani 100
+cirg 843
+cirg 843 -fani 100
+cirg 844
+cirg 844 -fani 100
+cirg 845
+cirg 845 -fani 100
+cirg 846
+cirg 846 -fani 100
+cirg 847
+cirg 847 -fani 100
+cirg 848
+cirg 848 -fani 100
+cirg 849
+cirg 849 -fani 100
+cirg 850
+cirg 850 -fani 100
+cirg 851
+cirg 851 -fani 100
+cirg 852
+cirg 852 -fani 100
+cirg 853
+cirg 853 -fani 100
+cirg 854
+cirg 854 -fani 100
+cirg 855
+cirg 855 -fani 100
+cirg 856
+cirg 856 -fani 100
+cirg 857
+cirg 857 -fani 100
+cirg 858
+cirg 858 -fani 100
+cirg 859
+cirg 859 -fani 100
+cirg 860
+cirg 860 -fani 100
+cirg 861
+cirg 861 -fani 100
+cirg 862
+cirg 862 -fani 100
+cirg 863
+cirg 863 -fani 100
+cirg 864
+cirg 864 -fani 100
+cirg 865
+cirg 865 -fani 100
+cirg 866
+cirg 866 -fani 100
+cirg 867
+cirg 867 -fani 100
+cirg 868
+cirg 868 -fani 100
+cirg 869
+cirg 869 -fani 100
+cirg 870
+cirg 870 -fani 100
+cirg 871
+cirg 871 -fani 100
+cirg 872
+cirg 872 -fani 100
+cirg 873
+cirg 873 -fani 100
+cirg 874
+cirg 874 -fani 100
+cirg 875
+cirg 875 -fani 100
+cirg 876
+cirg 876 -fani 100
+cirg 877
+cirg 877 -fani 100
+cirg 878
+cirg 878 -fani 100
+cirg 879
+cirg 879 -fani 100
+cirg 880
+cirg 880 -fani 100
+cirg 881
+cirg 881 -fani 100
+cirg 882
+cirg 882 -fani 100
+cirg 883
+cirg 883 -fani 100
+cirg 884
+cirg 884 -fani 100
+cirg 885
+cirg 885 -fani 100
+cirg 886
+cirg 886 -fani 100
+cirg 887
+cirg 887 -fani 100
+cirg 888
+cirg 888 -fani 100
+cirg 889
+cirg 889 -fani 100
+cirg 890
+cirg 890 -fani 100
+cirg 891
+cirg 891 -fani 100
+cirg 892
+cirg 892 -fani 100
+cirg 893
+cirg 893 -fani 100
+cirg 894
+cirg 894 -fani 100
+cirg 895
+cirg 895 -fani 100
+cirg 896
+cirg 896 -fani 100
+cirg 897
+cirg 897 -fani 100
+cirg 898
+cirg 898 -fani 100
+cirg 899
+cirg 899 -fani 100
+cirg 900
+cirg 900 -fani 100
+cirg 901
+cirg 901 -fani 100
+cirg 902
+cirg 902 -fani 100
+cirg 903
+cirg 903 -fani 100
+cirg 904
+cirg 904 -fani 100
+cirg 905
+cirg 905 -fani 100
+cirg 906
+cirg 906 -fani 100
+cirg 907
+cirg 907 -fani 100
+cirg 908
+cirg 908 -fani 100
+cirg 909
+cirg 909 -fani 100
+cirg 910
+cirg 910 -fani 100
+cirg 911
+cirg 911 -fani 100
+cirg 912
+cirg 912 -fani 100
+cirg 913
+cirg 913 -fani 100
+cirg 914
+cirg 914 -fani 100
+cirg 915
+cirg 915 -fani 100
+cirg 916
+cirg 916 -fani 100
+cirg 917
+cirg 917 -fani 100
+cirg 918
+cirg 918 -fani 100
+cirg 919
+cirg 919 -fani 100
+cirg 920
+cirg 920 -fani 100
+cirg 921
+cirg 921 -fani 100
+cirg 922
+cirg 922 -fani 100
+cirg 923
+cirg 923 -fani 100
+cirg 924
+cirg 924 -fani 100
+cirg 925
+cirg 925 -fani 100
+cirg 926
+cirg 926 -fani 100
+cirg 927
+cirg 927 -fani 100
+cirg 928
+cirg 928 -fani 100
+cirg 929
+cirg 929 -fani 100
+cirg 930
+cirg 930 -fani 100
+cirg 931
+cirg 931 -fani 100
+cirg 932
+cirg 932 -fani 100
+cirg 933
+cirg 933 -fani 100
+cirg 934
+cirg 934 -fani 100
+cirg 935
+cirg 935 -fani 100
+cirg 936
+cirg 936 -fani 100
+cirg 937
+cirg 937 -fani 100
+cirg 938
+cirg 938 -fani 100
+cirg 939
+cirg 939 -fani 100
+cirg 940
+cirg 940 -fani 100
+cirg 941
+cirg 941 -fani 100
+cirg 942
+cirg 942 -fani 100
+cirg 943
+cirg 943 -fani 100
+cirg 944
+cirg 944 -fani 100
+cirg 945
+cirg 945 -fani 100
+cirg 946
+cirg 946 -fani 100
+cirg 947
+cirg 947 -fani 100
+cirg 948
+cirg 948 -fani 100
+cirg 949
+cirg 949 -fani 100
+cirg 950
+cirg 950 -fani 100
+cirg 951
+cirg 951 -fani 100
+cirg 952
+cirg 952 -fani 100
+cirg 953
+cirg 953 -fani 100
+cirg 954
+cirg 954 -fani 100
+cirg 955
+cirg 955 -fani 100
+cirg 956
+cirg 956 -fani 100
+cirg 957
+cirg 957 -fani 100
+cirg 958
+cirg 958 -fani 100
+cirg 959
+cirg 959 -fani 100
+cirg 960
+cirg 960 -fani 100
+cirg 961
+cirg 961 -fani 100
+cirg 962
+cirg 962 -fani 100
+cirg 963
+cirg 963 -fani 100
+cirg 964
+cirg 964 -fani 100
+cirg 965
+cirg 965 -fani 100
+cirg 966
+cirg 966 -fani 100
+cirg 967
+cirg 967 -fani 100
+cirg 968
+cirg 968 -fani 100
+cirg 969
+cirg 969 -fani 100
+cirg 970
+cirg 970 -fani 100
+cirg 971
+cirg 971 -fani 100
+cirg 972
+cirg 972 -fani 100
+cirg 973
+cirg 973 -fani 100
+cirg 974
+cirg 974 -fani 100
+cirg 975
+cirg 975 -fani 100
+cirg 976
+cirg 976 -fani 100
+cirg 977
+cirg 977 -fani 100
+cirg 978
+cirg 978 -fani 100
+cirg 979
+cirg 979 -fani 100
+cirg 980
+cirg 980 -fani 100
+cirg 981
+cirg 981 -fani 100
+cirg 982
+cirg 982 -fani 100
+cirg 983
+cirg 983 -fani 100
+cirg 984
+cirg 984 -fani 100
+cirg 985
+cirg 985 -fani 100
+cirg 986
+cirg 986 -fani 100
+cirg 987
+cirg 987 -fani 100
+cirg 988
+cirg 988 -fani 100
+cirg 989
+cirg 989 -fani 100
+cirg 990
+cirg 990 -fani 100
+cirg 991
+cirg 991 -fani 100
+cirg 992
+cirg 992 -fani 100
+cirg 993
+cirg 993 -fani 100
+cirg 994
+cirg 994 -fani 100
+cirg 995
+cirg 995 -fani 100
+cirg 996
+cirg 996 -fani 100
+cirg 997
+cirg 997 -fani 100
+cirg 998
+cirg 998 -fani 100
+cirg 999
+cirg 999 -fani 100
+cirg 1000
+cirg 1000 -fani 100
+cirg 1001
+cirg 1001 -fani 100
+cirg 1002
+cirg 1002 -fani 100
+cirg 1003
+cirg 1003 -fani 100
+cirg 1004
+cirg 1004 -fani 100
+cirg 1005
+cirg 1005 -fani 100
+cirg 1006
+cirg 1006 -fani 100
+cirg 1007
+cirg 1007 -fani 100
+cirg 1008
+cirg 1008 -fani 100
+cirg 1009
+cirg 1009 -fani 100
+cirg 1010
+cirg 1010 -fani 100
+cirg 1011
+cirg 1011 -fani 100
+cirg 1012
+cirg 1012 -fani 100
+cirg 1013
+cirg 1013 -fani 100
+cirg 1014
+cirg 1014 -fani 100
+cirg 1015
+cirg 1015 -fani 100
+cirg 1016
+cirg 1016 -fani 100
+cirg 1017
+cirg 1017 -fani 100
+cirg 1018
+cirg 1018 -fani 100
+cirg 1019
+cirg 1019 -fani 100
+cirg 1020
+cirg 1020 -fani 100
+cirg 1021
+cirg 1021 -fani 100
+cirg 1022
+cirg 1022 -fani 100
+cirg 1023
+cirg 1023 -fani 100
+cirg 1024
+cirg 1024 -fani 100
+cirg 1025
+cirg 1025 -fani 100
+cirg 1026
+cirg 1026 -fani 100
+cirg 1027
+cirg 1027 -fani 100
+cirg 1028
+cirg 1028 -fani 100
+cirg 1029
+cirg 1029 -fani 100
+cirg 1030
+cirg 1030 -fani 100
+cirg 1031
+cirg 1031 -fani 100
+cirg 1032
+cirg 1032 -fani 100
+cirg 1033
+cirg 1033 -fani 100
+cirg 1034
+cirg 1034 -fani 100
+cirg 1035
+cirg 1035 -fani 100
+cirg 1036
+cirg 1036 -fani 100
+cirg 1037
+cirg 1037 -fani 100
+cirg 1038
+cirg 1038 -fani 100
+cirg 1039
+cirg 1039 -fani 100
+cirg 1040
+cirg 1040 -fani 100
+cirg 1041
+cirg 1041 -fani 100
+cirg 1042
+cirg 1042 -fani 100
+cirg 1043
+cirg 1043 -fani 100
+cirg 1044
+cirg 1044 -fani 100
+cirg 1045
+cirg 1045 -fani 100
+cirg 1046
+cirg 1046 -fani 100
+cirg 1047
+cirg 1047 -fani 100
+cirg 1048
+cirg 1048 -fani 100
+cirg 1049
+cirg 1049 -fani 100
+cirg 1050
+cirg 1050 -fani 100
+cirg 1051
+cirg 1051 -fani 100
+cirg 1052
+cirg 1052 -fani 100
+cirg 1053
+cirg 1053 -fani 100
+cirg 1054
+cirg 1054 -fani 100
+cirg 1055
+cirg 1055 -fani 100
+cirg 1056
+cirg 1056 -fani 100
+cirg 1057
+cirg 1057 -fani 100
+cirg 1058
+cirg 1058 -fani 100
+cirg 1059
+cirg 1059 -fani 100
+cirg 1060
+cirg 1060 -fani 100
+cirg 1061
+cirg 1061 -fani 100
+cirg 1062
+cirg 1062 -fani 100
+cirg 1063
+cirg 1063 -fani 100
+cirg 1064
+cirg 1064 -fani 100
+cirg 1065
+cirg 1065 -fani 100
+cirg 1066
+cirg 1066 -fani 100
+cirg 1067
+cirg 1067 -fani 100
+cirg 1068
+cirg 1068 -fani 100
+cirg 1069
+cirg 1069 -fani 100
+cirg 1070
+cirg 1070 -fani 100
+cirg 1071
+cirg 1071 -fani 100
+cirg 1072
+cirg 1072 -fani 100
+cirg 1073
+cirg 1073 -fani 100
+cirg 1074
+cirg 1074 -fani 100
+cirg 1075
+cirg 1075 -fani 100
+cirg 1076
+cirg 1076 -fani 100
+cirg 1077
+cirg 1077 -fani 100
+cirg 1078
+cirg 1078 -fani 100
+cirg 1079
+cirg 1079 -fani 100
+cirg 1080
+cirg 1080 -fani 100
+cirg 1081
+cirg 1081 -fani 100
+cirg 1082
+cirg 1082 -fani 100
+cirg 1083
+cirg 1083 -fani 100
+cirg 1084
+cirg 1084 -fani 100
+cirg 1085
+cirg 1085 -fani 100
+cirg 1086
+cirg 1086 -fani 100
+cirg 1087
+cirg 1087 -fani 100
+cirg 1088
+cirg 1088 -fani 100
+cirg 1089
+cirg 1089 -fani 100
+cirg 1090
+cirg 1090 -fani 100
+cirg 1091
+cirg 1091 -fani 100
+cirg 1092
+cirg 1092 -fani 100
+cirg 1093
+cirg 1093 -fani 100
+cirg 1094
+cirg 1094 -fani 100
+cirg 1095
+cirg 1095 -fani 100
+cirg 1096
+cirg 1096 -fani 100
+cirg 1097
+cirg 1097 -fani 100
+cirg 1098
+cirg 1098 -fani 100
+cirg 1099
+cirg 1099 -fani 100
+cirg 1100
+cirg 1100 -fani 100
+cirg 1101
+cirg 1101 -fani 100
+cirg 1102
+cirg 1102 -fani 100
+cirg 1103
+cirg 1103 -fani 100
+cirg 1104
+cirg 1104 -fani 100
+cirg 1105
+cirg 1105 -fani 100
+cirg 1106
+cirg 1106 -fani 100
+cirg 1107
+cirg 1107 -fani 100
+cirg 1108
+cirg 1108 -fani 100
+cirg 1109
+cirg 1109 -fani 100
+cirg 1110
+cirg 1110 -fani 100
+cirg 1111
+cirg 1111 -fani 100
+cirg 1112
+cirg 1112 -fani 100
+cirg 1113
+cirg 1113 -fani 100
+cirg 1114
+cirg 1114 -fani 100
+cirg 1115
+cirg 1115 -fani 100
+cirg 1116
+cirg 1116 -fani 100
+cirg 1117
+cirg 1117 -fani 100
+cirg 1118
+cirg 1118 -fani 100
+cirg 1119
+cirg 1119 -fani 100
+cirg 1120
+cirg 1120 -fani 100
+cirg 1121
+cirg 1121 -fani 100
+cirg 1122
+cirg 1122 -fani 100
+cirg 1123
+cirg 1123 -fani 100
+cirg 1124
+cirg 1124 -fani 100
+cirg 1125
+cirg 1125 -fani 100
+cirg 1126
+cirg 1126 -fani 100
+cirg 1127
+cirg 1127 -fani 100
+cirg 1128
+cirg 1128 -fani 100
+cirg 1129
+cirg 1129 -fani 100
+cirg 1130
+cirg 1130 -fani 100
+cirg 1131
+cirg 1131 -fani 100
+cirg 1132
+cirg 1132 -fani 100
+cirg 1133
+cirg 1133 -fani 100
+cirg 1134
+cirg 1134 -fani 100
+cirg 1135
+cirg 1135 -fani 100
+cirg 1136
+cirg 1136 -fani 100
+cirg 1137
+cirg 1137 -fani 100
+cirg 1138
+cirg 1138 -fani 100
+cirg 1139
+cirg 1139 -fani 100
+cirg 1140
+cirg 1140 -fani 100
+cirg 1141
+cirg 1141 -fani 100
+cirg 1142
+cirg 1142 -fani 100
+cirg 1143
+cirg 1143 -fani 100
+cirg 1144
+cirg 1144 -fani 100
+cirg 1145
+cirg 1145 -fani 100
+cirg 1146
+cirg 1146 -fani 100
+cirg 1147
+cirg 1147 -fani 100
+cirg 1148
+cirg 1148 -fani 100
+cirg 1149
+cirg 1149 -fani 100
+cirg 1150
+cirg 1150 -fani 100
+cirg 1151
+cirg 1151 -fani 100
+cirg 1152
+cirg 1152 -fani 100
+cirg 1153
+cirg 1153 -fani 100
+cirg 1154
+cirg 1154 -fani 100
+cirg 1155
+cirg 1155 -fani 100
+cirg 1156
+cirg 1156 -fani 100
+cirg 1157
+cirg 1157 -fani 100
+cirg 1158
+cirg 1158 -fani 100
+cirg 1159
+cirg 1159 -fani 100
+cirg 1160
+cirg 1160 -fani 100
+cirg 1161
+cirg 1161 -fani 100
+cirg 1162
+cirg 1162 -fani 100
+cirg 1163
+cirg 1163 -fani 100
+cirg 1164
+cirg 1164 -fani 100
+cirg 1165
+cirg 1165 -fani 100
+cirg 1166
+cirg 1166 -fani 100
+cirg 1167
+cirg 1167 -fani 100
+cirg 1168
+cirg 1168 -fani 100
+cirg 1169
+cirg 1169 -fani 100
+cirg 1170
+cirg 1170 -fani 100
+cirg 1171
+cirg 1171 -fani 100
+cirg 1172
+cirg 1172 -fani 100
+cirg 1173
+cirg 1173 -fani 100
+cirg 1174
+cirg 1174 -fani 100
+cirg 1175
+cirg 1175 -fani 100
+cirg 1176
+cirg 1176 -fani 100
+cirg 1177
+cirg 1177 -fani 100
+cirg 1178
+cirg 1178 -fani 100
+cirg 1179
+cirg 1179 -fani 100
+cirg 1180
+cirg 1180 -fani 100
+cirg 1181
+cirg 1181 -fani 100
+cirg 1182
+cirg 1182 -fani 100
+cirg 1183
+cirg 1183 -fani 100
+cirg 1184
+cirg 1184 -fani 100
+cirg 1185
+cirg 1185 -fani 100
+cirg 1186
+cirg 1186 -fani 100
+cirg 1187
+cirg 1187 -fani 100
+cirg 1188
+cirg 1188 -fani 100
+cirg 1189
+cirg 1189 -fani 100
+cirg 1190
+cirg 1190 -fani 100
+cirg 1191
+cirg 1191 -fani 100
+cirg 1192
+cirg 1192 -fani 100
+cirg 1193
+cirg 1193 -fani 100
+cirg 1194
+cirg 1194 -fani 100
+cirg 1195
+cirg 1195 -fani 100
+cirg 1196
+cirg 1196 -fani 100
+cirg 1197
+cirg 1197 -fani 100
+cirg 1198
+cirg 1198 -fani 100
+cirg 1199
+cirg 1199 -fani 100
+cirg 1200
+cirg 1200 -fani 100
+cirg 1201
+cirg 1201 -fani 100
+cirg 1202
+cirg 1202 -fani 100
+cirg 1203
+cirg 1203 -fani 100
+cirg 1204
+cirg 1204 -fani 100
+cirg 1205
+cirg 1205 -fani 100
+cirg 1206
+cirg 1206 -fani 100
+cirg 1207
+cirg 1207 -fani 100
+cirg 1208
+cirg 1208 -fani 100
+cirg 1209
+cirg 1209 -fani 100
+cirg 1210
+cirg 1210 -fani 100
+cirg 1211
+cirg 1211 -fani 100
+cirg 1212
+cirg 1212 -fani 100
+cirg 1213
+cirg 1213 -fani 100
+cirg 1214
+cirg 1214 -fani 100
+cirg 1215
+cirg 1215 -fani 100
+cirg 1216
+cirg 1216 -fani 100
+cirg 1217
+cirg 1217 -fani 100
+cirg 1218
+cirg 1218 -fani 100
+cirg 1219
+cirg 1219 -fani 100
+cirg 1220
+cirg 1220 -fani 100
+cirg 1221
+cirg 1221 -fani 100
+cirg 1222
+cirg 1222 -fani 100
+cirg 1223
+cirg 1223 -fani 100
+cirg 1224
+cirg 1224 -fani 100
+cirg 1225
+cirg 1225 -fani 100
+cirg 1226
+cirg 1226 -fani 100
+cirg 1227
+cirg 1227 -fani 100
+cirg 1228
+cirg 1228 -fani 100
+cirg 1229
+cirg 1229 -fani 100
+cirg 1230
+cirg 1230 -fani 100
+cirg 1231
+cirg 1231 -fani 100
+cirg 1232
+cirg 1232 -fani 100
+cirg 1233
+cirg 1233 -fani 100
+cirg 1234
+cirg 1234 -fani 100
+cirg 1235
+cirg 1235 -fani 100
+cirg 1236
+cirg 1236 -fani 100
+cirg 1237
+cirg 1237 -fani 100
+cirg 1238
+cirg 1238 -fani 100
+cirg 1239
+cirg 1239 -fani 100
+cirg 1240
+cirg 1240 -fani 100
+cirg 1241
+cirg 1241 -fani 100
+cirg 1242
+cirg 1242 -fani 100
+cirg 1243
+cirg 1243 -fani 100
+cirg 1244
+cirg 1244 -fani 100
+cirg 1245
+cirg 1245 -fani 100
+cirg 1246
+cirg 1246 -fani 100
+cirg 1247
+cirg 1247 -fani 100
+cirg 1248
+cirg 1248 -fani 100
+cirg 1249
+cirg 1249 -fani 100
+cirg 1250
+cirg 1250 -fani 100
+cirg 1251
+cirg 1251 -fani 100
+cirg 1252
+cirg 1252 -fani 100
+cirg 1253
+cirg 1253 -fani 100
+cirg 1254
+cirg 1254 -fani 100
+cirg 1255
+cirg 1255 -fani 100
+cirg 1256
+cirg 1256 -fani 100
+cirg 1257
+cirg 1257 -fani 100
+cirg 1258
+cirg 1258 -fani 100
+cirg 1259
+cirg 1259 -fani 100
+cirg 1260
+cirg 1260 -fani 100
+cirg 1261
+cirg 1261 -fani 100
+cirg 1262
+cirg 1262 -fani 100
+cirg 1263
+cirg 1263 -fani 100
+cirg 1264
+cirg 1264 -fani 100
+cirg 1265
+cirg 1265 -fani 100
+cirg 1266
+cirg 1266 -fani 100
+cirg 1267
+cirg 1267 -fani 100
+cirg 1268
+cirg 1268 -fani 100
+cirg 1269
+cirg 1269 -fani 100
+cirg 1270
+cirg 1270 -fani 100
+cirg 1271
+cirg 1271 -fani 100
+cirg 1272
+cirg 1272 -fani 100
+cirg 1273
+cirg 1273 -fani 100
+cirg 1274
+cirg 1274 -fani 100
+cirg 1275
+cirg 1275 -fani 100
+cirg 1276
+cirg 1276 -fani 100
+cirg 1277
+cirg 1277 -fani 100
+cirg 1278
+cirg 1278 -fani 100
+cirg 1279
+cirg 1279 -fani 100
+cirg 1280
+cirg 1280 -fani 100
+cirg 1281
+cirg 1281 -fani 100
+cirg 1282
+cirg 1282 -fani 100
+cirg 1283
+cirg 1283 -fani 100
+cirg 1284
+cirg 1284 -fani 100
+cirg 1285
+cirg 1285 -fani 100
+cirg 1286
+cirg 1286 -fani 100
+cirg 1287
+cirg 1287 -fani 100
+cirg 1288
+cirg 1288 -fani 100
+cirg 1289
+cirg 1289 -fani 100
+cirg 1290
+cirg 1290 -fani 100
+cirg 1291
+cirg 1291 -fani 100
+cirg 1292
+cirg 1292 -fani 100
+cirg 1293
+cirg 1293 -fani 100
+cirg 1294
+cirg 1294 -fani 100
+cirg 1295
+cirg 1295 -fani 100
+cirg 1296
+cirg 1296 -fani 100
+cirg 1297
+cirg 1297 -fani 100
+cirg 1298
+cirg 1298 -fani 100
+cirg 1299
+cirg 1299 -fani 100
+cirg 1300
+cirg 1300 -fani 100
+cirg 1301
+cirg 1301 -fani 100
+cirg 1302
+cirg 1302 -fani 100
+cirg 1303
+cirg 1303 -fani 100
+cirg 1304
+cirg 1304 -fani 100
+cirg 1305
+cirg 1305 -fani 100
+cirg 1306
+cirg 1306 -fani 100
+cirg 1307
+cirg 1307 -fani 100
+cirg 1308
+cirg 1308 -fani 100
+cirg 1309
+cirg 1309 -fani 100
+cirg 1310
+cirg 1310 -fani 100
+cirg 1311
+cirg 1311 -fani 100
+cirg 1312
+cirg 1312 -fani 100
+cirg 1313
+cirg 1313 -fani 100
+cirg 1314
+cirg 1314 -fani 100
+cirg 1315
+cirg 1315 -fani 100
+cirg 1316
+cirg 1316 -fani 100
+cirg 1317
+cirg 1317 -fani 100
+cirg 1318
+cirg 1318 -fani 100
+cirg 1319
+cirg 1319 -fani 100
+cirg 1320
+cirg 1320 -fani 100
+cirg 1321
+cirg 1321 -fani 100
+cirg 1322
+cirg 1322 -fani 100
+cirg 1323
+cirg 1323 -fani 100
+cirg 1324
+cirg 1324 -fani 100
+cirg 1325
+cirg 1325 -fani 100
+cirg 1326
+cirg 1326 -fani 100
+cirg 1327
+cirg 1327 -fani 100
+cirg 1328
+cirg 1328 -fani 100
+cirg 1329
+cirg 1329 -fani 100
+cirg 1330
+cirg 1330 -fani 100
+cirg 1331
+cirg 1331 -fani 100
+cirg 1332
+cirg 1332 -fani 100
+cirg 1333
+cirg 1333 -fani 100
+cirg 1334
+cirg 1334 -fani 100
+cirg 1335
+cirg 1335 -fani 100
+cirg 1336
+cirg 1336 -fani 100
+cirg 1337
+cirg 1337 -fani 100
+cirg 1338
+cirg 1338 -fani 100
+cirg 1339
+cirg 1339 -fani 100
+cirg 1340
+cirg 1340 -fani 100
+cirg 1341
+cirg 1341 -fani 100
+cirg 1342
+cirg 1342 -fani 100
+cirg 1343
+cirg 1343 -fani 100
+cirg 1344
+cirg 1344 -fani 100
+cirg 1345
+cirg 1345 -fani 100
+cirg 1346
+cirg 1346 -fani 100
+cirg 1347
+cirg 1347 -fani 100
+cirg 1348
+cirg 1348 -fani 100
+cirg 1349
+cirg 1349 -fani 100
+cirg 1350
+cirg 1350 -fani 100
+cirg 1351
+cirg 1351 -fani 100
+cirg 1352
+cirg 1352 -fani 100
+cirg 1353
+cirg 1353 -fani 100
+cirg 1354
+cirg 1354 -fani 100
+cirg 1355
+cirg 1355 -fani 100
+cirg 1356
+cirg 1356 -fani 100
+cirg 1357
+cirg 1357 -fani 100
+cirg 1358
+cirg 1358 -fani 100
+cirg 1359
+cirg 1359 -fani 100
+cirg 1360
+cirg 1360 -fani 100
+cirg 1361
+cirg 1361 -fani 100
+cirg 1362
+cirg 1362 -fani 100
+cirg 1363
+cirg 1363 -fani 100
+cirg 1364
+cirg 1364 -fani 100
+cirg 1365
+cirg 1365 -fani 100
+cirg 1366
+cirg 1366 -fani 100
+cirg 1367
+cirg 1367 -fani 100
+cirg 1368
+cirg 1368 -fani 100
+cirg 1369
+cirg 1369 -fani 100
+cirg 1370
+cirg 1370 -fani 100
+cirg 1371
+cirg 1371 -fani 100
+cirg 1372
+cirg 1372 -fani 100
+cirg 1373
+cirg 1373 -fani 100
+cirg 1374
+cirg 1374 -fani 100
+cirg 1375
+cirg 1375 -fani 100
+cirg 1376
+cirg 1376 -fani 100
+cirg 1377
+cirg 1377 -fani 100
+cirg 1378
+cirg 1378 -fani 100
+cirg 1379
+cirg 1379 -fani 100
+cirg 1380
+cirg 1380 -fani 100
+cirg 1381
+cirg 1381 -fani 100
+cirg 1382
+cirg 1382 -fani 100
+cirg 1383
+cirg 1383 -fani 100
+cirg 1384
+cirg 1384 -fani 100
+cirg 1385
+cirg 1385 -fani 100
+cirg 1386
+cirg 1386 -fani 100
+cirg 1387
+cirg 1387 -fani 100
+cirg 1388
+cirg 1388 -fani 100
+cirg 1389
+cirg 1389 -fani 100
+cirg 1390
+cirg 1390 -fani 100
+cirg 1391
+cirg 1391 -fani 100
+cirg 1392
+cirg 1392 -fani 100
+cirg 1393
+cirg 1393 -fani 100
+cirg 1394
+cirg 1394 -fani 100
+cirg 1395
+cirg 1395 -fani 100
+cirg 1396
+cirg 1396 -fani 100
+cirg 1397
+cirg 1397 -fani 100
+cirg 1398
+cirg 1398 -fani 100
+cirg 1399
+cirg 1399 -fani 100
+cirg 1400
+cirg 1400 -fani 100
+cirg 1401
+cirg 1401 -fani 100
+cirg 1402
+cirg 1402 -fani 100
+cirg 1403
+cirg 1403 -fani 100
+cirg 1404
+cirg 1404 -fani 100
+cirg 1405
+cirg 1405 -fani 100
+cirg 1406
+cirg 1406 -fani 100
+cirg 1407
+cirg 1407 -fani 100
+cirg 1408
+cirg 1408 -fani 100
+cirg 1409
+cirg 1409 -fani 100
+cirg 1410
+cirg 1410 -fani 100
+cirg 1411
+cirg 1411 -fani 100
+cirg 1412
+cirg 1412 -fani 100
+cirg 1413
+cirg 1413 -fani 100
+cirg 1414
+cirg 1414 -fani 100
+cirg 1415
+cirg 1415 -fani 100
+cirg 1416
+cirg 1416 -fani 100
+cirg 1417
+cirg 1417 -fani 100
+cirg 1418
+cirg 1418 -fani 100
+cirg 1419
+cirg 1419 -fani 100
+cirg 1420
+cirg 1420 -fani 100
+cirg 1421
+cirg 1421 -fani 100
+cirg 1422
+cirg 1422 -fani 100
+cirg 1423
+cirg 1423 -fani 100
+cirg 1424
+cirg 1424 -fani 100
+cirg 1425
+cirg 1425 -fani 100
+cirg 1426
+cirg 1426 -fani 100
+cirg 1427
+cirg 1427 -fani 100
+cirg 1428
+cirg 1428 -fani 100
+cirg 1429
+cirg 1429 -fani 100
+cirg 1430
+cirg 1430 -fani 100
+cirg 1431
+cirg 1431 -fani 100
+cirg 1432
+cirg 1432 -fani 100
+cirg 1433
+cirg 1433 -fani 100
+cirg 1434
+cirg 1434 -fani 100
+cirg 1435
+cirg 1435 -fani 100
+cirg 1436
+cirg 1436 -fani 100
+cirg 1437
+cirg 1437 -fani 100
+cirg 1438
+cirg 1438 -fani 100
+cirg 1439
+cirg 1439 -fani 100
+cirg 1440
+cirg 1440 -fani 100
+cirg 1441
+cirg 1441 -fani 100
+cirg 1442
+cirg 1442 -fani 100
+cirg 1443
+cirg 1443 -fani 100
+cirg 1444
+cirg 1444 -fani 100
+cirg 1445
+cirg 1445 -fani 100
+cirg 1446
+cirg 1446 -fani 100
+cirg 1447
+cirg 1447 -fani 100
+cirg 1448
+cirg 1448 -fani 100
+cirg 1449
+cirg 1449 -fani 100
+cirg 1450
+cirg 1450 -fani 100
+cirg 1451
+cirg 1451 -fani 100
+cirg 1452
+cirg 1452 -fani 100
+cirg 1453
+cirg 1453 -fani 100
+cirg 1454
+cirg 1454 -fani 100
+cirg 1455
+cirg 1455 -fani 100
+cirg 1456
+cirg 1456 -fani 100
+cirg 1457
+cirg 1457 -fani 100
+cirg 1458
+cirg 1458 -fani 100
+cirg 1459
+cirg 1459 -fani 100
+cirg 1460
+cirg 1460 -fani 100
+cirg 1461
+cirg 1461 -fani 100
+cirg 1462
+cirg 1462 -fani 100
+cirg 1463
+cirg 1463 -fani 100
+cirg 1464
+cirg 1464 -fani 100
+cirg 1465
+cirg 1465 -fani 100
+cirg 1466
+cirg 1466 -fani 100
+cirg 1467
+cirg 1467 -fani 100
+cirg 1468
+cirg 1468 -fani 100
+cirg 1469
+cirg 1469 -fani 100
+cirg 1470
+cirg 1470 -fani 100
+cirg 1471
+cirg 1471 -fani 100
+cirg 1472
+cirg 1472 -fani 100
+cirg 1473
+cirg 1473 -fani 100
+cirg 1474
+cirg 1474 -fani 100
+cirg 1475
+cirg 1475 -fani 100
+cirg 1476
+cirg 1476 -fani 100
+cirg 1477
+cirg 1477 -fani 100
+cirg 1478
+cirg 1478 -fani 100
+cirg 1479
+cirg 1479 -fani 100
+cirg 1480
+cirg 1480 -fani 100
+cirg 1481
+cirg 1481 -fani 100
+cirg 1482
+cirg 1482 -fani 100
+cirg 1483
+cirg 1483 -fani 100
+cirg 1484
+cirg 1484 -fani 100
+cirg 1485
+cirg 1485 -fani 100
+cirg 1486
+cirg 1486 -fani 100
+cirg 1487
+cirg 1487 -fani 100
+cirg 1488
+cirg 1488 -fani 100
+cirg 1489
+cirg 1489 -fani 100
+cirg 1490
+cirg 1490 -fani 100
+cirg 1491
+cirg 1491 -fani 100
+cirg 1492
+cirg 1492 -fani 100
+cirg 1493
+cirg 1493 -fani 100
+cirg 1494
+cirg 1494 -fani 100
+cirg 1495
+cirg 1495 -fani 100
+cirg 1496
+cirg 1496 -fani 100
+cirg 1497
+cirg 1497 -fani 100
+cirg 1498
+cirg 1498 -fani 100
+cirg 1499
+cirg 1499 -fani 100
+cirg 1500
+cirg 1500 -fani 100
+cirg 1501
+cirg 1501 -fani 100
+cirg 1502
+cirg 1502 -fani 100
+cirg 1503
+cirg 1503 -fani 100
+cirg 1504
+cirg 1504 -fani 100
+cirg 1505
+cirg 1505 -fani 100
+cirg 1506
+cirg 1506 -fani 100
+cirg 1507
+cirg 1507 -fani 100
+cirg 1508
+cirg 1508 -fani 100
+cirg 1509
+cirg 1509 -fani 100
+cirg 1510
+cirg 1510 -fani 100
+cirg 1511
+cirg 1511 -fani 100
+cirg 1512
+cirg 1512 -fani 100
+cirg 1513
+cirg 1513 -fani 100
+cirg 1514
+cirg 1514 -fani 100
+cirg 1515
+cirg 1515 -fani 100
+cirg 1516
+cirg 1516 -fani 100
+cirg 1517
+cirg 1517 -fani 100
+cirg 1518
+cirg 1518 -fani 100
+cirg 1519
+cirg 1519 -fani 100
+cirg 1520
+cirg 1520 -fani 100
+cirg 1521
+cirg 1521 -fani 100
+cirg 1522
+cirg 1522 -fani 100
+cirg 1523
+cirg 1523 -fani 100
+cirg 1524
+cirg 1524 -fani 100
+cirg 1525
+cirg 1525 -fani 100
+cirg 1526
+cirg 1526 -fani 100
+cirg 1527
+cirg 1527 -fani 100
+cirg 1528
+cirg 1528 -fani 100
+cirg 1529
+cirg 1529 -fani 100
+cirg 1530
+cirg 1530 -fani 100
+cirg 1531
+cirg 1531 -fani 100
+cirg 1532
+cirg 1532 -fani 100
+cirg 1533
+cirg 1533 -fani 100
+cirg 1534
+cirg 1534 -fani 100
+cirg 1535
+cirg 1535 -fani 100
+cirg 1536
+cirg 1536 -fani 100
+cirg 1537
+cirg 1537 -fani 100
+cirg 1538
+cirg 1538 -fani 100
+cirg 1539
+cirg 1539 -fani 100
+cirg 1540
+cirg 1540 -fani 100
+cirg 1541
+cirg 1541 -fani 100
+cirg 1542
+cirg 1542 -fani 100
+cirg 1543
+cirg 1543 -fani 100
+cirg 1544
+cirg 1544 -fani 100
+cirg 1545
+cirg 1545 -fani 100
+cirg 1546
+cirg 1546 -fani 100
+cirg 1547
+cirg 1547 -fani 100
+cirg 1548
+cirg 1548 -fani 100
+cirg 1549
+cirg 1549 -fani 100
+cirg 1550
+cirg 1550 -fani 100
+cirg 1551
+cirg 1551 -fani 100
+cirg 1552
+cirg 1552 -fani 100
+cirg 1553
+cirg 1553 -fani 100
+cirg 1554
+cirg 1554 -fani 100
+cirg 1555
+cirg 1555 -fani 100
+cirg 1556
+cirg 1556 -fani 100
+cirg 1557
+cirg 1557 -fani 100
+cirg 1558
+cirg 1558 -fani 100
+cirg 1559
+cirg 1559 -fani 100
+cirg 1560
+cirg 1560 -fani 100
+cirg 1561
+cirg 1561 -fani 100
+cirg 1562
+cirg 1562 -fani 100
+cirg 1563
+cirg 1563 -fani 100
+cirg 1564
+cirg 1564 -fani 100
+cirg 1565
+cirg 1565 -fani 100
+cirg 1566
+cirg 1566 -fani 100
+cirg 1567
+cirg 1567 -fani 100
+cirg 1568
+cirg 1568 -fani 100
+cirg 1569
+cirg 1569 -fani 100
+cirg 1570
+cirg 1570 -fani 100
+cirg 1571
+cirg 1571 -fani 100
+cirg 1572
+cirg 1572 -fani 100
+cirg 1573
+cirg 1573 -fani 100
+cirg 1574
+cirg 1574 -fani 100
+cirg 1575
+cirg 1575 -fani 100
+cirg 1576
+cirg 1576 -fani 100
+cirg 1577
+cirg 1577 -fani 100
+cirg 1578
+cirg 1578 -fani 100
+cirg 1579
+cirg 1579 -fani 100
+cirg 1580
+cirg 1580 -fani 100
+cirg 1581
+cirg 1581 -fani 100
+cirg 1582
+cirg 1582 -fani 100
+cirg 1583
+cirg 1583 -fani 100
+cirg 1584
+cirg 1584 -fani 100
+cirg 1585
+cirg 1585 -fani 100
+cirg 1586
+cirg 1586 -fani 100
+cirg 1587
+cirg 1587 -fani 100
+cirg 1588
+cirg 1588 -fani 100
+cirg 1589
+cirg 1589 -fani 100
+cirg 1590
+cirg 1590 -fani 100
+cirg 1591
+cirg 1591 -fani 100
+cirg 1592
+cirg 1592 -fani 100
+cirg 1593
+cirg 1593 -fani 100
+cirg 1594
+cirg 1594 -fani 100
+cirg 1595
+cirg 1595 -fani 100
+cirg 1596
+cirg 1596 -fani 100
+cirg 1597
+cirg 1597 -fani 100
+cirg 1598
+cirg 1598 -fani 100
+cirg 1599
+cirg 1599 -fani 100
+cirg 1600
+cirg 1600 -fani 100
+cirg 1601
+cirg 1601 -fani 100
+cirg 1602
+cirg 1602 -fani 100
+cirg 1603
+cirg 1603 -fani 100
+cirg 1604
+cirg 1604 -fani 100
+cirg 1605
+cirg 1605 -fani 100
+cirg 1606
+cirg 1606 -fani 100
+cirg 1607
+cirg 1607 -fani 100
+cirg 1608
+cirg 1608 -fani 100
+cirg 1609
+cirg 1609 -fani 100
+cirg 1610
+cirg 1610 -fani 100
+cirg 1611
+cirg 1611 -fani 100
+cirg 1612
+cirg 1612 -fani 100
+cirg 1613
+cirg 1613 -fani 100
+cirg 1614
+cirg 1614 -fani 100
+cirg 1615
+cirg 1615 -fani 100
+cirg 1616
+cirg 1616 -fani 100
+cirg 1617
+cirg 1617 -fani 100
+cirg 1618
+cirg 1618 -fani 100
+cirg 1619
+cirg 1619 -fani 100
+cirg 1620
+cirg 1620 -fani 100
+cirg 1621
+cirg 1621 -fani 100
+cirg 1622
+cirg 1622 -fani 100
+cirg 1623
+cirg 1623 -fani 100
+cirg 1624
+cirg 1624 -fani 100
+cirg 1625
+cirg 1625 -fani 100
+cirg 1626
+cirg 1626 -fani 100
+cirg 1627
+cirg 1627 -fani 100
+cirg 1628
+cirg 1628 -fani 100
+cirg 1629
+cirg 1629 -fani 100
+cirg 1630
+cirg 1630 -fani 100
+cirg 1631
+cirg 1631 -fani 100
+cirg 1632
+cirg 1632 -fani 100
+cirg 1633
+cirg 1633 -fani 100
+cirg 1634
+cirg 1634 -fani 100
+cirg 1635
+cirg 1635 -fani 100
+cirg 1636
+cirg 1636 -fani 100
+cirg 1637
+cirg 1637 -fani 100
+cirg 1638
+cirg 1638 -fani 100
+cirg 1639
+cirg 1639 -fani 100
+cirg 1640
+cirg 1640 -fani 100
+cirg 1641
+cirg 1641 -fani 100
+cirg 1642
+cirg 1642 -fani 100
+cirg 1643
+cirg 1643 -fani 100
+cirg 1644
+cirg 1644 -fani 100
+cirg 1645
+cirg 1645 -fani 100
+cirg 1646
+cirg 1646 -fani 100
+cirg 1647
+cirg 1647 -fani 100
+cirg 1648
+cirg 1648 -fani 100
+cirg 1649
+cirg 1649 -fani 100
+cirg 1650
+cirg 1650 -fani 100
+cirg 1651
+cirg 1651 -fani 100
+cirg 1652
+cirg 1652 -fani 100
+cirg 1653
+cirg 1653 -fani 100
+cirg 1654
+cirg 1654 -fani 100
+cirg 1655
+cirg 1655 -fani 100
+cirg 1656
+cirg 1656 -fani 100
+cirg 1657
+cirg 1657 -fani 100
+cirg 1658
+cirg 1658 -fani 100
+cirg 1659
+cirg 1659 -fani 100
+cirg 1660
+cirg 1660 -fani 100
+cirg 1661
+cirg 1661 -fani 100
+cirg 1662
+cirg 1662 -fani 100
+cirg 1663
+cirg 1663 -fani 100
+cirg 1664
+cirg 1664 -fani 100
+cirg 1665
+cirg 1665 -fani 100
+cirg 1666
+cirg 1666 -fani 100
+cirg 1667
+cirg 1667 -fani 100
+cirg 1668
+cirg 1668 -fani 100
+cirg 1669
+cirg 1669 -fani 100
+cirg 1670
+cirg 1670 -fani 100
+cirg 1671
+cirg 1671 -fani 100
+cirg 1672
+cirg 1672 -fani 100
+cirg 1673
+cirg 1673 -fani 100
+cirg 1674
+cirg 1674 -fani 100
+cirg 1675
+cirg 1675 -fani 100
+cirg 1676
+cirg 1676 -fani 100
+cirg 1677
+cirg 1677 -fani 100
+cirg 1678
+cirg 1678 -fani 100
+cirg 1679
+cirg 1679 -fani 100
+cirg 1680
+cirg 1680 -fani 100
+cirg 1681
+cirg 1681 -fani 100
+cirg 1682
+cirg 1682 -fani 100
+cirg 1683
+cirg 1683 -fani 100
+cirg 1684
+cirg 1684 -fani 100
+cirg 1685
+cirg 1685 -fani 100
+cirg 1686
+cirg 1686 -fani 100
+cirg 1687
+cirg 1687 -fani 100
+cirg 1688
+cirg 1688 -fani 100
+cirg 1689
+cirg 1689 -fani 100
+cirg 1690
+cirg 1690 -fani 100
+cirg 1691
+cirg 1691 -fani 100
+cirg 1692
+cirg 1692 -fani 100
+cirg 1693
+cirg 1693 -fani 100
+cirg 1694
+cirg 1694 -fani 100
+cirg 1695
+cirg 1695 -fani 100
+cirg 1696
+cirg 1696 -fani 100
+cirg 1697
+cirg 1697 -fani 100
+cirg 1698
+cirg 1698 -fani 100
+cirg 1699
+cirg 1699 -fani 100
+cirg 1700
+cirg 1700 -fani 100
+cirg 1701
+cirg 1701 -fani 100
+cirg 1702
+cirg 1702 -fani 100
+cirg 1703
+cirg 1703 -fani 100
+cirg 1704
+cirg 1704 -fani 100
+cirg 1705
+cirg 1705 -fani 100
+cirg 1706
+cirg 1706 -fani 100
+cirg 1707
+cirg 1707 -fani 100
+cirg 1708
+cirg 1708 -fani 100
+cirg 1709
+cirg 1709 -fani 100
+cirg 1710
+cirg 1710 -fani 100
+cirg 1711
+cirg 1711 -fani 100
+cirg 1712
+cirg 1712 -fani 100
+cirg 1713
+cirg 1713 -fani 100
+cirg 1714
+cirg 1714 -fani 100
+cirg 1715
+cirg 1715 -fani 100
+cirg 1716
+cirg 1716 -fani 100
+cirg 1717
+cirg 1717 -fani 100
+cirg 1718
+cirg 1718 -fani 100
+cirg 1719
+cirg 1719 -fani 100
+cirg 1720
+cirg 1720 -fani 100
+cirg 1721
+cirg 1721 -fani 100
+cirg 1722
+cirg 1722 -fani 100
+cirg 1723
+cirg 1723 -fani 100
+cirg 1724
+cirg 1724 -fani 100
+cirg 1725
+cirg 1725 -fani 100
+cirg 1726
+cirg 1726 -fani 100
+cirg 1727
+cirg 1727 -fani 100
+cirg 1728
+cirg 1728 -fani 100
+cirg 1729
+cirg 1729 -fani 100
+cirg 1730
+cirg 1730 -fani 100
+cirg 1731
+cirg 1731 -fani 100
+cirg 1732
+cirg 1732 -fani 100
+cirg 1733
+cirg 1733 -fani 100
+cirg 1734
+cirg 1734 -fani 100
+cirg 1735
+cirg 1735 -fani 100
+cirg 1736
+cirg 1736 -fani 100
+cirg 1737
+cirg 1737 -fani 100
+cirg 1738
+cirg 1738 -fani 100
+cirg 1739
+cirg 1739 -fani 100
+cirg 1740
+cirg 1740 -fani 100
+cirg 1741
+cirg 1741 -fani 100
+cirg 1742
+cirg 1742 -fani 100
+cirg 1743
+cirg 1743 -fani 100
+cirg 1744
+cirg 1744 -fani 100
+cirg 1745
+cirg 1745 -fani 100
+cirg 1746
+cirg 1746 -fani 100
+cirg 1747
+cirg 1747 -fani 100
+cirg 1748
+cirg 1748 -fani 100
+cirg 1749
+cirg 1749 -fani 100
+cirg 1750
+cirg 1750 -fani 100
+cirg 1751
+cirg 1751 -fani 100
+cirg 1752
+cirg 1752 -fani 100
+cirg 1753
+cirg 1753 -fani 100
+cirg 1754
+cirg 1754 -fani 100
+cirg 1755
+cirg 1755 -fani 100
+cirg 1756
+cirg 1756 -fani 100
+cirg 1757
+cirg 1757 -fani 100
+cirg 1758
+cirg 1758 -fani 100
+cirg 1759
+cirg 1759 -fani 100
+cirg 1760
+cirg 1760 -fani 100
+cirg 1761
+cirg 1761 -fani 100
+cirg 1762
+cirg 1762 -fani 100
+cirg 1763
+cirg 1763 -fani 100
+cirg 1764
+cirg 1764 -fani 100
+cirg 1765
+cirg 1765 -fani 100
+cirg 1766
+cirg 1766 -fani 100
+cirg 1767
+cirg 1767 -fani 100
+cirg 1768
+cirg 1768 -fani 100
+cirg 1769
+cirg 1769 -fani 100
+cirg 1770
+cirg 1770 -fani 100
+cirg 1771
+cirg 1771 -fani 100
+cirg 1772
+cirg 1772 -fani 100
+cirg 1773
+cirg 1773 -fani 100
+cirg 1774
+cirg 1774 -fani 100
+cirg 1775
+cirg 1775 -fani 100
+cirg 1776
+cirg 1776 -fani 100
+cirg 1777
+cirg 1777 -fani 100
+cirg 1778
+cirg 1778 -fani 100
+cirg 1779
+cirg 1779 -fani 100
+cirg 1780
+cirg 1780 -fani 100
+cirg 1781
+cirg 1781 -fani 100
+cirg 1782
+cirg 1782 -fani 100
+cirg 1783
+cirg 1783 -fani 100
+cirg 1784
+cirg 1784 -fani 100
+cirg 1785
+cirg 1785 -fani 100
+cirg 1786
+cirg 1786 -fani 100
+cirg 1787
+cirg 1787 -fani 100
+cirg 1788
+cirg 1788 -fani 100
+cirg 1789
+cirg 1789 -fani 100
+cirg 1790
+cirg 1790 -fani 100
+cirg 1791
+cirg 1791 -fani 100
+cirg 1792
+cirg 1792 -fani 100
+cirg 1793
+cirg 1793 -fani 100
+cirg 1794
+cirg 1794 -fani 100
+cirg 1795
+cirg 1795 -fani 100
+cirg 1796
+cirg 1796 -fani 100
+cirg 1797
+cirg 1797 -fani 100
+cirg 1798
+cirg 1798 -fani 100
+cirg 1799
+cirg 1799 -fani 100
+cirg 1800
+cirg 1800 -fani 100
+cirg 1801
+cirg 1801 -fani 100
+cirg 1802
+cirg 1802 -fani 100
+cirg 1803
+cirg 1803 -fani 100
+cirg 1804
+cirg 1804 -fani 100
+cirg 1805
+cirg 1805 -fani 100
+cirg 1806
+cirg 1806 -fani 100
+cirg 1807
+cirg 1807 -fani 100
+cirg 1808
+cirg 1808 -fani 100
+cirg 1809
+cirg 1809 -fani 100
+cirg 1810
+cirg 1810 -fani 100
+cirg 1811
+cirg 1811 -fani 100
+cirg 1812
+cirg 1812 -fani 100
+cirg 1813
+cirg 1813 -fani 100
+cirg 1814
+cirg 1814 -fani 100
+cirg 1815
+cirg 1815 -fani 100
+cirg 1816
+cirg 1816 -fani 100
+cirg 1817
+cirg 1817 -fani 100
+cirg 1818
+cirg 1818 -fani 100
+cirg 1819
+cirg 1819 -fani 100
+cirg 1820
+cirg 1820 -fani 100
+cirg 1821
+cirg 1821 -fani 100
+cirg 1822
+cirg 1822 -fani 100
+cirg 1823
+cirg 1823 -fani 100
+cirg 1824
+cirg 1824 -fani 100
+cirg 1825
+cirg 1825 -fani 100
+cirg 1826
+cirg 1826 -fani 100
+cirg 1827
+cirg 1827 -fani 100
+cirg 1828
+cirg 1828 -fani 100
+cirg 1829
+cirg 1829 -fani 100
+cirg 1830
+cirg 1830 -fani 100
+cirg 1831
+cirg 1831 -fani 100
+cirg 1832
+cirg 1832 -fani 100
+cirg 1833
+cirg 1833 -fani 100
+cirg 1834
+cirg 1834 -fani 100
+cirg 1835
+cirg 1835 -fani 100
+cirg 1836
+cirg 1836 -fani 100
+cirg 1837
+cirg 1837 -fani 100
+cirg 1838
+cirg 1838 -fani 100
+cirg 1839
+cirg 1839 -fani 100
+cirg 1840
+cirg 1840 -fani 100
+cirg 1841
+cirg 1841 -fani 100
+cirg 1842
+cirg 1842 -fani 100
+cirg 1843
+cirg 1843 -fani 100
+cirg 1844
+cirg 1844 -fani 100
+cirg 1845
+cirg 1845 -fani 100
+cirg 1846
+cirg 1846 -fani 100
+cirg 1847
+cirg 1847 -fani 100
+cirg 1848
+cirg 1848 -fani 100
+cirg 1849
+cirg 1849 -fani 100
+cirg 1850
+cirg 1850 -fani 100
+cirg 1851
+cirg 1851 -fani 100
+cirg 1852
+cirg 1852 -fani 100
+cirg 1853
+cirg 1853 -fani 100
+cirg 1854
+cirg 1854 -fani 100
+cirg 1855
+cirg 1855 -fani 100
+cirg 1856
+cirg 1856 -fani 100
+cirg 1857
+cirg 1857 -fani 100
+cirg 1858
+cirg 1858 -fani 100
+cirg 1859
+cirg 1859 -fani 100
+cirg 1860
+cirg 1860 -fani 100
+cirg 1861
+cirg 1861 -fani 100
+cirg 1862
+cirg 1862 -fani 100
+cirg 1863
+cirg 1863 -fani 100
+cirg 1864
+cirg 1864 -fani 100
+cirg 1865
+cirg 1865 -fani 100
+cirg 1866
+cirg 1866 -fani 100
+cirg 1867
+cirg 1867 -fani 100
+cirg 1868
+cirg 1868 -fani 100
+cirg 1869
+cirg 1869 -fani 100
+cirg 1870
+cirg 1870 -fani 100
+cirg 1871
+cirg 1871 -fani 100
+cirg 1872
+cirg 1872 -fani 100
+cirg 1873
+cirg 1873 -fani 100
+cirg 1874
+cirg 1874 -fani 100
+cirg 1875
+cirg 1875 -fani 100
+cirg 1876
+cirg 1876 -fani 100
+cirg 1877
+cirg 1877 -fani 100
+cirg 1878
+cirg 1878 -fani 100
+cirg 1879
+cirg 1879 -fani 100
+cirg 1880
+cirg 1880 -fani 100
+cirg 1881
+cirg 1881 -fani 100
+cirg 1882
+cirg 1882 -fani 100
+cirg 1883
+cirg 1883 -fani 100
+cirg 1884
+cirg 1884 -fani 100
+cirg 1885
+cirg 1885 -fani 100
+cirg 1886
+cirg 1886 -fani 100
+cirg 1887
+cirg 1887 -fani 100
+cirg 1888
+cirg 1888 -fani 100
+cirg 1889
+cirg 1889 -fani 100
+cirg 1890
+cirg 1890 -fani 100
+cirg 1891
+cirg 1891 -fani 100
+cirg 1892
+cirg 1892 -fani 100
+cirg 1893
+cirg 1893 -fani 100
+cirg 1894
+cirg 1894 -fani 100
+cirg 1895
+cirg 1895 -fani 100
+cirg 1896
+cirg 1896 -fani 100
+cirg 1897
+cirg 1897 -fani 100
+cirg 1898
+cirg 1898 -fani 100
+cirg 1899
+cirg 1899 -fani 100
+cirg 1900
+cirg 1900 -fani 100
+cirg 1901
+cirg 1901 -fani 100
+cirg 1902
+cirg 1902 -fani 100
+cirg 1903
+cirg 1903 -fani 100
+cirg 1904
+cirg 1904 -fani 100
+cirg 1905
+cirg 1905 -fani 100
+cirg 1906
+cirg 1906 -fani 100
+cirg 1907
+cirg 1907 -fani 100
+cirg 1908
+cirg 1908 -fani 100
+cirg 1909
+cirg 1909 -fani 100
+cirg 1910
+cirg 1910 -fani 100
+cirg 1911
+cirg 1911 -fani 100
+cirg 1912
+cirg 1912 -fani 100
+cirg 1913
+cirg 1913 -fani 100
+cirg 1914
+cirg 1914 -fani 100
+cirg 1915
+cirg 1915 -fani 100
+cirg 1916
+cirg 1916 -fani 100
+cirg 1917
+cirg 1917 -fani 100
+cirg 1918
+cirg 1918 -fani 100
+cirg 1919
+cirg 1919 -fani 100
+cirg 1920
+cirg 1920 -fani 100
+cirg 1921
+cirg 1921 -fani 100
+cirg 1922
+cirg 1922 -fani 100
+cirg 1923
+cirg 1923 -fani 100
+cirg 1924
+cirg 1924 -fani 100
+cirg 1925
+cirg 1925 -fani 100
+cirg 1926
+cirg 1926 -fani 100
+cirg 1927
+cirg 1927 -fani 100
+cirg 1928
+cirg 1928 -fani 100
+cirg 1929
+cirg 1929 -fani 100
+cirg 1930
+cirg 1930 -fani 100
+cirg 1931
+cirg 1931 -fani 100
+cirg 1932
+cirg 1932 -fani 100
+cirg 1933
+cirg 1933 -fani 100
+cirg 1934
+cirg 1934 -fani 100
+cirg 1935
+cirg 1935 -fani 100
+cirg 1936
+cirg 1936 -fani 100
+cirg 1937
+cirg 1937 -fani 100
+cirg 1938
+cirg 1938 -fani 100
+cirg 1939
+cirg 1939 -fani 100
+cirg 1940
+cirg 1940 -fani 100
+cirg 1941
+cirg 1941 -fani 100
+cirg 1942
+cirg 1942 -fani 100
+cirg 1943
+cirg 1943 -fani 100
+cirg 1944
+cirg 1944 -fani 100
+cirg 1945
+cirg 1945 -fani 100
+cirg 1946
+cirg 1946 -fani 100
+cirg 1947
+cirg 1947 -fani 100
+cirg 1948
+cirg 1948 -fani 100
+cirg 1949
+cirg 1949 -fani 100
+cirg 1950
+cirg 1950 -fani 100
+cirg 1951
+cirg 1951 -fani 100
+cirg 1952
+cirg 1952 -fani 100
+cirg 1953
+cirg 1953 -fani 100
+cirg 1954
+cirg 1954 -fani 100
+cirg 1955
+cirg 1955 -fani 100
+cirg 1956
+cirg 1956 -fani 100
+cirg 1957
+cirg 1957 -fani 100
+cirg 1958
+cirg 1958 -fani 100
+cirg 1959
+cirg 1959 -fani 100
+cirg 1960
+cirg 1960 -fani 100
+cirg 1961
+cirg 1961 -fani 100
+cirg 1962
+cirg 1962 -fani 100
+cirg 1963
+cirg 1963 -fani 100
+cirg 1964
+cirg 1964 -fani 100
+cirg 1965
+cirg 1965 -fani 100
+cirg 1966
+cirg 1966 -fani 100
+cirg 1967
+cirg 1967 -fani 100
+cirg 1968
+cirg 1968 -fani 100
+cirg 1969
+cirg 1969 -fani 100
+cirg 1970
+cirg 1970 -fani 100
+cirg 1971
+cirg 1971 -fani 100
+cirg 1972
+cirg 1972 -fani 100
+cirg 1973
+cirg 1973 -fani 100
+cirg 1974
+cirg 1974 -fani 100
+cirg 1975
+cirg 1975 -fani 100
+cirg 1976
+cirg 1976 -fani 100
+cirg 1977
+cirg 1977 -fani 100
+cirg 1978
+cirg 1978 -fani 100
+cirg 1979
+cirg 1979 -fani 100
+cirg 1980
+cirg 1980 -fani 100
+cirg 1981
+cirg 1981 -fani 100
+cirg 1982
+cirg 1982 -fani 100
+cirg 1983
+cirg 1983 -fani 100
+cirg 1984
+cirg 1984 -fani 100
+cirg 1985
+cirg 1985 -fani 100
+cirg 1986
+cirg 1986 -fani 100
+cirg 1987
+cirg 1987 -fani 100
+cirg 1988
+cirg 1988 -fani 100
+cirg 1989
+cirg 1989 -fani 100
+cirg 1990
+cirg 1990 -fani 100
+cirg 1991
+cirg 1991 -fani 100
+cirg 1992
+cirg 1992 -fani 100
+cirg 1993
+cirg 1993 -fani 100
+cirg 1994
+cirg 1994 -fani 100
+cirg 1995
+cirg 1995 -fani 100
+cirg 1996
+cirg 1996 -fani 100
+cirg 1997
+cirg 1997 -fani 100
+cirg 1998
+cirg 1998 -fani 100
+cirg 1999
+cirg 1999 -fani 100
+cirg 2000
+cirg 2000 -fani 100
+cirg 2001
+cirg 2001 -fani 100
+cirg 2002
+cirg 2002 -fani 100
+cirg 2003
+cirg 2003 -fani 100
+cirg 2004
+cirg 2004 -fani 100
+cirg 2005
+cirg 2005 -fani 100
+cirg 2006
+cirg 2006 -fani 100
+cirg 2007
+cirg 2007 -fani 100
+cirg 2008
+cirg 2008 -fani 100
+cirg 2009
+cirg 2009 -fani 100
+cirg 2010
+cirg 2010 -fani 100
+cirg 2011
+cirg 2011 -fani 100
+cirg 2012
+cirg 2012 -fani 100
+cirg 2013
+cirg 2013 -fani 100
+cirg 2014
+cirg 2014 -fani 100
+cirg 2015
+cirg 2015 -fani 100
+cirg 2016
+cirg 2016 -fani 100
+cirg 2017
+cirg 2017 -fani 100
+cirg 2018
+cirg 2018 -fani 100
+cirg 2019
+cirg 2019 -fani 100
+cirg 2020
+cirg 2020 -fani 100
+cirg 2021
+cirg 2021 -fani 100
+cirg 2022
+cirg 2022 -fani 100
+cirg 2023
+cirg 2023 -fani 100
+cirg 2024
+cirg 2024 -fani 100
+cirg 2025
+cirg 2025 -fani 100
+cirg 2026
+cirg 2026 -fani 100
+cirg 2027
+cirg 2027 -fani 100
+cirg 2028
+cirg 2028 -fani 100
+cirg 2029
+cirg 2029 -fani 100
+cirg 2030
+cirg 2030 -fani 100
+cirg 2031
+cirg 2031 -fani 100
+cirg 2032
+cirg 2032 -fani 100
+cirg 2033
+cirg 2033 -fani 100
+cirg 2034
+cirg 2034 -fani 100
+cirg 2035
+cirg 2035 -fani 100
+cirg 2036
+cirg 2036 -fani 100
+cirg 2037
+cirg 2037 -fani 100
+cirg 2038
+cirg 2038 -fani 100
+cirg 2039
+cirg 2039 -fani 100
+cirg 2040
+cirg 2040 -fani 100
+cirg 2041
+cirg 2041 -fani 100
+cirg 2042
+cirg 2042 -fani 100
+cirg 2043
+cirg 2043 -fani 100
+cirg 2044
+cirg 2044 -fani 100
+cirg 2045
+cirg 2045 -fani 100
+cirg 2046
+cirg 2046 -fani 100
+cirg 2047
+cirg 2047 -fani 100
+cirg 2048
+cirg 2048 -fani 100
+cirg 2049
+cirg 2049 -fani 100
+cirg 2050
+cirg 2050 -fani 100
+cirg 2051
+cirg 2051 -fani 100
+cirg 2052
+cirg 2052 -fani 100
+cirg 2053
+cirg 2053 -fani 100
+cirg 2054
+cirg 2054 -fani 100
+cirg 2055
+cirg 2055 -fani 100
+cirg 2056
+cirg 2056 -fani 100
+cirg 2057
+cirg 2057 -fani 100
+cirg 2058
+cirg 2058 -fani 100
+cirg 2059
+cirg 2059 -fani 100
+cirg 2060
+cirg 2060 -fani 100
+cirg 2061
+cirg 2061 -fani 100
+cirg 2062
+cirg 2062 -fani 100
+cirg 2063
+cirg 2063 -fani 100
+cirg 2064
+cirg 2064 -fani 100
+cirg 2065
+cirg 2065 -fani 100
+cirg 2066
+cirg 2066 -fani 100
+cirg 2067
+cirg 2067 -fani 100
+cirg 2068
+cirg 2068 -fani 100
+cirg 2069
+cirg 2069 -fani 100
+cirg 2070
+cirg 2070 -fani 100
+cirg 2071
+cirg 2071 -fani 100
+cirg 2072
+cirg 2072 -fani 100
+cirg 2073
+cirg 2073 -fani 100
+cirg 2074
+cirg 2074 -fani 100
+cirg 2075
+cirg 2075 -fani 100
+cirg 2076
+cirg 2076 -fani 100
+cirg 2077
+cirg 2077 -fani 100
+cirg 2078
+cirg 2078 -fani 100
+cirg 2079
+cirg 2079 -fani 100
+cirg 2080
+cirg 2080 -fani 100
+cirg 2081
+cirg 2081 -fani 100
+cirg 2082
+cirg 2082 -fani 100
+cirg 2083
+cirg 2083 -fani 100
+cirg 2084
+cirg 2084 -fani 100
+cirg 2085
+cirg 2085 -fani 100
+cirg 2086
+cirg 2086 -fani 100
+cirg 2087
+cirg 2087 -fani 100
+cirg 2088
+cirg 2088 -fani 100
+cirg 2089
+cirg 2089 -fani 100
+cirg 2090
+cirg 2090 -fani 100
+cirg 2091
+cirg 2091 -fani 100
+cirg 2092
+cirg 2092 -fani 100
+cirg 2093
+cirg 2093 -fani 100
+cirg 2094
+cirg 2094 -fani 100
+cirg 2095
+cirg 2095 -fani 100
+cirg 2096
+cirg 2096 -fani 100
+cirg 2097
+cirg 2097 -fani 100
+cirg 2098
+cirg 2098 -fani 100
+cirg 2099
+cirg 2099 -fani 100
+cirg 2100
+cirg 2100 -fani 100
+cirg 2101
+cirg 2101 -fani 100
+cirg 2102
+cirg 2102 -fani 100
+cirg 2103
+cirg 2103 -fani 100
+cirg 2104
+cirg 2104 -fani 100
+cirg 2105
+cirg 2105 -fani 100
+cirg 2106
+cirg 2106 -fani 100
+cirg 2107
+cirg 2107 -fani 100
+cirg 2108
+cirg 2108 -fani 100
+cirg 2109
+cirg 2109 -fani 100
+cirg 2110
+cirg 2110 -fani 100
+cirg 2111
+cirg 2111 -fani 100
+cirg 2112
+cirg 2112 -fani 100
+cirg 2113
+cirg 2113 -fani 100
+cirg 2114
+cirg 2114 -fani 100
+cirg 2115
+cirg 2115 -fani 100
+cirg 2116
+cirg 2116 -fani 100
+cirg 2117
+cirg 2117 -fani 100
+cirg 2118
+cirg 2118 -fani 100
+cirg 2119
+cirg 2119 -fani 100
+cirg 2120
+cirg 2120 -fani 100
+cirg 2121
+cirg 2121 -fani 100
+cirg 2122
+cirg 2122 -fani 100
+cirg 2123
+cirg 2123 -fani 100
+cirg 2124
+cirg 2124 -fani 100
+cirg 2125
+cirg 2125 -fani 100
+cirg 2126
+cirg 2126 -fani 100
+cirg 2127
+cirg 2127 -fani 100
+cirg 2128
+cirg 2128 -fani 100
+cirg 2129
+cirg 2129 -fani 100
+cirg 2130
+cirg 2130 -fani 100
+cirg 2131
+cirg 2131 -fani 100
+cirg 2132
+cirg 2132 -fani 100
+cirg 2133
+cirg 2133 -fani 100
+cirg 2134
+cirg 2134 -fani 100
+cirg 2135
+cirg 2135 -fani 100
+cirg 2136
+cirg 2136 -fani 100
+cirg 2137
+cirg 2137 -fani 100
+cirg 2138
+cirg 2138 -fani 100
+cirg 2139
+cirg 2139 -fani 100
+cirg 2140
+cirg 2140 -fani 100
+cirg 2141
+cirg 2141 -fani 100
+cirg 2142
+cirg 2142 -fani 100
+cirg 2143
+cirg 2143 -fani 100
+cirg 2144
+cirg 2144 -fani 100
+cirg 2145
+cirg 2145 -fani 100
+cirg 2146
+cirg 2146 -fani 100
+cirg 2147
+cirg 2147 -fani 100
+cirg 2148
+cirg 2148 -fani 100
+cirg 2149
+cirg 2149 -fani 100
+cirg 2150
+cirg 2150 -fani 100
+cirg 2151
+cirg 2151 -fani 100
+cirg 2152
+cirg 2152 -fani 100
+cirg 2153
+cirg 2153 -fani 100
+cirg 2154
+cirg 2154 -fani 100
+cirg 2155
+cirg 2155 -fani 100
+cirg 2156
+cirg 2156 -fani 100
+cirg 2157
+cirg 2157 -fani 100
+cirg 2158
+cirg 2158 -fani 100
+cirg 2159
+cirg 2159 -fani 100
+cirg 2160
+cirg 2160 -fani 100
+cirg 2161
+cirg 2161 -fani 100
+cirg 2162
+cirg 2162 -fani 100
+cirg 2163
+cirg 2163 -fani 100
+cirg 2164
+cirg 2164 -fani 100
+cirg 2165
+cirg 2165 -fani 100
+cirg 2166
+cirg 2166 -fani 100
+cirg 2167
+cirg 2167 -fani 100
+cirg 2168
+cirg 2168 -fani 100
+cirg 2169
+cirg 2169 -fani 100
+cirg 2170
+cirg 2170 -fani 100
+cirg 2171
+cirg 2171 -fani 100
+cirg 2172
+cirg 2172 -fani 100
+cirg 2173
+cirg 2173 -fani 100
+cirg 2174
+cirg 2174 -fani 100
+cirg 2175
+cirg 2175 -fani 100
+cirg 2176
+cirg 2176 -fani 100
+cirg 2177
+cirg 2177 -fani 100
+cirg 2178
+cirg 2178 -fani 100
+cirg 2179
+cirg 2179 -fani 100
+cirg 2180
+cirg 2180 -fani 100
+cirg 2181
+cirg 2181 -fani 100
+cirg 2182
+cirg 2182 -fani 100
+cirg 2183
+cirg 2183 -fani 100
+cirg 2184
+cirg 2184 -fani 100
+cirg 2185
+cirg 2185 -fani 100
+cirg 2186
+cirg 2186 -fani 100
+cirg 2187
+cirg 2187 -fani 100
+cirg 2188
+cirg 2188 -fani 100
+cirg 2189
+cirg 2189 -fani 100
+cirg 2190
+cirg 2190 -fani 100
+cirg 2191
+cirg 2191 -fani 100
+cirg 2192
+cirg 2192 -fani 100
+cirg 2193
+cirg 2193 -fani 100
+cirg 2194
+cirg 2194 -fani 100
+cirg 2195
+cirg 2195 -fani 100
+cirg 2196
+cirg 2196 -fani 100
+cirg 2197
+cirg 2197 -fani 100
+cirg 2198
+cirg 2198 -fani 100
+cirg 2199
+cirg 2199 -fani 100
+cirg 2200
+cirg 2200 -fani 100
+cirg 2201
+cirg 2201 -fani 100
+cirg 2202
+cirg 2202 -fani 100
+cirg 2203
+cirg 2203 -fani 100
+cirg 2204
+cirg 2204 -fani 100
+cirg 2205
+cirg 2205 -fani 100
+cirg 2206
+cirg 2206 -fani 100
+cirg 2207
+cirg 2207 -fani 100
+cirg 2208
+cirg 2208 -fani 100
+cirg 2209
+cirg 2209 -fani 100
+cirg 2210
+cirg 2210 -fani 100
+cirg 2211
+cirg 2211 -fani 100
+cirg 2212
+cirg 2212 -fani 100
+cirg 2213
+cirg 2213 -fani 100
+cirg 2214
+cirg 2214 -fani 100
+cirg 2215
+cirg 2215 -fani 100
+cirg 2216
+cirg 2216 -fani 100
+cirg 2217
+cirg 2217 -fani 100
+cirg 2218
+cirg 2218 -fani 100
+cirg 2219
+cirg 2219 -fani 100
+cirg 2220
+cirg 2220 -fani 100
+cirg 2221
+cirg 2221 -fani 100
+cirg 2222
+cirg 2222 -fani 100
+cirg 2223
+cirg 2223 -fani 100
+cirg 2224
+cirg 2224 -fani 100
+cirg 2225
+cirg 2225 -fani 100
+cirg 2226
+cirg 2226 -fani 100
+cirg 2227
+cirg 2227 -fani 100
+cirg 2228
+cirg 2228 -fani 100
+cirg 2229
+cirg 2229 -fani 100
+cirg 2230
+cirg 2230 -fani 100
+cirg 2231
+cirg 2231 -fani 100
+cirg 2232
+cirg 2232 -fani 100
+cirg 2233
+cirg 2233 -fani 100
+cirg 2234
+cirg 2234 -fani 100
+cirg 2235
+cirg 2235 -fani 100
+cirg 2236
+cirg 2236 -fani 100
+cirg 2237
+cirg 2237 -fani 100
+cirg 2238
+cirg 2238 -fani 100
+cirg 2239
+cirg 2239 -fani 100
+cirg 2240
+cirg 2240 -fani 100
+cirg 2241
+cirg 2241 -fani 100
+cirg 2242
+cirg 2242 -fani 100
+cirg 2243
+cirg 2243 -fani 100
+cirg 2244
+cirg 2244 -fani 100
+cirg 2245
+cirg 2245 -fani 100
+cirg 2246
+cirg 2246 -fani 100
+cirg 2247
+cirg 2247 -fani 100
+cirg 2248
+cirg 2248 -fani 100
+cirg 2249
+cirg 2249 -fani 100
+cirg 2250
+cirg 2250 -fani 100
+cirg 2251
+cirg 2251 -fani 100
+cirg 2252
+cirg 2252 -fani 100
+cirg 2253
+cirg 2253 -fani 100
+cirg 2254
+cirg 2254 -fani 100
+cirg 2255
+cirg 2255 -fani 100
+cirg 2256
+cirg 2256 -fani 100
+cirg 2257
+cirg 2257 -fani 100
+cirg 2258
+cirg 2258 -fani 100
+cirg 2259
+cirg 2259 -fani 100
+cirg 2260
+cirg 2260 -fani 100
+cirg 2261
+cirg 2261 -fani 100
+cirg 2262
+cirg 2262 -fani 100
+cirg 2263
+cirg 2263 -fani 100
+cirg 2264
+cirg 2264 -fani 100
+cirg 2265
+cirg 2265 -fani 100
+cirg 2266
+cirg 2266 -fani 100
+cirg 2267
+cirg 2267 -fani 100
+cirg 2268
+cirg 2268 -fani 100
+cirg 2269
+cirg 2269 -fani 100
+cirg 2270
+cirg 2270 -fani 100
+cirg 2271
+cirg 2271 -fani 100
+cirg 2272
+cirg 2272 -fani 100
+cirg 2273
+cirg 2273 -fani 100
+cirg 2274
+cirg 2274 -fani 100
+cirg 2275
+cirg 2275 -fani 100
+cirg 2276
+cirg 2276 -fani 100
+cirg 2277
+cirg 2277 -fani 100
+cirg 2278
+cirg 2278 -fani 100
+cirg 2279
+cirg 2279 -fani 100
+cirg 2280
+cirg 2280 -fani 100
+cirg 2281
+cirg 2281 -fani 100
+cirg 2282
+cirg 2282 -fani 100
+cirg 2283
+cirg 2283 -fani 100
+cirg 2284
+cirg 2284 -fani 100
+cirg 2285
+cirg 2285 -fani 100
+cirg 2286
+cirg 2286 -fani 100
+cirg 2287
+cirg 2287 -fani 100
+cirg 2288
+cirg 2288 -fani 100
+cirg 2289
+cirg 2289 -fani 100
+cirg 2290
+cirg 2290 -fani 100
+cirg 2291
+cirg 2291 -fani 100
+cirg 2292
+cirg 2292 -fani 100
+cirg 2293
+cirg 2293 -fani 100
+cirg 2294
+cirg 2294 -fani 100
+cirg 2295
+cirg 2295 -fani 100
+cirg 2296
+cirg 2296 -fani 100
+cirg 2297
+cirg 2297 -fani 100
+cirg 2298
+cirg 2298 -fani 100
+cirg 2299
+cirg 2299 -fani 100
+cirg 2300
+cirg 2300 -fani 100
+cirg 2301
+cirg 2301 -fani 100
+cirg 2302
+cirg 2302 -fani 100
+cirg 2303
+cirg 2303 -fani 100
+cirg 2304
+cirg 2304 -fani 100
+cirg 2305
+cirg 2305 -fani 100
+cirg 2306
+cirg 2306 -fani 100
+cirg 2307
+cirg 2307 -fani 100
+cirg 2308
+cirg 2308 -fani 100
+cirg 2309
+cirg 2309 -fani 100
+cirg 2310
+cirg 2310 -fani 100
+cirg 2311
+cirg 2311 -fani 100
+cirg 2312
+cirg 2312 -fani 100
+cirg 2313
+cirg 2313 -fani 100
+cirg 2314
+cirg 2314 -fani 100
+cirg 2315
+cirg 2315 -fani 100
+cirg 2316
+cirg 2316 -fani 100
+cirg 2317
+cirg 2317 -fani 100
+cirg 2318
+cirg 2318 -fani 100
+cirg 2319
+cirg 2319 -fani 100
+cirg 2320
+cirg 2320 -fani 100
+cirg 2321
+cirg 2321 -fani 100
+cirg 2322
+cirg 2322 -fani 100
+cirg 2323
+cirg 2323 -fani 100
+cirg 2324
+cirg 2324 -fani 100
+cirg 2325
+cirg 2325 -fani 100
+cirg 2326
+cirg 2326 -fani 100
+cirg 2327
+cirg 2327 -fani 100
+cirg 2328
+cirg 2328 -fani 100
+cirg 2329
+cirg 2329 -fani 100
+cirg 2330
+cirg 2330 -fani 100
+cirg 2331
+cirg 2331 -fani 100
+cirg 2332
+cirg 2332 -fani 100
+cirg 2333
+cirg 2333 -fani 100
+cirg 2334
+cirg 2334 -fani 100
+cirg 2335
+cirg 2335 -fani 100
+cirg 2336
+cirg 2336 -fani 100
+cirg 2337
+cirg 2337 -fani 100
+cirg 2338
+cirg 2338 -fani 100
+cirg 2339
+cirg 2339 -fani 100
+cirg 2340
+cirg 2340 -fani 100
+cirg 2341
+cirg 2341 -fani 100
+cirg 2342
+cirg 2342 -fani 100
+cirg 2343
+cirg 2343 -fani 100
+cirg 2344
+cirg 2344 -fani 100
+cirg 2345
+cirg 2345 -fani 100
+cirg 2346
+cirg 2346 -fani 100
+cirg 2347
+cirg 2347 -fani 100
+cirg 2348
+cirg 2348 -fani 100
+cirg 2349
+cirg 2349 -fani 100
+cirg 2350
+cirg 2350 -fani 100
+cirg 2351
+cirg 2351 -fani 100
+cirg 2352
+cirg 2352 -fani 100
+cirg 2353
+cirg 2353 -fani 100
+cirg 2354
+cirg 2354 -fani 100
+cirg 2355
+cirg 2355 -fani 100
+cirg 2356
+cirg 2356 -fani 100
+cirg 2357
+cirg 2357 -fani 100
+cirg 2358
+cirg 2358 -fani 100
+cirg 2359
+cirg 2359 -fani 100
+cirg 2360
+cirg 2360 -fani 100
+cirg 2361
+cirg 2361 -fani 100
+cirg 2362
+cirg 2362 -fani 100
+cirg 2363
+cirg 2363 -fani 100
+cirg 2364
+cirg 2364 -fani 100
+cirg 2365
+cirg 2365 -fani 100
+cirg 2366
+cirg 2366 -fani 100
+cirg 2367
+cirg 2367 -fani 100
+cirg 2368
+cirg 2368 -fani 100
+cirg 2369
+cirg 2369 -fani 100
+cirg 2370
+cirg 2370 -fani 100
+cirg 2371
+cirg 2371 -fani 100
+cirg 2372
+cirg 2372 -fani 100
+cirg 2373
+cirg 2373 -fani 100
+cirg 2374
+cirg 2374 -fani 100
+cirg 2375
+cirg 2375 -fani 100
+cirg 2376
+cirg 2376 -fani 100
+cirg 2377
+cirg 2377 -fani 100
+cirg 2378
+cirg 2378 -fani 100
+cirg 2379
+cirg 2379 -fani 100
+cirg 2380
+cirg 2380 -fani 100
+cirg 2381
+cirg 2381 -fani 100
+cirg 2382
+cirg 2382 -fani 100
+cirg 2383
+cirg 2383 -fani 100
+cirg 2384
+cirg 2384 -fani 100
+cirg 2385
+cirg 2385 -fani 100
+cirg 2386
+cirg 2386 -fani 100
+cirg 2387
+cirg 2387 -fani 100
+cirg 2388
+cirg 2388 -fani 100
+cirg 2389
+cirg 2389 -fani 100
+cirg 2390
+cirg 2390 -fani 100
+cirg 2391
+cirg 2391 -fani 100
+cirg 2392
+cirg 2392 -fani 100
+cirg 2393
+cirg 2393 -fani 100
+cirg 2394
+cirg 2394 -fani 100
+cirg 2395
+cirg 2395 -fani 100
+cirg 2396
+cirg 2396 -fani 100
+cirg 2397
+cirg 2397 -fani 100
+cirg 2398
+cirg 2398 -fani 100
+cirg 2399
+cirg 2399 -fani 100
+cirg 2400
+cirg 2400 -fani 100
+cirg 2401
+cirg 2401 -fani 100
+cirg 2402
+cirg 2402 -fani 100
+cirg 2403
+cirg 2403 -fani 100
+cirg 2404
+cirg 2404 -fani 100
+cirg 2405
+cirg 2405 -fani 100
+cirg 2406
+cirg 2406 -fani 100
+cirg 2407
+cirg 2407 -fani 100
+cirg 2408
+cirg 2408 -fani 100
+cirg 2409
+cirg 2409 -fani 100
+cirg 2410
+cirg 2410 -fani 100
+cirg 2411
+cirg 2411 -fani 100
+cirg 2412
+cirg 2412 -fani 100
+cirg 2413
+cirg 2413 -fani 100
+cirg 2414
+cirg 2414 -fani 100
+cirg 2415
+cirg 2415 -fani 100
+cirg 2416
+cirg 2416 -fani 100
+cirg 2417
+cirg 2417 -fani 100
+cirg 2418
+cirg 2418 -fani 100
+cirg 2419
+cirg 2419 -fani 100
+cirg 2420
+cirg 2420 -fani 100
+cirg 2421
+cirg 2421 -fani 100
+cirg 2422
+cirg 2422 -fani 100
+cirg 2423
+cirg 2423 -fani 100
+cirg 2424
+cirg 2424 -fani 100
+cirg 2425
+cirg 2425 -fani 100
+cirg 2426
+cirg 2426 -fani 100
+cirg 2427
+cirg 2427 -fani 100
+cirg 2428
+cirg 2428 -fani 100
+cirg 2429
+cirg 2429 -fani 100
+cirg 2430
+cirg 2430 -fani 100
+cirg 2431
+cirg 2431 -fani 100
+cirg 2432
+cirg 2432 -fani 100
+cirg 2433
+cirg 2433 -fani 100
+cirg 2434
+cirg 2434 -fani 100
+cirg 2435
+cirg 2435 -fani 100
+cirg 2436
+cirg 2436 -fani 100
+cirg 2437
+cirg 2437 -fani 100
+cirg 2438
+cirg 2438 -fani 100
+cirg 2439
+cirg 2439 -fani 100
+cirg 2440
+cirg 2440 -fani 100
+cirg 2441
+cirg 2441 -fani 100
+cirg 2442
+cirg 2442 -fani 100
+cirg 2443
+cirg 2443 -fani 100
+cirg 2444
+cirg 2444 -fani 100
+cirg 2445
+cirg 2445 -fani 100
+cirg 2446
+cirg 2446 -fani 100
+cirg 2447
+cirg 2447 -fani 100
+cirg 2448
+cirg 2448 -fani 100
+cirg 2449
+cirg 2449 -fani 100
+cirg 2450
+cirg 2450 -fani 100
+cirg 2451
+cirg 2451 -fani 100
+cirg 2452
+cirg 2452 -fani 100
+cirg 2453
+cirg 2453 -fani 100
+cirg 2454
+cirg 2454 -fani 100
+cirg 2455
+cirg 2455 -fani 100
+cirg 2456
+cirg 2456 -fani 100
+cirg 2457
+cirg 2457 -fani 100
+cirg 2458
+cirg 2458 -fani 100
+cirg 2459
+cirg 2459 -fani 100
+cirg 2460
+cirg 2460 -fani 100
+cirg 2461
+cirg 2461 -fani 100
+cirg 2462
+cirg 2462 -fani 100
+cirg 2463
+cirg 2463 -fani 100
+cirg 2464
+cirg 2464 -fani 100
+cirg 2465
+cirg 2465 -fani 100
+cirg 2466
+cirg 2466 -fani 100
+cirg 2467
+cirg 2467 -fani 100
+cirg 2468
+cirg 2468 -fani 100
+cirg 2469
+cirg 2469 -fani 100
+cirg 2470
+cirg 2470 -fani 100
+cirg 2471
+cirg 2471 -fani 100
+cirg 2472
+cirg 2472 -fani 100
+cirg 2473
+cirg 2473 -fani 100
+cirg 2474
+cirg 2474 -fani 100
+cirg 2475
+cirg 2475 -fani 100
+cirg 2476
+cirg 2476 -fani 100
+cirg 2477
+cirg 2477 -fani 100
+cirg 2478
+cirg 2478 -fani 100
+cirg 2479
+cirg 2479 -fani 100
+cirg 2480
+cirg 2480 -fani 100
+cirg 2481
+cirg 2481 -fani 100
+cirg 2482
+cirg 2482 -fani 100
+cirg 2483
+cirg 2483 -fani 100
+cirg 2484
+cirg 2484 -fani 100
+cirg 2485
+cirg 2485 -fani 100
+cirg 2486
+cirg 2486 -fani 100
+cirg 2487
+cirg 2487 -fani 100
+cirg 2488
+cirg 2488 -fani 100
+cirg 2489
+cirg 2489 -fani 100
+cirg 2490
+cirg 2490 -fani 100
+cirg 2491
+cirg 2491 -fani 100
+cirg 2492
+cirg 2492 -fani 100
+cirg 2493
+cirg 2493 -fani 100
+cirg 2494
+cirg 2494 -fani 100
+cirg 2495
+cirg 2495 -fani 100
+cirg 2496
+cirg 2496 -fani 100
+cirg 2497
+cirg 2497 -fani 100
+cirg 2498
+cirg 2498 -fani 100
+cirg 2499
+cirg 2499 -fani 100
+cirg 2500
+cirg 2500 -fani 100
+cirg 2501
+cirg 2501 -fani 100
+cirg 2502
+cirg 2502 -fani 100
+cirg 2503
+cirg 2503 -fani 100
+cirg 2504
+cirg 2504 -fani 100
+cirg 2505
+cirg 2505 -fani 100
+cirg 2506
+cirg 2506 -fani 100
+cirg 2507
+cirg 2507 -fani 100
+cirg 2508
+cirg 2508 -fani 100
+cirg 2509
+cirg 2509 -fani 100
+cirg 2510
+cirg 2510 -fani 100
+cirg 2511
+cirg 2511 -fani 100
+cirg 2512
+cirg 2512 -fani 100
+cirg 2513
+cirg 2513 -fani 100
+cirg 2514
+cirg 2514 -fani 100
+cirg 2515
+cirg 2515 -fani 100
+cirg 2516
+cirg 2516 -fani 100
+cirg 2517
+cirg 2517 -fani 100
+cirg 2518
+cirg 2518 -fani 100
+cirg 2519
+cirg 2519 -fani 100
+cirg 2520
+cirg 2520 -fani 100
+cirg 2521
+cirg 2521 -fani 100
+cirg 2522
+cirg 2522 -fani 100
+cirg 2523
+cirg 2523 -fani 100
+cirg 2524
+cirg 2524 -fani 100
+cirg 2525
+cirg 2525 -fani 100
+cirg 2526
+cirg 2526 -fani 100
+cirg 2527
+cirg 2527 -fani 100
+cirg 2528
+cirg 2528 -fani 100
+cirg 2529
+cirg 2529 -fani 100
+cirg 2530
+cirg 2530 -fani 100
+cirg 2531
+cirg 2531 -fani 100
+cirg 2532
+cirg 2532 -fani 100
+cirg 2533
+cirg 2533 -fani 100
+cirg 2534
+cirg 2534 -fani 100
+cirg 2535
+cirg 2535 -fani 100
+cirg 2536
+cirg 2536 -fani 100
+cirg 2537
+cirg 2537 -fani 100
+cirg 2538
+cirg 2538 -fani 100
+cirg 2539
+cirg 2539 -fani 100
+cirg 2540
+cirg 2540 -fani 100
+cirg 2541
+cirg 2541 -fani 100
+cirg 2542
+cirg 2542 -fani 100
+cirg 2543
+cirg 2543 -fani 100
+cirg 2544
+cirg 2544 -fani 100
+cirg 2545
+cirg 2545 -fani 100
+cirg 2546
+cirg 2546 -fani 100
+cirg 2547
+cirg 2547 -fani 100
+cirg 2548
+cirg 2548 -fani 100
+cirg 2549
+cirg 2549 -fani 100
+cirg 2550
+cirg 2550 -fani 100
+cirg 2551
+cirg 2551 -fani 100
+cirg 2552
+cirg 2552 -fani 100
+cirg 2553
+cirg 2553 -fani 100
+cirg 2554
+cirg 2554 -fani 100
+cirg 2555
+cirg 2555 -fani 100
+cirg 2556
+cirg 2556 -fani 100
+cirg 2557
+cirg 2557 -fani 100
+cirg 2558
+cirg 2558 -fani 100
+cirg 2559
+cirg 2559 -fani 100
+cirg 2560
+cirg 2560 -fani 100
+cirg 2561
+cirg 2561 -fani 100
+cirg 2562
+cirg 2562 -fani 100
+cirg 2563
+cirg 2563 -fani 100
+cirg 2564
+cirg 2564 -fani 100
+cirg 2565
+cirg 2565 -fani 100
+cirg 2566
+cirg 2566 -fani 100
+cirg 2567
+cirg 2567 -fani 100
+cirg 2568
+cirg 2568 -fani 100
+cirg 2569
+cirg 2569 -fani 100
+cirg 2570
+cirg 2570 -fani 100
+cirg 2571
+cirg 2571 -fani 100
+cirg 2572
+cirg 2572 -fani 100
+cirg 2573
+cirg 2573 -fani 100
+cirg 2574
+cirg 2574 -fani 100
+cirg 2575
+cirg 2575 -fani 100
+cirg 2576
+cirg 2576 -fani 100
+cirg 2577
+cirg 2577 -fani 100
+cirg 2578
+cirg 2578 -fani 100
+cirg 2579
+cirg 2579 -fani 100
+cirg 2580
+cirg 2580 -fani 100
+cirg 2581
+cirg 2581 -fani 100
+cirg 2582
+cirg 2582 -fani 100
+cirg 2583
+cirg 2583 -fani 100
+cirg 2584
+cirg 2584 -fani 100
+cirg 2585
+cirg 2585 -fani 100
+cirg 2586
+cirg 2586 -fani 100
+cirg 2587
+cirg 2587 -fani 100
+cirg 2588
+cirg 2588 -fani 100
+cirg 2589
+cirg 2589 -fani 100
+cirg 2590
+cirg 2590 -fani 100
+cirg 2591
+cirg 2591 -fani 100
+cirg 2592
+cirg 2592 -fani 100
+cirg 2593
+cirg 2593 -fani 100
+cirg 2594
+cirg 2594 -fani 100
+cirg 2595
+cirg 2595 -fani 100
+cirg 2596
+cirg 2596 -fani 100
+cirg 2597
+cirg 2597 -fani 100
+cirg 2598
+cirg 2598 -fani 100
+cirg 2599
+cirg 2599 -fani 100
+cirg 2600
+cirg 2600 -fani 100
+cirg 2601
+cirg 2601 -fani 100
+cirg 2602
+cirg 2602 -fani 100
+cirg 2603
+cirg 2603 -fani 100
+cirg 2604
+cirg 2604 -fani 100
+cirg 2605
+cirg 2605 -fani 100
+cirg 2606
+cirg 2606 -fani 100
+cirg 2607
+cirg 2607 -fani 100
+cirg 2608
+cirg 2608 -fani 100
+cirg 2609
+cirg 2609 -fani 100
+cirg 2610
+cirg 2610 -fani 100
+cirg 2611
+cirg 2611 -fani 100
+cirg 2612
+cirg 2612 -fani 100
+cirg 2613
+cirg 2613 -fani 100
+cirg 2614
+cirg 2614 -fani 100
+cirg 2615
+cirg 2615 -fani 100
+cirg 2616
+cirg 2616 -fani 100
+cirg 2617
+cirg 2617 -fani 100
+cirg 2618
+cirg 2618 -fani 100
+cirg 2619
+cirg 2619 -fani 100
+cirg 2620
+cirg 2620 -fani 100
+cirg 2621
+cirg 2621 -fani 100
+cirg 2622
+cirg 2622 -fani 100
+cirg 2623
+cirg 2623 -fani 100
+cirg 2624
+cirg 2624 -fani 100
+cirg 2625
+cirg 2625 -fani 100
+cirg 2626
+cirg 2626 -fani 100
+cirg 2627
+cirg 2627 -fani 100
+cirg 2628
+cirg 2628 -fani 100
+cirg 2629
+cirg 2629 -fani 100
+cirg 2630
+cirg 2630 -fani 100
+cirg 2631
+cirg 2631 -fani 100
+cirg 2632
+cirg 2632 -fani 100
+cirg 2633
+cirg 2633 -fani 100
+cirg 2634
+cirg 2634 -fani 100
+cirg 2635
+cirg 2635 -fani 100
+cirg 2636
+cirg 2636 -fani 100
+cirg 2637
+cirg 2637 -fani 100
+cirg 2638
+cirg 2638 -fani 100
+cirg 2639
+cirg 2639 -fani 100
+cirg 2640
+cirg 2640 -fani 100
+cirg 2641
+cirg 2641 -fani 100
+cirg 2642
+cirg 2642 -fani 100
+cirg 2643
+cirg 2643 -fani 100
+cirg 2644
+cirg 2644 -fani 100
+cirg 2645
+cirg 2645 -fani 100
+cirg 2646
+cirg 2646 -fani 100
+cirg 2647
+cirg 2647 -fani 100
+cirg 2648
+cirg 2648 -fani 100
+cirg 2649
+cirg 2649 -fani 100
+cirg 2650
+cirg 2650 -fani 100
+cirg 2651
+cirg 2651 -fani 100
+cirg 2652
+cirg 2652 -fani 100
+cirg 2653
+cirg 2653 -fani 100
+cirg 2654
+cirg 2654 -fani 100
+cirg 2655
+cirg 2655 -fani 100
+cirg 2656
+cirg 2656 -fani 100
+cirg 2657
+cirg 2657 -fani 100
+cirg 2658
+cirg 2658 -fani 100
+cirg 2659
+cirg 2659 -fani 100
+cirg 2660
+cirg 2660 -fani 100
+cirg 2661
+cirg 2661 -fani 100
+cirg 2662
+cirg 2662 -fani 100
+cirg 2663
+cirg 2663 -fani 100
+cirg 2664
+cirg 2664 -fani 100
+cirg 2665
+cirg 2665 -fani 100
+cirg 2666
+cirg 2666 -fani 100
+cirg 2667
+cirg 2667 -fani 100
+cirg 2668
+cirg 2668 -fani 100
+cirg 2669
+cirg 2669 -fani 100
+cirg 2670
+cirg 2670 -fani 100
+cirg 2671
+cirg 2671 -fani 100
+cirg 2672
+cirg 2672 -fani 100
+cirg 2673
+cirg 2673 -fani 100
+cirg 2674
+cirg 2674 -fani 100
+cirg 2675
+cirg 2675 -fani 100
+cirg 2676
+cirg 2676 -fani 100
+cirg 2677
+cirg 2677 -fani 100
+cirg 2678
+cirg 2678 -fani 100
+cirg 2679
+cirg 2679 -fani 100
+cirg 2680
+cirg 2680 -fani 100
+cirg 2681
+cirg 2681 -fani 100
+cirg 2682
+cirg 2682 -fani 100
+cirg 2683
+cirg 2683 -fani 100
+cirg 2684
+cirg 2684 -fani 100
+cirg 2685
+cirg 2685 -fani 100
+cirg 2686
+cirg 2686 -fani 100
+cirg 2687
+cirg 2687 -fani 100
+cirg 2688
+cirg 2688 -fani 100
+cirg 2689
+cirg 2689 -fani 100
+cirg 2690
+cirg 2690 -fani 100
+cirg 2691
+cirg 2691 -fani 100
+cirg 2692
+cirg 2692 -fani 100
+cirg 2693
+cirg 2693 -fani 100
+cirg 2694
+cirg 2694 -fani 100
+cirg 2695
+cirg 2695 -fani 100
+cirg 2696
+cirg 2696 -fani 100
+cirg 2697
+cirg 2697 -fani 100
+cirg 2698
+cirg 2698 -fani 100
+cirg 2699
+cirg 2699 -fani 100
+cirg 2700
+cirg 2700 -fani 100
+cirg 2701
+cirg 2701 -fani 100
+cirg 2702
+cirg 2702 -fani 100
+cirg 2703
+cirg 2703 -fani 100
+cirg 2704
+cirg 2704 -fani 100
+cirg 2705
+cirg 2705 -fani 100
+cirg 2706
+cirg 2706 -fani 100
+cirg 2707
+cirg 2707 -fani 100
+cirg 2708
+cirg 2708 -fani 100
+cirg 2709
+cirg 2709 -fani 100
+cirg 2710
+cirg 2710 -fani 100
+cirg 2711
+cirg 2711 -fani 100
+cirg 2712
+cirg 2712 -fani 100
+cirg 2713
+cirg 2713 -fani 100
+cirg 2714
+cirg 2714 -fani 100
+cirg 2715
+cirg 2715 -fani 100
+cirg 2716
+cirg 2716 -fani 100
+cirg 2717
+cirg 2717 -fani 100
+cirg 2718
+cirg 2718 -fani 100
+cirg 2719
+cirg 2719 -fani 100
+cirg 2720
+cirg 2720 -fani 100
+cirg 2721
+cirg 2721 -fani 100
+cirg 2722
+cirg 2722 -fani 100
+cirg 2723
+cirg 2723 -fani 100
+cirg 2724
+cirg 2724 -fani 100
+cirg 2725
+cirg 2725 -fani 100
+cirg 2726
+cirg 2726 -fani 100
+cirg 2727
+cirg 2727 -fani 100
+cirg 2728
+cirg 2728 -fani 100
+cirg 2729
+cirg 2729 -fani 100
+cirg 2730
+cirg 2730 -fani 100
+cirg 2731
+cirg 2731 -fani 100
+cirg 2732
+cirg 2732 -fani 100
+cirg 2733
+cirg 2733 -fani 100
+cirg 2734
+cirg 2734 -fani 100
+cirg 2735
+cirg 2735 -fani 100
+cirg 2736
+cirg 2736 -fani 100
+cirg 2737
+cirg 2737 -fani 100
+cirg 2738
+cirg 2738 -fani 100
+cirg 2739
+cirg 2739 -fani 100
+cirg 2740
+cirg 2740 -fani 100
+cirg 2741
+cirg 2741 -fani 100
+cirg 2742
+cirg 2742 -fani 100
+cirg 2743
+cirg 2743 -fani 100
+cirg 2744
+cirg 2744 -fani 100
+cirg 2745
+cirg 2745 -fani 100
+cirg 2746
+cirg 2746 -fani 100
+cirg 2747
+cirg 2747 -fani 100
+cirg 2748
+cirg 2748 -fani 100
+cirg 2749
+cirg 2749 -fani 100
+cirg 2750
+cirg 2750 -fani 100
+cirg 2751
+cirg 2751 -fani 100
+cirg 2752
+cirg 2752 -fani 100
+cirg 2753
+cirg 2753 -fani 100
+cirg 2754
+cirg 2754 -fani 100
+cirg 2755
+cirg 2755 -fani 100
+cirg 2756
+cirg 2756 -fani 100
+cirg 2757
+cirg 2757 -fani 100
+cirg 2758
+cirg 2758 -fani 100
+cirg 2759
+cirg 2759 -fani 100
+cirg 2760
+cirg 2760 -fani 100
+cirg 2761
+cirg 2761 -fani 100
+cirg 2762
+cirg 2762 -fani 100
+cirg 2763
+cirg 2763 -fani 100
+cirg 2764
+cirg 2764 -fani 100
+cirg 2765
+cirg 2765 -fani 100
+cirg 2766
+cirg 2766 -fani 100
+cirg 2767
+cirg 2767 -fani 100
+cirg 2768
+cirg 2768 -fani 100
+cirg 2769
+cirg 2769 -fani 100
+cirg 2770
+cirg 2770 -fani 100
+cirg 2771
+cirg 2771 -fani 100
+cirg 2772
+cirg 2772 -fani 100
+cirg 2773
+cirg 2773 -fani 100
+cirg 2774
+cirg 2774 -fani 100
+cirg 2775
+cirg 2775 -fani 100
+cirg 2776
+cirg 2776 -fani 100
+cirg 2777
+cirg 2777 -fani 100
+cirg 2778
+cirg 2778 -fani 100
+cirg 2779
+cirg 2779 -fani 100
+cirg 2780
+cirg 2780 -fani 100
+cirg 2781
+cirg 2781 -fani 100
+cirg 2782
+cirg 2782 -fani 100
+cirg 2783
+cirg 2783 -fani 100
+cirg 2784
+cirg 2784 -fani 100
+cirg 2785
+cirg 2785 -fani 100
+cirg 2786
+cirg 2786 -fani 100
+cirg 2787
+cirg 2787 -fani 100
+cirg 2788
+cirg 2788 -fani 100
+cirg 2789
+cirg 2789 -fani 100
+cirg 2790
+cirg 2790 -fani 100
+cirg 2791
+cirg 2791 -fani 100
+cirg 2792
+cirg 2792 -fani 100
+cirg 2793
+cirg 2793 -fani 100
+cirg 2794
+cirg 2794 -fani 100
+cirg 2795
+cirg 2795 -fani 100
+cirg 2796
+cirg 2796 -fani 100
+cirg 2797
+cirg 2797 -fani 100
+cirg 2798
+cirg 2798 -fani 100
+cirg 2799
+cirg 2799 -fani 100
+cirg 2800
+cirg 2800 -fani 100
+cirg 2801
+cirg 2801 -fani 100
+cirg 2802
+cirg 2802 -fani 100
+cirg 2803
+cirg 2803 -fani 100
+cirg 2804
+cirg 2804 -fani 100
+cirg 2805
+cirg 2805 -fani 100
+cirg 2806
+cirg 2806 -fani 100
+cirg 2807
+cirg 2807 -fani 100
+cirg 2808
+cirg 2808 -fani 100
+cirg 2809
+cirg 2809 -fani 100
+cirg 2810
+cirg 2810 -fani 100
+cirg 2811
+cirg 2811 -fani 100
+cirg 2812
+cirg 2812 -fani 100
+cirg 2813
+cirg 2813 -fani 100
+cirg 2814
+cirg 2814 -fani 100
+cirg 2815
+cirg 2815 -fani 100
+cirg 2816
+cirg 2816 -fani 100
+cirg 2817
+cirg 2817 -fani 100
+cirg 2818
+cirg 2818 -fani 100
+cirg 2819
+cirg 2819 -fani 100
+cirg 2820
+cirg 2820 -fani 100
+cirg 2821
+cirg 2821 -fani 100
+cirg 2822
+cirg 2822 -fani 100
+cirg 2823
+cirg 2823 -fani 100
+cirg 2824
+cirg 2824 -fani 100
+cirg 2825
+cirg 2825 -fani 100
+cirg 2826
+cirg 2826 -fani 100
+cirg 2827
+cirg 2827 -fani 100
+cirg 2828
+cirg 2828 -fani 100
+cirg 2829
+cirg 2829 -fani 100
+cirg 2830
+cirg 2830 -fani 100
+cirg 2831
+cirg 2831 -fani 100
+cirg 2832
+cirg 2832 -fani 100
+cirg 2833
+cirg 2833 -fani 100
+cirg 2834
+cirg 2834 -fani 100
+cirg 2835
+cirg 2835 -fani 100
+cirg 2836
+cirg 2836 -fani 100
+cirg 2837
+cirg 2837 -fani 100
+cirg 2838
+cirg 2838 -fani 100
+cirg 2839
+cirg 2839 -fani 100
+cirg 2840
+cirg 2840 -fani 100
+cirg 2841
+cirg 2841 -fani 100
+cirg 2842
+cirg 2842 -fani 100
+cirg 2843
+cirg 2843 -fani 100
+cirg 2844
+cirg 2844 -fani 100
+cirg 2845
+cirg 2845 -fani 100
+cirg 2846
+cirg 2846 -fani 100
+cirg 2847
+cirg 2847 -fani 100
+cirg 2848
+cirg 2848 -fani 100
+cirg 2849
+cirg 2849 -fani 100
+cirg 2850
+cirg 2850 -fani 100
+cirg 2851
+cirg 2851 -fani 100
+cirg 2852
+cirg 2852 -fani 100
+cirg 2853
+cirg 2853 -fani 100
+cirg 2854
+cirg 2854 -fani 100
+cirg 2855
+cirg 2855 -fani 100
+cirg 2856
+cirg 2856 -fani 100
+cirg 2857
+cirg 2857 -fani 100
+cirg 2858
+cirg 2858 -fani 100
+cirg 2859
+cirg 2859 -fani 100
+cirg 2860
+cirg 2860 -fani 100
+cirg 2861
+cirg 2861 -fani 100
+cirg 2862
+cirg 2862 -fani 100
+cirg 2863
+cirg 2863 -fani 100
+cirg 2864
+cirg 2864 -fani 100
+cirg 2865
+cirg 2865 -fani 100
+cirg 2866
+cirg 2866 -fani 100
+cirg 2867
+cirg 2867 -fani 100
+cirg 2868
+cirg 2868 -fani 100
+cirg 2869
+cirg 2869 -fani 100
+cirg 2870
+cirg 2870 -fani 100
+cirg 2871
+cirg 2871 -fani 100
+cirg 2872
+cirg 2872 -fani 100
+cirg 2873
+cirg 2873 -fani 100
+cirg 2874
+cirg 2874 -fani 100
+cirg 2875
+cirg 2875 -fani 100
+cirg 2876
+cirg 2876 -fani 100
+cirg 2877
+cirg 2877 -fani 100
+cirg 2878
+cirg 2878 -fani 100
+cirg 2879
+cirg 2879 -fani 100
+cirg 2880
+cirg 2880 -fani 100
+cirg 2881
+cirg 2881 -fani 100
+cirg 2882
+cirg 2882 -fani 100
+cirg 2883
+cirg 2883 -fani 100
+cirg 2884
+cirg 2884 -fani 100
+cirg 2885
+cirg 2885 -fani 100
+cirg 2886
+cirg 2886 -fani 100
+cirg 2887
+cirg 2887 -fani 100
+cirg 2888
+cirg 2888 -fani 100
+cirg 2889
+cirg 2889 -fani 100
+cirg 2890
+cirg 2890 -fani 100
+cirg 2891
+cirg 2891 -fani 100
+cirg 2892
+cirg 2892 -fani 100
+cirg 2893
+cirg 2893 -fani 100
+cirg 2894
+cirg 2894 -fani 100
+cirg 2895
+cirg 2895 -fani 100
+cirg 2896
+cirg 2896 -fani 100
+cirg 2897
+cirg 2897 -fani 100
+cirg 2898
+cirg 2898 -fani 100
+cirg 2899
+cirg 2899 -fani 100
+cirg 2900
+cirg 2900 -fani 100
+cirg 2901
+cirg 2901 -fani 100
+cirg 2902
+cirg 2902 -fani 100
+cirg 2903
+cirg 2903 -fani 100
+cirg 2904
+cirg 2904 -fani 100
+cirg 2905
+cirg 2905 -fani 100
+cirg 2906
+cirg 2906 -fani 100
+cirg 2907
+cirg 2907 -fani 100
+cirg 2908
+cirg 2908 -fani 100
+cirg 2909
+cirg 2909 -fani 100
+cirg 2910
+cirg 2910 -fani 100
+cirg 2911
+cirg 2911 -fani 100
+cirg 2912
+cirg 2912 -fani 100
+cirg 2913
+cirg 2913 -fani 100
+cirg 2914
+cirg 2914 -fani 100
+cirg 2915
+cirg 2915 -fani 100
+cirg 2916
+cirg 2916 -fani 100
+cirg 2917
+cirg 2917 -fani 100
+cirg 2918
+cirg 2918 -fani 100
+cirg 2919
+cirg 2919 -fani 100
+cirg 2920
+cirg 2920 -fani 100
+cirg 2921
+cirg 2921 -fani 100
+cirg 2922
+cirg 2922 -fani 100
+cirg 2923
+cirg 2923 -fani 100
+cirg 2924
+cirg 2924 -fani 100
+cirg 2925
+cirg 2925 -fani 100
+cirg 2926
+cirg 2926 -fani 100
+cirg 2927
+cirg 2927 -fani 100
+cirg 2928
+cirg 2928 -fani 100
+cirg 2929
+cirg 2929 -fani 100
+cirg 2930
+cirg 2930 -fani 100
+cirg 2931
+cirg 2931 -fani 100
+cirg 2932
+cirg 2932 -fani 100
+cirg 2933
+cirg 2933 -fani 100
+cirg 2934
+cirg 2934 -fani 100
+cirg 2935
+cirg 2935 -fani 100
+cirg 2936
+cirg 2936 -fani 100
+cirg 2937
+cirg 2937 -fani 100
+cirg 2938
+cirg 2938 -fani 100
+cirg 2939
+cirg 2939 -fani 100
+cirg 2940
+cirg 2940 -fani 100
+cirg 2941
+cirg 2941 -fani 100
+cirg 2942
+cirg 2942 -fani 100
+cirg 2943
+cirg 2943 -fani 100
+cirg 2944
+cirg 2944 -fani 100
+cirg 2945
+cirg 2945 -fani 100
+cirg 2946
+cirg 2946 -fani 100
+cirg 2947
+cirg 2947 -fani 100
+cirg 2948
+cirg 2948 -fani 100
+cirg 2949
+cirg 2949 -fani 100
+cirg 2950
+cirg 2950 -fani 100
+cirg 2951
+cirg 2951 -fani 100
+cirg 2952
+cirg 2952 -fani 100
+cirg 2953
+cirg 2953 -fani 100
+cirg 2954
+cirg 2954 -fani 100
+cirg 2955
+cirg 2955 -fani 100
+cirg 2956
+cirg 2956 -fani 100
+cirg 2957
+cirg 2957 -fani 100
+cirg 2958
+cirg 2958 -fani 100
+cirg 2959
+cirg 2959 -fani 100
+cirg 2960
+cirg 2960 -fani 100
+cirg 2961
+cirg 2961 -fani 100
+cirg 2962
+cirg 2962 -fani 100
+cirg 2963
+cirg 2963 -fani 100
+cirg 2964
+cirg 2964 -fani 100
+cirg 2965
+cirg 2965 -fani 100
+cirg 2966
+cirg 2966 -fani 100
+cirg 2967
+cirg 2967 -fani 100
+cirg 2968
+cirg 2968 -fani 100
+cirg 2969
+cirg 2969 -fani 100
+cirg 2970
+cirg 2970 -fani 100
+cirg 2971
+cirg 2971 -fani 100
+cirg 2972
+cirg 2972 -fani 100
+cirg 2973
+cirg 2973 -fani 100
+cirg 2974
+cirg 2974 -fani 100
+cirg 2975
+cirg 2975 -fani 100
+cirg 2976
+cirg 2976 -fani 100
+cirg 2977
+cirg 2977 -fani 100
+cirg 2978
+cirg 2978 -fani 100
+cirg 2979
+cirg 2979 -fani 100
+cirg 2980
+cirg 2980 -fani 100
+cirg 2981
+cirg 2981 -fani 100
+cirg 2982
+cirg 2982 -fani 100
+cirg 2983
+cirg 2983 -fani 100
+cirg 2984
+cirg 2984 -fani 100
+cirg 2985
+cirg 2985 -fani 100
+cirg 2986
+cirg 2986 -fani 100
+cirg 2987
+cirg 2987 -fani 100
+cirg 2988
+cirg 2988 -fani 100
+cirg 2989
+cirg 2989 -fani 100
+cirg 2990
+cirg 2990 -fani 100
+cirg 2991
+cirg 2991 -fani 100
+cirg 2992
+cirg 2992 -fani 100
+cirg 2993
+cirg 2993 -fani 100
+cirg 2994
+cirg 2994 -fani 100
+cirg 2995
+cirg 2995 -fani 100
+cirg 2996
+cirg 2996 -fani 100
+cirg 2997
+cirg 2997 -fani 100
+cirg 2998
+cirg 2998 -fani 100
+cirg 2999
+cirg 2999 -fani 100
+cirg 3000
+cirg 3000 -fani 100
+cirg 3001
+cirg 3001 -fani 100
+cirg 3002
+cirg 3002 -fani 100
+cirg 3003
+cirg 3003 -fani 100
+cirg 3004
+cirg 3004 -fani 100
+cirg 3005
+cirg 3005 -fani 100
+cirg 3006
+cirg 3006 -fani 100
+cirg 3007
+cirg 3007 -fani 100
+cirg 3008
+cirg 3008 -fani 100
+cirg 3009
+cirg 3009 -fani 100
+cirg 3010
+cirg 3010 -fani 100
+cirg 3011
+cirg 3011 -fani 100
+cirg 3012
+cirg 3012 -fani 100
+cirg 3013
+cirg 3013 -fani 100
+cirg 3014
+cirg 3014 -fani 100
+cirg 3015
+cirg 3015 -fani 100
+cirg 3016
+cirg 3016 -fani 100
+cirg 3017
+cirg 3017 -fani 100
+cirg 3018
+cirg 3018 -fani 100
+cirg 3019
+cirg 3019 -fani 100
+cirg 3020
+cirg 3020 -fani 100
+cirg 3021
+cirg 3021 -fani 100
+cirg 3022
+cirg 3022 -fani 100
+cirg 3023
+cirg 3023 -fani 100
+cirg 3024
+cirg 3024 -fani 100
+cirg 3025
+cirg 3025 -fani 100
+cirg 3026
+cirg 3026 -fani 100
+cirg 3027
+cirg 3027 -fani 100
+cirg 3028
+cirg 3028 -fani 100
+cirg 3029
+cirg 3029 -fani 100
+cirg 3030
+cirg 3030 -fani 100
+cirg 3031
+cirg 3031 -fani 100
+cirg 3032
+cirg 3032 -fani 100
+cirg 3033
+cirg 3033 -fani 100
+cirg 3034
+cirg 3034 -fani 100
+cirg 3035
+cirg 3035 -fani 100
+cirg 3036
+cirg 3036 -fani 100
+cirg 3037
+cirg 3037 -fani 100
+cirg 3038
+cirg 3038 -fani 100
+cirg 3039
+cirg 3039 -fani 100
+cirg 3040
+cirg 3040 -fani 100
+cirg 3041
+cirg 3041 -fani 100
+cirg 3042
+cirg 3042 -fani 100
+cirg 3043
+cirg 3043 -fani 100
+cirg 3044
+cirg 3044 -fani 100
+cirg 3045
+cirg 3045 -fani 100
+cirg 3046
+cirg 3046 -fani 100
+cirg 3047
+cirg 3047 -fani 100
+cirg 3048
+cirg 3048 -fani 100
+cirg 3049
+cirg 3049 -fani 100
+cirg 3050
+cirg 3050 -fani 100
+cirg 3051
+cirg 3051 -fani 100
+cirg 3052
+cirg 3052 -fani 100
+cirg 3053
+cirg 3053 -fani 100
+cirg 3054
+cirg 3054 -fani 100
+cirg 3055
+cirg 3055 -fani 100
+cirg 3056
+cirg 3056 -fani 100
+cirg 3057
+cirg 3057 -fani 100
+cirg 3058
+cirg 3058 -fani 100
+cirg 3059
+cirg 3059 -fani 100
+cirg 3060
+cirg 3060 -fani 100
+cirg 3061
+cirg 3061 -fani 100
+cirg 3062
+cirg 3062 -fani 100
+cirg 3063
+cirg 3063 -fani 100
+cirg 3064
+cirg 3064 -fani 100
+cirg 3065
+cirg 3065 -fani 100
+cirg 3066
+cirg 3066 -fani 100
+cirg 3067
+cirg 3067 -fani 100
+cirg 3068
+cirg 3068 -fani 100
+cirg 3069
+cirg 3069 -fani 100
+cirg 3070
+cirg 3070 -fani 100
+cirg 3071
+cirg 3071 -fani 100
+cirg 3072
+cirg 3072 -fani 100
+cirg 3073
+cirg 3073 -fani 100
+cirg 3074
+cirg 3074 -fani 100
+cirg 3075
+cirg 3075 -fani 100
+cirg 3076
+cirg 3076 -fani 100
+cirg 3077
+cirg 3077 -fani 100
+cirg 3078
+cirg 3078 -fani 100
+cirg 3079
+cirg 3079 -fani 100
+cirg 3080
+cirg 3080 -fani 100
+cirg 3081
+cirg 3081 -fani 100
+cirg 3082
+cirg 3082 -fani 100
+cirg 3083
+cirg 3083 -fani 100
+cirg 3084
+cirg 3084 -fani 100
+cirg 3085
+cirg 3085 -fani 100
+cirg 3086
+cirg 3086 -fani 100
+cirg 3087
+cirg 3087 -fani 100
+cirg 3088
+cirg 3088 -fani 100
+cirg 3089
+cirg 3089 -fani 100
+cirg 3090
+cirg 3090 -fani 100
+cirg 3091
+cirg 3091 -fani 100
+cirg 3092
+cirg 3092 -fani 100
+cirg 3093
+cirg 3093 -fani 100
+cirg 3094
+cirg 3094 -fani 100
+cirg 3095
+cirg 3095 -fani 100
+cirg 3096
+cirg 3096 -fani 100
+cirg 3097
+cirg 3097 -fani 100
+cirg 3098
+cirg 3098 -fani 100
+cirg 3099
+cirg 3099 -fani 100
+cirg 3100
+cirg 3100 -fani 100
+cirg 3101
+cirg 3101 -fani 100
+cirg 3102
+cirg 3102 -fani 100
+cirg 3103
+cirg 3103 -fani 100
+cirg 3104
+cirg 3104 -fani 100
+cirg 3105
+cirg 3105 -fani 100
+cirg 3106
+cirg 3106 -fani 100
+cirg 3107
+cirg 3107 -fani 100
+cirg 3108
+cirg 3108 -fani 100
+cirg 3109
+cirg 3109 -fani 100
+cirg 3110
+cirg 3110 -fani 100
+cirg 3111
+cirg 3111 -fani 100
+cirg 3112
+cirg 3112 -fani 100
+cirg 3113
+cirg 3113 -fani 100
+cirg 3114
+cirg 3114 -fani 100
+cirg 3115
+cirg 3115 -fani 100
+cirg 3116
+cirg 3116 -fani 100
+cirg 3117
+cirg 3117 -fani 100
+cirg 3118
+cirg 3118 -fani 100
+cirg 3119
+cirg 3119 -fani 100
+cirg 3120
+cirg 3120 -fani 100
+cirg 3121
+cirg 3121 -fani 100
+cirg 3122
+cirg 3122 -fani 100
+cirg 3123
+cirg 3123 -fani 100
+cirg 3124
+cirg 3124 -fani 100
+cirg 3125
+cirg 3125 -fani 100
+cirg 3126
+cirg 3126 -fani 100
+cirg 3127
+cirg 3127 -fani 100
+cirg 3128
+cirg 3128 -fani 100
+cirg 3129
+cirg 3129 -fani 100
+cirg 3130
+cirg 3130 -fani 100
+cirg 3131
+cirg 3131 -fani 100
+cirg 3132
+cirg 3132 -fani 100
+cirg 3133
+cirg 3133 -fani 100
+cirg 3134
+cirg 3134 -fani 100
+cirg 3135
+cirg 3135 -fani 100
+cirg 3136
+cirg 3136 -fani 100
+cirg 3137
+cirg 3137 -fani 100
+cirg 3138
+cirg 3138 -fani 100
+cirg 3139
+cirg 3139 -fani 100
+cirg 3140
+cirg 3140 -fani 100
+cirg 3141
+cirg 3141 -fani 100
+cirg 3142
+cirg 3142 -fani 100
+cirg 3143
+cirg 3143 -fani 100
+cirg 3144
+cirg 3144 -fani 100
+cirg 3145
+cirg 3145 -fani 100
+cirg 3146
+cirg 3146 -fani 100
+cirg 3147
+cirg 3147 -fani 100
+cirg 3148
+cirg 3148 -fani 100
+cirg 3149
+cirg 3149 -fani 100
+cirg 3150
+cirg 3150 -fani 100
+cirg 3151
+cirg 3151 -fani 100
+cirg 3152
+cirg 3152 -fani 100
+cirg 3153
+cirg 3153 -fani 100
+cirg 3154
+cirg 3154 -fani 100
+cirg 3155
+cirg 3155 -fani 100
+cirg 3156
+cirg 3156 -fani 100
+cirg 3157
+cirg 3157 -fani 100
+cirg 3158
+cirg 3158 -fani 100
+cirg 3159
+cirg 3159 -fani 100
+cirg 3160
+cirg 3160 -fani 100
+cirg 3161
+cirg 3161 -fani 100
+cirg 3162
+cirg 3162 -fani 100
+cirg 3163
+cirg 3163 -fani 100
+cirg 3164
+cirg 3164 -fani 100
+cirg 3165
+cirg 3165 -fani 100
+cirg 3166
+cirg 3166 -fani 100
+cirg 3167
+cirg 3167 -fani 100
+cirg 3168
+cirg 3168 -fani 100
+cirg 3169
+cirg 3169 -fani 100
+cirg 3170
+cirg 3170 -fani 100
+cirg 3171
+cirg 3171 -fani 100
+cirg 3172
+cirg 3172 -fani 100
+cirg 3173
+cirg 3173 -fani 100
+cirg 3174
+cirg 3174 -fani 100
+cirg 3175
+cirg 3175 -fani 100
+cirg 3176
+cirg 3176 -fani 100
+cirg 3177
+cirg 3177 -fani 100
+cirg 3178
+cirg 3178 -fani 100
+cirg 3179
+cirg 3179 -fani 100
+cirg 3180
+cirg 3180 -fani 100
+cirg 3181
+cirg 3181 -fani 100
+cirg 3182
+cirg 3182 -fani 100
+cirg 3183
+cirg 3183 -fani 100
+cirg 3184
+cirg 3184 -fani 100
+cirg 3185
+cirg 3185 -fani 100
+cirg 3186
+cirg 3186 -fani 100
+cirg 3187
+cirg 3187 -fani 100
+cirg 3188
+cirg 3188 -fani 100
+cirg 3189
+cirg 3189 -fani 100
+cirg 3190
+cirg 3190 -fani 100
+cirg 3191
+cirg 3191 -fani 100
+cirg 3192
+cirg 3192 -fani 100
+cirg 3193
+cirg 3193 -fani 100
+cirg 3194
+cirg 3194 -fani 100
+cirg 3195
+cirg 3195 -fani 100
+cirg 3196
+cirg 3196 -fani 100
+cirg 3197
+cirg 3197 -fani 100
+cirg 3198
+cirg 3198 -fani 100
+cirg 3199
+cirg 3199 -fani 100
+cirg 3200
+cirg 3200 -fani 100
+cirg 3201
+cirg 3201 -fani 100
+cirg 3202
+cirg 3202 -fani 100
+cirg 3203
+cirg 3203 -fani 100
+cirg 3204
+cirg 3204 -fani 100
+cirg 3205
+cirg 3205 -fani 100
+cirg 3206
+cirg 3206 -fani 100
+cirg 3207
+cirg 3207 -fani 100
+cirg 3208
+cirg 3208 -fani 100
+cirg 3209
+cirg 3209 -fani 100
+cirg 3210
+cirg 3210 -fani 100
+cirg 3211
+cirg 3211 -fani 100
+cirg 3212
+cirg 3212 -fani 100
+cirg 3213
+cirg 3213 -fani 100
+cirg 3214
+cirg 3214 -fani 100
+cirg 3215
+cirg 3215 -fani 100
+cirg 3216
+cirg 3216 -fani 100
+cirg 3217
+cirg 3217 -fani 100
+cirg 3218
+cirg 3218 -fani 100
+cirg 3219
+cirg 3219 -fani 100
+cirg 3220
+cirg 3220 -fani 100
+cirg 3221
+cirg 3221 -fani 100
+cirg 3222
+cirg 3222 -fani 100
+cirg 3223
+cirg 3223 -fani 100
+cirg 3224
+cirg 3224 -fani 100
+cirg 3225
+cirg 3225 -fani 100
+cirg 3226
+cirg 3226 -fani 100
+cirg 3227
+cirg 3227 -fani 100
+cirg 3228
+cirg 3228 -fani 100
+cirg 3229
+cirg 3229 -fani 100
+cirg 3230
+cirg 3230 -fani 100
+cirg 3231
+cirg 3231 -fani 100
+cirg 3232
+cirg 3232 -fani 100
+cirg 3233
+cirg 3233 -fani 100
+cirg 3234
+cirg 3234 -fani 100
+cirg 3235
+cirg 3235 -fani 100
+cirg 3236
+cirg 3236 -fani 100
+cirg 3237
+cirg 3237 -fani 100
+cirg 3238
+cirg 3238 -fani 100
+cirg 3239
+cirg 3239 -fani 100
+cirg 3240
+cirg 3240 -fani 100
+cirg 3241
+cirg 3241 -fani 100
+cirg 3242
+cirg 3242 -fani 100
+cirg 3243
+cirg 3243 -fani 100
+cirg 3244
+cirg 3244 -fani 100
+cirg 3245
+cirg 3245 -fani 100
+cirg 3246
+cirg 3246 -fani 100
+cirg 3247
+cirg 3247 -fani 100
+cirg 3248
+cirg 3248 -fani 100
+cirg 3249
+cirg 3249 -fani 100
+cirg 3250
+cirg 3250 -fani 100
+cirg 3251
+cirg 3251 -fani 100
+cirg 3252
+cirg 3252 -fani 100
+cirg 3253
+cirg 3253 -fani 100
+cirg 3254
+cirg 3254 -fani 100
+cirg 3255
+cirg 3255 -fani 100
+cirg 3256
+cirg 3256 -fani 100
+cirg 3257
+cirg 3257 -fani 100
+cirg 3258
+cirg 3258 -fani 100
+cirg 3259
+cirg 3259 -fani 100
+cirg 3260
+cirg 3260 -fani 100
+cirg 3261
+cirg 3261 -fani 100
+cirg 3262
+cirg 3262 -fani 100
+cirg 3263
+cirg 3263 -fani 100
+cirg 3264
+cirg 3264 -fani 100
+cirg 3265
+cirg 3265 -fani 100
+cirg 3266
+cirg 3266 -fani 100
+cirg 3267
+cirg 3267 -fani 100
+cirg 3268
+cirg 3268 -fani 100
+cirg 3269
+cirg 3269 -fani 100
+cirg 3270
+cirg 3270 -fani 100
+cirg 3271
+cirg 3271 -fani 100
+cirg 3272
+cirg 3272 -fani 100
+cirg 3273
+cirg 3273 -fani 100
+cirg 3274
+cirg 3274 -fani 100
+cirg 3275
+cirg 3275 -fani 100
+cirg 3276
+cirg 3276 -fani 100
+cirg 3277
+cirg 3277 -fani 100
+cirg 3278
+cirg 3278 -fani 100
+cirg 3279
+cirg 3279 -fani 100
+cirg 3280
+cirg 3280 -fani 100
+cirg 3281
+cirg 3281 -fani 100
+cirg 3282
+cirg 3282 -fani 100
+cirg 3283
+cirg 3283 -fani 100
+cirg 3284
+cirg 3284 -fani 100
+cirg 3285
+cirg 3285 -fani 100
+cirg 3286
+cirg 3286 -fani 100
+cirg 3287
+cirg 3287 -fani 100
+cirg 3288
+cirg 3288 -fani 100
+cirg 3289
+cirg 3289 -fani 100
+cirg 3290
+cirg 3290 -fani 100
+cirg 3291
+cirg 3291 -fani 100
+cirg 3292
+cirg 3292 -fani 100
+cirg 3293
+cirg 3293 -fani 100
+cirg 3294
+cirg 3294 -fani 100
+cirg 3295
+cirg 3295 -fani 100
+cirg 3296
+cirg 3296 -fani 100
+cirg 3297
+cirg 3297 -fani 100
+cirg 3298
+cirg 3298 -fani 100
+cirg 3299
+cirg 3299 -fani 100
+cirg 3300
+cirg 3300 -fani 100
+cirg 3301
+cirg 3301 -fani 100
+cirg 3302
+cirg 3302 -fani 100
+cirg 3303
+cirg 3303 -fani 100
+cirg 3304
+cirg 3304 -fani 100
+cirg 3305
+cirg 3305 -fani 100
+cirg 3306
+cirg 3306 -fani 100
+cirg 3307
+cirg 3307 -fani 100
+cirg 3308
+cirg 3308 -fani 100
+cirg 3309
+cirg 3309 -fani 100
+cirg 3310
+cirg 3310 -fani 100
+cirg 3311
+cirg 3311 -fani 100
+cirg 3312
+cirg 3312 -fani 100
+cirg 3313
+cirg 3313 -fani 100
+cirg 3314
+cirg 3314 -fani 100
+cirg 3315
+cirg 3315 -fani 100
+cirg 3316
+cirg 3316 -fani 100
+cirg 3317
+cirg 3317 -fani 100
+cirg 3318
+cirg 3318 -fani 100
+cirg 3319
+cirg 3319 -fani 100
+cirg 3320
+cirg 3320 -fani 100
+cirg 3321
+cirg 3321 -fani 100
+cirg 3322
+cirg 3322 -fani 100
+cirg 3323
+cirg 3323 -fani 100
+cirg 3324
+cirg 3324 -fani 100
+cirg 3325
+cirg 3325 -fani 100
+cirg 3326
+cirg 3326 -fani 100
+cirg 3327
+cirg 3327 -fani 100
+cirg 3328
+cirg 3328 -fani 100
+cirg 3329
+cirg 3329 -fani 100
+cirg 3330
+cirg 3330 -fani 100
+cirg 3331
+cirg 3331 -fani 100
+cirg 3332
+cirg 3332 -fani 100
+cirg 3333
+cirg 3333 -fani 100
+cirg 3334
+cirg 3334 -fani 100
+cirg 3335
+cirg 3335 -fani 100
+cirg 3336
+cirg 3336 -fani 100
+cirg 3337
+cirg 3337 -fani 100
+cirg 3338
+cirg 3338 -fani 100
+cirg 3339
+cirg 3339 -fani 100
+cirg 3340
+cirg 3340 -fani 100
+cirg 3341
+cirg 3341 -fani 100
+cirg 3342
+cirg 3342 -fani 100
+cirg 3343
+cirg 3343 -fani 100
+cirg 3344
+cirg 3344 -fani 100
+cirg 3345
+cirg 3345 -fani 100
+cirg 3346
+cirg 3346 -fani 100
+cirg 3347
+cirg 3347 -fani 100
+cirg 3348
+cirg 3348 -fani 100
+cirg 3349
+cirg 3349 -fani 100
+cirg 3350
+cirg 3350 -fani 100
+cirg 3351
+cirg 3351 -fani 100
+cirg 3352
+cirg 3352 -fani 100
+cirg 3353
+cirg 3353 -fani 100
+cirg 3354
+cirg 3354 -fani 100
+cirg 3355
+cirg 3355 -fani 100
+cirg 3356
+cirg 3356 -fani 100
+cirg 3357
+cirg 3357 -fani 100
+cirg 3358
+cirg 3358 -fani 100
+cirg 3359
+cirg 3359 -fani 100
+cirg 3360
+cirg 3360 -fani 100
+cirg 3361
+cirg 3361 -fani 100
+cirg 3362
+cirg 3362 -fani 100
+cirg 3363
+cirg 3363 -fani 100
+cirg 3364
+cirg 3364 -fani 100
+cirg 3365
+cirg 3365 -fani 100
+cirg 3366
+cirg 3366 -fani 100
+cirg 3367
+cirg 3367 -fani 100
+cirg 3368
+cirg 3368 -fani 100
+cirg 3369
+cirg 3369 -fani 100
+cirg 3370
+cirg 3370 -fani 100
+cirg 3371
+cirg 3371 -fani 100
+cirg 3372
+cirg 3372 -fani 100
+cirg 3373
+cirg 3373 -fani 100
+cirg 3374
+cirg 3374 -fani 100
+cirg 3375
+cirg 3375 -fani 100
+cirg 3376
+cirg 3376 -fani 100
+cirg 3377
+cirg 3377 -fani 100
+cirg 3378
+cirg 3378 -fani 100
+cirg 3379
+cirg 3379 -fani 100
+cirg 3380
+cirg 3380 -fani 100
+cirg 3381
+cirg 3381 -fani 100
+cirg 3382
+cirg 3382 -fani 100
+cirg 3383
+cirg 3383 -fani 100
+cirg 3384
+cirg 3384 -fani 100
+cirg 3385
+cirg 3385 -fani 100
+cirg 3386
+cirg 3386 -fani 100
+cirg 3387
+cirg 3387 -fani 100
+cirg 3388
+cirg 3388 -fani 100
+cirg 3389
+cirg 3389 -fani 100
+cirg 3390
+cirg 3390 -fani 100
+cirg 3391
+cirg 3391 -fani 100
+cirg 3392
+cirg 3392 -fani 100
+cirg 3393
+cirg 3393 -fani 100
+cirg 3394
+cirg 3394 -fani 100
+cirg 3395
+cirg 3395 -fani 100
+cirg 3396
+cirg 3396 -fani 100
+cirg 3397
+cirg 3397 -fani 100
+cirg 3398
+cirg 3398 -fani 100
+cirg 3399
+cirg 3399 -fani 100
+cirg 3400
+cirg 3400 -fani 100
+cirg 3401
+cirg 3401 -fani 100
+cirg 3402
+cirg 3402 -fani 100
+cirg 3403
+cirg 3403 -fani 100
+cirg 3404
+cirg 3404 -fani 100
+cirg 3405
+cirg 3405 -fani 100
+cirg 3406
+cirg 3406 -fani 100
+cirg 3407
+cirg 3407 -fani 100
+cirg 3408
+cirg 3408 -fani 100
+cirg 3409
+cirg 3409 -fani 100
+cirg 3410
+cirg 3410 -fani 100
+cirg 3411
+cirg 3411 -fani 100
+cirg 3412
+cirg 3412 -fani 100
+cirg 3413
+cirg 3413 -fani 100
+cirg 3414
+cirg 3414 -fani 100
+cirg 3415
+cirg 3415 -fani 100
+cirg 3416
+cirg 3416 -fani 100
+cirg 3417
+cirg 3417 -fani 100
+cirg 3418
+cirg 3418 -fani 100
+cirg 3419
+cirg 3419 -fani 100
+cirg 3420
+cirg 3420 -fani 100
+cirg 3421
+cirg 3421 -fani 100
+cirg 3422
+cirg 3422 -fani 100
+cirg 3423
+cirg 3423 -fani 100
+cirg 3424
+cirg 3424 -fani 100
+cirg 3425
+cirg 3425 -fani 100
+cirg 3426
+cirg 3426 -fani 100
+cirg 3427
+cirg 3427 -fani 100
+cirg 3428
+cirg 3428 -fani 100
+cirg 3429
+cirg 3429 -fani 100
+cirg 3430
+cirg 3430 -fani 100
+cirg 3431
+cirg 3431 -fani 100
+cirg 3432
+cirg 3432 -fani 100
+cirg 3433
+cirg 3433 -fani 100
+cirg 3434
+cirg 3434 -fani 100
+cirg 3435
+cirg 3435 -fani 100
+cirg 3436
+cirg 3436 -fani 100
+cirg 3437
+cirg 3437 -fani 100
+cirg 3438
+cirg 3438 -fani 100
+cirg 3439
+cirg 3439 -fani 100
+cirg 3440
+cirg 3440 -fani 100
+cirg 3441
+cirg 3441 -fani 100
+cirg 3442
+cirg 3442 -fani 100
+cirg 3443
+cirg 3443 -fani 100
+cirg 3444
+cirg 3444 -fani 100
+cirg 3445
+cirg 3445 -fani 100
+cirg 3446
+cirg 3446 -fani 100
+cirg 3447
+cirg 3447 -fani 100
+cirg 3448
+cirg 3448 -fani 100
+cirg 3449
+cirg 3449 -fani 100
+cirg 3450
+cirg 3450 -fani 100
+cirg 3451
+cirg 3451 -fani 100
+cirg 3452
+cirg 3452 -fani 100
+cirg 3453
+cirg 3453 -fani 100
+cirg 3454
+cirg 3454 -fani 100
+cirg 3455
+cirg 3455 -fani 100
+cirg 3456
+cirg 3456 -fani 100
+cirg 3457
+cirg 3457 -fani 100
+cirg 3458
+cirg 3458 -fani 100
+cirg 3459
+cirg 3459 -fani 100
+cirg 3460
+cirg 3460 -fani 100
+cirg 3461
+cirg 3461 -fani 100
+cirg 3462
+cirg 3462 -fani 100
+cirg 3463
+cirg 3463 -fani 100
+cirg 3464
+cirg 3464 -fani 100
+cirg 3465
+cirg 3465 -fani 100
+cirg 3466
+cirg 3466 -fani 100
+cirg 3467
+cirg 3467 -fani 100
+cirg 3468
+cirg 3468 -fani 100
+cirg 3469
+cirg 3469 -fani 100
+cirg 3470
+cirg 3470 -fani 100
+cirg 3471
+cirg 3471 -fani 100
+cirg 3472
+cirg 3472 -fani 100
+cirg 3473
+cirg 3473 -fani 100
+cirg 3474
+cirg 3474 -fani 100
+cirg 3475
+cirg 3475 -fani 100
+cirg 3476
+cirg 3476 -fani 100
+cirg 3477
+cirg 3477 -fani 100
+cirg 3478
+cirg 3478 -fani 100
+cirg 3479
+cirg 3479 -fani 100
+cirg 3480
+cirg 3480 -fani 100
+cirg 3481
+cirg 3481 -fani 100
+cirg 3482
+cirg 3482 -fani 100
+cirg 3483
+cirg 3483 -fani 100
+cirg 3484
+cirg 3484 -fani 100
+cirg 3485
+cirg 3485 -fani 100
+cirg 3486
+cirg 3486 -fani 100
+cirg 3487
+cirg 3487 -fani 100
+cirg 3488
+cirg 3488 -fani 100
+cirg 3489
+cirg 3489 -fani 100
+cirg 3490
+cirg 3490 -fani 100
+cirg 3491
+cirg 3491 -fani 100
+cirg 3492
+cirg 3492 -fani 100
+cirg 3493
+cirg 3493 -fani 100
+cirg 3494
+cirg 3494 -fani 100
+cirg 3495
+cirg 3495 -fani 100
+cirg 3496
+cirg 3496 -fani 100
+cirg 3497
+cirg 3497 -fani 100
+cirg 3498
+cirg 3498 -fani 100
+cirg 3499
+cirg 3499 -fani 100
+cirg 3500
+cirg 3500 -fani 100
+cirg 3501
+cirg 3501 -fani 100
+cirg 3502
+cirg 3502 -fani 100
+cirg 3503
+cirg 3503 -fani 100
+cirg 3504
+cirg 3504 -fani 100
+cirg 3505
+cirg 3505 -fani 100
+cirg 3506
+cirg 3506 -fani 100
+cirg 3507
+cirg 3507 -fani 100
+cirg 3508
+cirg 3508 -fani 100
+cirg 3509
+cirg 3509 -fani 100
+cirg 3510
+cirg 3510 -fani 100
+cirg 3511
+cirg 3511 -fani 100
+cirg 3512
+cirg 3512 -fani 100
+cirg 3513
+cirg 3513 -fani 100
+cirg 3514
+cirg 3514 -fani 100
+cirg 3515
+cirg 3515 -fani 100
+cirg 3516
+cirg 3516 -fani 100
+cirg 3517
+cirg 3517 -fani 100
+cirg 3518
+cirg 3518 -fani 100
+cirg 3519
+cirg 3519 -fani 100
+cirg 3520
+cirg 3520 -fani 100
+cirg 3521
+cirg 3521 -fani 100
+cirg 3522
+cirg 3522 -fani 100
+cirg 3523
+cirg 3523 -fani 100
+cirg 3524
+cirg 3524 -fani 100
+cirg 3525
+cirg 3525 -fani 100
+cirg 3526
+cirg 3526 -fani 100
+cirg 3527
+cirg 3527 -fani 100
+cirg 3528
+cirg 3528 -fani 100
+cirg 3529
+cirg 3529 -fani 100
+cirg 3530
+cirg 3530 -fani 100
+cirg 3531
+cirg 3531 -fani 100
+cirg 3532
+cirg 3532 -fani 100
+cirg 3533
+cirg 3533 -fani 100
+cirg 3534
+cirg 3534 -fani 100
+cirg 3535
+cirg 3535 -fani 100
+cirg 3536
+cirg 3536 -fani 100
+cirg 3537
+cirg 3537 -fani 100
+cirg 3538
+cirg 3538 -fani 100
+cirg 3539
+cirg 3539 -fani 100
+cirg 3540
+cirg 3540 -fani 100
+cirg 3541
+cirg 3541 -fani 100
+cirg 3542
+cirg 3542 -fani 100
+cirg 3543
+cirg 3543 -fani 100
+cirg 3544
+cirg 3544 -fani 100
+cirg 3545
+cirg 3545 -fani 100
+cirg 3546
+cirg 3546 -fani 100
+cirg 3547
+cirg 3547 -fani 100
+cirg 3548
+cirg 3548 -fani 100
+cirg 3549
+cirg 3549 -fani 100
+cirg 3550
+cirg 3550 -fani 100
+cirg 3551
+cirg 3551 -fani 100
+cirg 3552
+cirg 3552 -fani 100
+cirg 3553
+cirg 3553 -fani 100
+cirg 3554
+cirg 3554 -fani 100
+cirg 3555
+cirg 3555 -fani 100
+cirg 3556
+cirg 3556 -fani 100
+cirg 3557
+cirg 3557 -fani 100
+cirg 3558
+cirg 3558 -fani 100
+cirg 3559
+cirg 3559 -fani 100
+cirg 3560
+cirg 3560 -fani 100
+cirg 3561
+cirg 3561 -fani 100
+cirg 3562
+cirg 3562 -fani 100
+cirg 3563
+cirg 3563 -fani 100
+cirg 3564
+cirg 3564 -fani 100
+cirg 3565
+cirg 3565 -fani 100
+cirg 3566
+cirg 3566 -fani 100
+cirg 3567
+cirg 3567 -fani 100
+cirg 3568
+cirg 3568 -fani 100
+cirg 3569
+cirg 3569 -fani 100
+cirg 3570
+cirg 3570 -fani 100
+cirg 3571
+cirg 3571 -fani 100
+cirg 3572
+cirg 3572 -fani 100
+cirg 3573
+cirg 3573 -fani 100
+cirg 3574
+cirg 3574 -fani 100
+cirg 3575
+cirg 3575 -fani 100
+cirg 3576
+cirg 3576 -fani 100
+cirg 3577
+cirg 3577 -fani 100
+cirg 3578
+cirg 3578 -fani 100
+cirg 3579
+cirg 3579 -fani 100
+cirg 3580
+cirg 3580 -fani 100
+cirg 3581
+cirg 3581 -fani 100
+cirg 3582
+cirg 3582 -fani 100
+cirg 3583
+cirg 3583 -fani 100
+cirg 3584
+cirg 3584 -fani 100
+cirg 3585
+cirg 3585 -fani 100
+cirg 3586
+cirg 3586 -fani 100
+cirg 3587
+cirg 3587 -fani 100
+cirg 3588
+cirg 3588 -fani 100
+cirg 3589
+cirg 3589 -fani 100
+cirg 3590
+cirg 3590 -fani 100
+cirg 3591
+cirg 3591 -fani 100
+cirg 3592
+cirg 3592 -fani 100
+cirg 3593
+cirg 3593 -fani 100
+cirg 3594
+cirg 3594 -fani 100
+cirg 3595
+cirg 3595 -fani 100
+cirg 3596
+cirg 3596 -fani 100
+cirg 3597
+cirg 3597 -fani 100
+cirg 3598
+cirg 3598 -fani 100
+cirg 3599
+cirg 3599 -fani 100
+cirg 3600
+cirg 3600 -fani 100
+cirg 3601
+cirg 3601 -fani 100
+cirg 3602
+cirg 3602 -fani 100
+cirg 3603
+cirg 3603 -fani 100
+cirg 3604
+cirg 3604 -fani 100
+cirg 3605
+cirg 3605 -fani 100
+cirg 3606
+cirg 3606 -fani 100
+cirg 3607
+cirg 3607 -fani 100
+cirg 3608
+cirg 3608 -fani 100
+cirg 3609
+cirg 3609 -fani 100
+cirg 3610
+cirg 3610 -fani 100
+cirg 3611
+cirg 3611 -fani 100
+cirg 3612
+cirg 3612 -fani 100
+cirg 3613
+cirg 3613 -fani 100
+cirg 3614
+cirg 3614 -fani 100
+cirg 3615
+cirg 3615 -fani 100
+cirg 3616
+cirg 3616 -fani 100
+cirg 3617
+cirg 3617 -fani 100
+cirg 3618
+cirg 3618 -fani 100
+cirg 3619
+cirg 3619 -fani 100
+cirg 3620
+cirg 3620 -fani 100
+cirg 3621
+cirg 3621 -fani 100
+cirg 3622
+cirg 3622 -fani 100
+cirg 3623
+cirg 3623 -fani 100
+cirg 3624
+cirg 3624 -fani 100
+cirg 3625
+cirg 3625 -fani 100
+cirg 3626
+cirg 3626 -fani 100
+cirg 3627
+cirg 3627 -fani 100
+cirg 3628
+cirg 3628 -fani 100
+cirg 3629
+cirg 3629 -fani 100
+cirg 3630
+cirg 3630 -fani 100
+cirg 3631
+cirg 3631 -fani 100
+cirg 3632
+cirg 3632 -fani 100
+cirg 3633
+cirg 3633 -fani 100
+cirg 3634
+cirg 3634 -fani 100
+cirg 3635
+cirg 3635 -fani 100
+cirg 3636
+cirg 3636 -fani 100
+cirg 3637
+cirg 3637 -fani 100
+cirg 3638
+cirg 3638 -fani 100
+cirg 3639
+cirg 3639 -fani 100
+cirg 3640
+cirg 3640 -fani 100
+cirg 3641
+cirg 3641 -fani 100
+cirg 3642
+cirg 3642 -fani 100
+cirg 3643
+cirg 3643 -fani 100
+cirg 3644
+cirg 3644 -fani 100
+cirg 3645
+cirg 3645 -fani 100
+cirg 3646
+cirg 3646 -fani 100
+cirg 3647
+cirg 3647 -fani 100
+cirg 3648
+cirg 3648 -fani 100
+cirg 3649
+cirg 3649 -fani 100
+cirg 3650
+cirg 3650 -fani 100
+cirg 3651
+cirg 3651 -fani 100
+cirg 3652
+cirg 3652 -fani 100
+cirg 3653
+cirg 3653 -fani 100
+cirg 3654
+cirg 3654 -fani 100
+cirg 3655
+cirg 3655 -fani 100
+cirg 3656
+cirg 3656 -fani 100
+cirg 3657
+cirg 3657 -fani 100
+cirg 3658
+cirg 3658 -fani 100
+cirg 3659
+cirg 3659 -fani 100
+cirg 3660
+cirg 3660 -fani 100
+cirg 3661
+cirg 3661 -fani 100
+cirg 3662
+cirg 3662 -fani 100
+cirg 3663
+cirg 3663 -fani 100
+cirg 3664
+cirg 3664 -fani 100
+cirg 3665
+cirg 3665 -fani 100
+cirg 3666
+cirg 3666 -fani 100
+cirg 3667
+cirg 3667 -fani 100
+cirg 3668
+cirg 3668 -fani 100
+cirg 3669
+cirg 3669 -fani 100
+cirg 3670
+cirg 3670 -fani 100
+cirg 3671
+cirg 3671 -fani 100
+cirg 3672
+cirg 3672 -fani 100
+cirg 3673
+cirg 3673 -fani 100
+cirg 3674
+cirg 3674 -fani 100
+cirg 3675
+cirg 3675 -fani 100
+cirg 3676
+cirg 3676 -fani 100
+cirg 3677
+cirg 3677 -fani 100
+cirg 3678
+cirg 3678 -fani 100
+cirg 3679
+cirg 3679 -fani 100
+cirg 3680
+cirg 3680 -fani 100
+cirg 3681
+cirg 3681 -fani 100
+cirg 3682
+cirg 3682 -fani 100
+cirg 3683
+cirg 3683 -fani 100
+cirg 3684
+cirg 3684 -fani 100
+cirg 3685
+cirg 3685 -fani 100
+cirg 3686
+cirg 3686 -fani 100
+cirg 3687
+cirg 3687 -fani 100
+cirg 3688
+cirg 3688 -fani 100
+cirg 3689
+cirg 3689 -fani 100
+cirg 3690
+cirg 3690 -fani 100
+cirg 3691
+cirg 3691 -fani 100
+cirg 3692
+cirg 3692 -fani 100
+cirg 3693
+cirg 3693 -fani 100
+cirg 3694
+cirg 3694 -fani 100
+cirg 3695
+cirg 3695 -fani 100
+cirg 3696
+cirg 3696 -fani 100
+cirg 3697
+cirg 3697 -fani 100
+cirg 3698
+cirg 3698 -fani 100
+cirg 3699
+cirg 3699 -fani 100
+cirg 3700
+cirg 3700 -fani 100
+cirg 3701
+cirg 3701 -fani 100
+cirg 3702
+cirg 3702 -fani 100
+cirg 3703
+cirg 3703 -fani 100
+cirg 3704
+cirg 3704 -fani 100
+cirg 3705
+cirg 3705 -fani 100
+cirg 3706
+cirg 3706 -fani 100
+cirg 3707
+cirg 3707 -fani 100
+cirg 3708
+cirg 3708 -fani 100
+cirg 3709
+cirg 3709 -fani 100
+cirg 3710
+cirg 3710 -fani 100
+cirg 3711
+cirg 3711 -fani 100
+cirw
+cirr -r tests.fraig/test2.aag
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirg 0
+cirg 0 -fani 100
+cirg 1
+cirg 1 -fani 100
+cirg 2
+cirg 2 -fani 100
+cirg 3
+cirg 3 -fani 100
+cirg 4
+cirg 4 -fani 100
+cirg 5
+cirg 5 -fani 100
+cirg 6
+cirg 6 -fani 100
+cirg 7
+cirg 7 -fani 100
+cirg 8
+cirg 8 -fani 100
+cirg 9
+cirg 9 -fani 100
+cirg 10
+cirg 10 -fani 100
+cirg 11
+cirg 11 -fani 100
+cirg 12
+cirg 12 -fani 100
+cirg 13
+cirg 13 -fani 100
+cirg 14
+cirg 14 -fani 100
+cirg 15
+cirg 15 -fani 100
+cirg 16
+cirg 16 -fani 100
+cirg 17
+cirg 17 -fani 100
+cirg 18
+cirg 18 -fani 100
+cirg 19
+cirg 19 -fani 100
+cirw
+q -f

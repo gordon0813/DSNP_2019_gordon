@@ -1,0 +1,114 @@
+taski 1000
+taskn -r 1000
+taskn -n gordon 1387
+taskn -n gordon 1387
+taskn -n gordon1 1387
+taskn -n gordon2 1388
+taskq -hash
+taskq -heap
+taska 100
+taskq -hash
+taska 1000
+taskq gordon
+taskq min
+taskq gordon3
+taskq -heap
+taska 1000 -r 1000
+taskq -hash
+taskq -heap
+taskr -n gordon2
+taskr -r 500
+taskr -n gordon
+taskq gordon
+taskq -heap
+taskq -hash
+taskr -r 510
+taskq -heap
+taskq -hash
+taski 20
+taski 1000
+taskn -r 1000
+taskn -n gordon 1387
+taskn -n gordon 1387
+taskn -n gordon1 1387
+taskn -n gordon2 1388
+taskq -hash
+taskq -heap
+taska 100
+taskq -hash
+taska 1000
+taskq gordon
+taskq min
+taskq gordon3
+taskq -heap
+taska 1000 -r 1000
+taskq -hash
+taskq -heap
+taskr -n gordon2
+taskr -r 500
+taskr -n gordon
+taskq gordon
+taskq -heap
+taskq -hash
+taskr -r 510
+taskq -heap
+taskq -hash
+taski 1000
+taskn -r 1000
+taskn -n gordon 1387
+taskn -n gordon 1387
+taskn -n gordon1 1387
+taskn -n gordon2 1388
+taskq -hash
+taskq -heap
+taska 100
+taskq -hash
+taska 1000
+taskq gordon
+taskq min
+taskq gordon3
+taskq -heap
+taska 1000 -r 1000
+taskq -hash
+taskq -heap
+taskr -n gordon2
+taskr -r 500
+taskr -n gordon
+taskq gordon
+taskq -heap
+taskq -hash
+taskr -r 510
+taskq -heap
+taskq -hash
+taski 20
+taski 10
+taskn -r 1000
+taskn -n gordon 1387
+taskn -n gordon 1387
+taskn -n gordon1 1387
+taskn -n gordon2 1388
+taskq -hash
+taskq -heap
+taska 100
+taskq -hash
+taska 1000
+taskq gordon
+taskq min
+taskq gordon3
+taskq -heap
+taska 1000 -r 1000
+taskq -hash
+taskq -heap
+taskr -n gordon2
+taskr -r 500
+taskr -n gordon
+taskq gordon
+taskq -heap
+taskq -hash
+taskr -r 510
+taskq -heap
+taskq -hash
+usage
+usage
+q -f
+

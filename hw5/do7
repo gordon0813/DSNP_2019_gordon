@@ -1,0 +1,78 @@
+adta -r 1000000
+usage
+adtq aad
+adtq sad
+adtq aad
+adtq fad
+adtq sed
+adtq had
+adtq sad
+adtq kad
+adtq shd
+adtq had
+adtq sad
+usage
+adtd -a
+adta -r 2000000
+usage
+adtq aad
+adtq sad
+adtq aad
+adtq fad
+adtq sed
+adtq had
+adtq sad
+adtq kad
+adtq shd
+adtq had
+adtq sad
+usage
+adtd -a
+adta -r 3000000
+usage
+adtq aad
+adtq sad
+adtq aad
+adtq fad
+adtq sed
+adtq had
+adtq sad
+adtq kad
+adtq shd
+adtq had
+adtq sad
+usage
+adtd -a
+adta -r 4000000
+usage
+adtq aad
+adtq sad
+adtq aad
+adtq fad
+adtq sed
+adtq had
+adtq sad
+adtq kad
+adtq shd
+adtq had
+adtq sad
+usage
+adtd -a
+adta -r 5000000
+usage
+adtq aad
+adtq sad
+adtq aad
+adtq fad
+adtq sed
+adtq had
+adtq sad
+adtq kad
+adtq shd
+adtq had
+adtq sad
+usage
+adtd -a
+q -f
+adtd -r 10000
+usage
