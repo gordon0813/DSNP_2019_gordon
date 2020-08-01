@@ -1,4 +1,4 @@
-# DSNP_2019_gordon
+# DSNP_2019_gordon  (ntu ee)
 ## all homeworks and final project (fraig top 10)
 ### hw4 :memory management
 ### hw5 :circuit handling (DFS,BFS)
